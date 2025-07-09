@@ -1,12 +1,21 @@
 # Part II: A Theory of the Case
 
+*Detective Sarah Chen sat in her office at 3 AM, surrounded by evidence boards, genetic charts, and archaeological photos. For months, she'd been following the clues, building the case piece by piece. The genetic bottlenecks, the impossible structures, the systematic population replacements, the consciousness anomalies—they all pointed to the same conclusion.*
+
+*But she'd been afraid to say it out loud. It sounded too incredible, too much like science fiction. Yet the evidence was undeniable.*
+
+*She picked up her phone and called her partner. "I know who did it," she said quietly. "I know who's been running the human experiment."*
+
+---
+
 *"When you have eliminated the impossible, whatever remains, however improbable, must be the truth."* - Arthur Conan Doyle
 
-We have gathered the evidence. The clues are on the table, and they paint a deeply unsettling picture.
+We have gathered the evidence. The clues are on the table, and they paint a deeply unsettling picture:
 
 *   **The Genetic Clues:** Our DNA tells a story of near-extinction, impossible population replacements, and sudden, accelerated evolution that defy simple natural selection.
 *   **The Archaeological Clues:** Our planet is littered with impossible structures, built with a precision and technology that should not have existed, all connected by a strange, global pattern.
 *   **The Cognitive Clues:** Our minds seem to run on a binary operating system of conflict, and we are driven by deeply ingrained instincts to worship, obey, and sacrifice to unseen forces.
+*   **The Infrastructure Clues:** Stone circles and megalithic sites that function as consciousness technologies, designed to interface with human awareness.
 
 Conventional history fails to explain these clues. Each one is an anomaly, an outlier, a piece that doesn't fit the puzzle. But what if they are not separate puzzles? What if they are all pieces of one, much larger puzzle?
 
