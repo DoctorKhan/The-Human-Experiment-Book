@@ -99,6 +99,12 @@ The Apkallu represent those who maintained some connection to the Tree of Life p
 - *Synthesis Ability*: Combining insights from multiple fields, creating new solutions from diverse sources
 - *Big Picture Perspective*: Understanding long-term consequences, seeing beyond immediate circumstances
 
+**Healing Abilities**: Direct interface with life force energy and biological systems through Tree of Life programming.
+- *Energy Healing*: Ability to sense and direct life force energy to support natural healing processes
+- *Diagnostic Scanning*: Detecting illness, blockages, and imbalances through energetic sensing before physical symptoms appear
+- *Emotional Healing*: Sensing and helping to release emotional trauma stored in the body's energy field
+- *Plant and Animal Healing*: Extending healing abilities to other living systems, supporting their natural recovery processes
+
 **Spiritual Connection**: Direct access to cosmic intelligence and authentic spiritual experience.
 - *Mystical Experiences*: Spontaneous states of unity consciousness, feeling connected to all life
 - *Divine Guidance*: Receiving insights through meditation, prayer, or contemplation
