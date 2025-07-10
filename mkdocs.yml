@@ -1,0 +1,89 @@
+site_name: The Human Experiment
+site_description: A deep dive into the human condition and social dynamics.
+site_author: Rez Khan
+site_url: https://universalbookcompiler.com/30_The_Human_Experiment/
+site_dir: ../site_build
+docs_dir: docs
+nav:
+- index.md
+- The Human Experiment: the-human-experiment.md
+- 'Part 1: The Anomalies':
+  - part-1-the-anomalies.md
+  - chapter-1-the-impossible-species.md
+  - chapter-2-the-genetic-fingerprints.md
+  - chapter-3-a-planet-of-impossible-structures.md
+  - chapter-4-the-binary-language-of-control.md
+  - chapter-5-the-stonehenge-enigma.md
+  - chapter-6-the-divine-instruction-manuals.md
+  - chapter-7-the-two-great-resets.md
+- 'Part 2: A Theory of the Case':
+  - part-2-a-theory-of-the-case.md
+  - chapter-8-myth-as-memory.md
+  - chapter-9-perseus-and-the-mirror-shield-the-technology-of-indirect-seeing.md
+  - chapter-10-the-intervention-hypothesis.md
+  - chapter-11-the-agricultural-catastrophe.md
+  - chapter-12-the-wisdom-keepers.md
+  - chapter-13-the-two-generations.md
+  - chapter-14-the-great-divergence-two-paths-of-human-evolution.md
+  - chapter-15-practices-for-liberation.md
+  - chapter-16-the-choice-point.md
+  - chapter-17-conclusion-the-future-of-the-experiment.md
+  - appendix-a-the-complete-timeline-of-human-intervention.md
+  - glossary-of-terms.md
+- Downloads: downloads/index.md
+theme:
+  name: material
+  palette:
+  - scheme: default
+    primary: deep purple
+    accent: purple
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - scheme: slate
+    primary: deep purple
+    accent: purple
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+  features:
+  - navigation.tabs
+  - navigation.sections
+  - navigation.expand
+  - navigation.top
+  - navigation.footer
+  - search.highlight
+  - search.share
+  - content.code.copy
+  - content.action.edit
+  - content.action.view
+  - content.tabs.link
+  font:
+    text: Inter
+    code: Fira Code
+plugins:
+- search
+markdown_extensions:
+- pymdownx.highlight
+- pymdownx.superfences
+- pymdownx.tabbed
+- pymdownx.details
+- pymdownx.critic
+- pymdownx.caret
+- pymdownx.keys
+- pymdownx.mark
+- pymdownx.tilde
+- admonition
+- codehilite
+- toc
+- tables
+- footnotes
+- attr_list
+- md_in_html
+extra_css:
+- stylesheets/custom.css
+extra:
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/DoctorKhan/Universal-Book-Compiler
+copyright: Copyright &copy; 2025 Rez Khan
