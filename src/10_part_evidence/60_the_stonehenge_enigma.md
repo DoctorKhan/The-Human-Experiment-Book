@@ -16,9 +16,19 @@ The disappearance of the Stonehenge builders is not just a historical curiosity;
 
 As we continue our investigation, we must hold this question in our minds: What could cause a people who built one of the world's greatest ancient wonders to vanish from their own land?
 
-But Stonehenge may hold more secrets than just the mystery of its vanished builders. Recent research suggests the stone circle was more than a monument—it was a sophisticated consciousness technology, designed to interface with human awareness in ways we're only beginning to understand.
+## The Transport Mystery: Why Such Extraordinary Effort?
 
-*Dr. Elena Vasquez placed her hand on the ancient sarsen stone and felt it immediately—a subtle vibration, a frequency that seemed to resonate with something deep in her nervous system. The electromagnetic readings were off the charts. These weren't just stones. They were components in a vast machine whose purpose had been forgotten.*
+**The most compelling evidence isn't the precision of Stonehenge—it's the inexplicable effort invested in its construction.** The massive sarsen stones were quarried locally, but the smaller bluestones tell a different story entirely.
+
+**These 82 bluestones were transported over 150 miles from the Preseli Hills in Wales.** Each stone weighs between 2-5 tons. The journey would have required crossing rivers, mountains, and treacherous terrain. Using the technology available to Neolithic peoples—wooden rollers, ropes, and human labor—this transport would have taken months or even years.
+
+**But here's the real mystery: Why?** Local stones were abundant on Salisbury Plain. The builders had already demonstrated they could work with massive sarsen stones quarried nearby. What could possibly motivate them to undertake such an extraordinary effort to transport specific stones from Wales?
+
+**The astronomical alignments provide a clue.** Stonehenge tracks solstices, equinoxes, and lunar cycles with remarkable precision. This wasn't just monument building—it was the construction of a sophisticated astronomical observatory that required specific materials for reasons we don't understand.
+
+**Recent research suggests the stone circle was more than a monument—it was a sophisticated consciousness technology, designed to interface with human awareness in ways we're only beginning to understand.**
+
+*Dr. Elena Vasquez placed her hand on one of the Welsh bluestones and felt it immediately—a subtle vibration, a frequency that seemed to resonate with something deep in her nervous system. The electromagnetic readings were off the charts. These weren't just stones. They were components in a vast machine whose purpose had been forgotten.*
 
 The evidence is mounting. Genetic manipulation. Impossible architecture. Mental programming. Population replacements. And now, consciousness technologies hidden in plain sight.
 
