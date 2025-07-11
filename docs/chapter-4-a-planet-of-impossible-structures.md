@@ -4,9 +4,9 @@ The story of our past is written not only in our genes but also in stone. Across
 
 If we are to solve the mystery of human origins, we must examine the crime scene. In this case, the crime scene is the entire planet, dotted with megalithic structures that should not exist.
 
-## The Precision Problem
+## The Effort Enigma
 
-The first and most glaring clue is the impossible precision of ancient stonework. In numerous locations, our ancestors cut, moved, and placed multi-ton stones with a level of accuracy that modern engineers would find challenging, even with advanced machinery. The official explanation—copper chisels, wooden rollers, and unlimited manpower—strains credulity when faced with the evidence.
+The first and most glaring clue is not the precision of ancient stonework, but the extraordinary effort invested in it. In numerous locations, our ancestors transported massive stones across hundreds of miles, carved intricate astronomical alignments, and devoted generations to projects that served no obvious survival function. The real mystery isn't how they did it—but why they chose to do it at all.
 
 ### Clue #6: Göbekli Tepe, The 12,000-Year-Old Temple
 
@@ -26,9 +26,9 @@ High in the Bolivian Andes, at 12,800 feet, lies Puma Punku. The site is a ruin 
 
 ### Clue #8: The Great Pyramid’s Impossible Alignment
 
-The Great Pyramid of Giza is a mathematical marvel. Its base is level to within a fraction of an inch, and its four sides are aligned to the cardinal directions with an accuracy of within 3/60th of a degree—more precise than the Meridian Building at the Greenwich Observatory in London. The 70-ton granite blocks that form the ceiling of the King's Chamber were quarried 500 miles away and lifted into place with breathtaking accuracy.
+The Great Pyramid of Giza represents an investment of effort that defies rational explanation. This structure required the quarrying, transport, and precise placement of 2.3 million stone blocks, some weighing up to 70 tons. The granite blocks in the King's Chamber were quarried 500 miles away in Aswan and somehow transported up the Nile and into the pyramid. The astronomical alignments demonstrate sophisticated knowledge of celestial movements.
 
-**The Question:** How did the ancient Egyptians achieve a level of precision in surveying, quarrying, and construction that rivals modern technology? The proposed methods of ramps and levers do not fully account for the tolerances achieved.
+**The Real Question:** Why would any civilization invest decades of their entire society's labor in a project that served no obvious survival function? The pyramid contains no treasure, no living spaces, no defensive capabilities. What could motivate such extraordinary effort for what appears to be an elaborate tomb?
 
 ### Clue #8.5: The Stolen Solar System
 
