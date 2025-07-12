@@ -52,13 +52,14 @@ A glossary is provided for reference as new concepts are introduced throughout t
 
 ## An Invitation to Conscious Exploration
 
-What follows is not dogma, but an investigation—a careful examination of evidence that leads to a startling conclusion. Engaging with it requires the mindset of a detective, not a believer. To get the most from this journey, we invite you to:
+
+What follows is not dogma, but a functional mythology—a story designed to convey essential truths, whether or not every detail is literally factual. As the Inuit say: "The stories are not true, but if you believe them, everything important will be conveyed." Belief is not required; what matters is how you engage with the story and what it awakens in you. And remember: there is always a kernel of truth in every good story—the key is to find it. To get the most from this journey, we invite you to:
 
 *   **Question Everything**: Don't accept any claim without examining the evidence. Be skeptical, but remain open to possibilities.
 *   **Follow the Clues**: Pay attention to patterns and connections that emerge from the evidence itself.
 *   **Think Systemically**: Look for explanations that can account for multiple anomalies rather than isolated incidents.
 *   **Judge by Results**: Ultimately, evaluate any framework by how well it explains the evidence and provides useful insights.
 
-The investigation ahead will challenge everything you think you know about human origins. The evidence points to a conclusion so extraordinary that it sounds like science fiction. But sometimes the truth is stranger than fiction.
+The investigation ahead will challenge everything you think you know about human origins. The evidence points to a conclusion so extraordinary that it sounds like science fiction. But sometimes, the stories that shape us are the ones that matter most—true or not.
 
 This is the story of The Human Experiment.
