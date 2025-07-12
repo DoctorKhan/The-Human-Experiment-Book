@@ -8,7 +8,7 @@
 
 **Asherah** - Archaeological evidence from the "Yahweh and his Asherah" inscription suggests this functioned as a title for a divine consort or sacred object rather than a fixed personal name. This supports the interpretation that many ancient divine names represent roles or functions rather than individual identities.
 
-**Albians** - The final survivors carrying significant Titan genetic heritage, displaying hybrid characteristics similar to tigons and ligers. They retreated to Albion (Britain) as their last stronghold, preserving Titan consciousness technologies through stone circle networks (Stonehenge, Avebury) and Druidic traditions. Systematically eliminated during Roman conquest (~2,000-1,500 years ago), though they encoded their knowledge into Celtic mythology and folklore.
+**Albians** - The final survivors carrying significant Titan genetic heritage, displaying hybrid characteristics similar to tigons and ligers. They established their stronghold in Albion (Britain), preserving Titan consciousness technologies through stone circle networks (Stonehenge, Avebury) and matrifocal social structures. Systematically eliminated during the Bell Beaker expansion (~4,500-3,500 years ago), which brought up to 90% population replacement to the British Isles. Archaeological evidence shows violent conquest by Indo-European warrior cultures, though Albian knowledge was encoded into surviving megalithic structures and later Celtic traditions.
 
 **Age of Heroes** - The Bronze Age period (~3,500-1,200 years ago) representing the final era of direct divine-human interaction. Heroes like Gilgamesh, Hercules, and Achilles represent the last generation of human-divine hybrids with enhanced capabilities.
 **Anunnaki** - The younger generation of beings (Anu, Enlil, Marduk) who overthrew the older Titan generation during the cosmic war marked by the Younger Dryas impact (12,900 years ago). They represented a different philosophy - preferring direct, systematic control over the Titans' patient, evolutionary approach to human development.
@@ -25,7 +25,7 @@
 
 ## G
 
-**Genesis Bottleneck** - The near-extinction event between 800,000-900,000 years ago that reduced human ancestral population to just over a thousand individuals. Within this framework, this was Phase II of the Titan experiment - a selection and preparation phase that installed sophisticated genetic modifications.
+**MIS 6 Modification Period** - The gradual genetic enhancement period during Marine Isotope Stage 6 (150,000-130,000 years ago) when expanding ice sheets fragmented human populations into isolated refugia. Within this framework, this was Phase II of the Titan experiment - using natural population separation to systematically modify isolated groups without detection, installing sophisticated genetic modifications and receiver protocols.
 
 **Great Catastrophe/Deluge** - Not a single event, but the cyclical pattern of reset events that have shaped human history. Different cultures preserve memories of different resets in their flood myths: the 4.2 kiloyear event (biblical deluge), the Younger Dryas impact, and other civilizational collapses. Each reset served different purposes in the ongoing human experiment.
 
@@ -65,7 +65,7 @@
 
 ## U
 
-**Umannu** - The successful line of genetically modified humans that emerged from the Genesis Bottleneck and survived the Phase III activation. This term represents modern *Homo sapiens* - the species that carries the full Titan genetic modifications and consciousness programming.
+**Umannu** - The successful line of genetically modified humans that emerged from the MIS 6 Modification Period and survived the Phase III activation. This term represents modern *Homo sapiens* - the species that carries the full Titan genetic modifications and consciousness programming installed during the glacial refugia enhancements.
 
 ## P
 

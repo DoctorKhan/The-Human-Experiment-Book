@@ -42,7 +42,7 @@ Recent genetic research from the University of Cambridge reveals that modern hum
 
 *"This one," whispered Enki to his companion, watching a young mother teach her child to count the stars. "This lineage carries the spark."*
 
-*The bottleneck came like a slow strangulation. Populations that had numbered in the tens of thousands shrank to mere hundreds. Families died. Bloodlines ended. But in that crucible of near-extinction, the Gardeners worked. Into the surviving genetic code, they wove their essence—not a full transformation, but a receiver protocol, dormant instructions waiting for activation.*
+*The changes came gradually, like seasons shifting across millennia. As the great ice sheets advanced during MIS 6, populations that had spread across continents found themselves increasingly isolated in refugia—pockets of habitable land surrounded by expanding glaciers. The Gardeners saw opportunity in this natural fragmentation. Into these small, separated groups, they wove their essence—not a dramatic transformation, but subtle modifications, receiver protocols embedded in the genetic code like dormant seeds waiting for the right conditions to sprout.*
 
 *Centuries passed. The modified *heidelbergensis* grew apart from their robust cousins, the *Homo erectus*, who had spread across continents, adapting, surviving, thriving in their earthbound way. Two rivers of humanity, flowing separately through time.*
 
@@ -52,13 +52,15 @@ Recent genetic research from the University of Cambridge reveals that modern hum
 
 This scientific discovery provides a stunning new lens through which to view our mythological framework. The two populations represent the two core components of the human experiment: the terrestrial and the transcendent.
 
-Within this functional mythology, the *Homo heidelbergensis* lineage was the chosen vessel for intervention. It was this population that experienced the severe bottleneck between 800,000 and 900,000 years ago, a near-extinction event that reduced their breeding numbers to just over a thousand individuals. This was no random climate catastrophe. It was a deliberately managed event, creating the perfect crucible for genetic engineering.
+Within this functional mythology, the *Homo heidelbergensis* lineage was the chosen vessel for intervention. Recent genetic evidence points to a gradual population reduction between 150,000 and 130,000 years ago, likely related to the severe glacial period known as Marine Isotope Stage 6 (MIS 6). This wasn't a catastrophic crash but a structured decline that created optimal conditions for genetic modification—small, isolated populations that could be systematically enhanced without detection.
 
 The older generation of beings—what mythology remembers as the Titans—isolated this small, vulnerable group. Into this malleable gene pool, they introduced their preparatory modifications—not a full transformation, but the essential "receiver" code that would make later activation possible. This was the installation of the genetic lock system.
 
 For hundreds of thousands of years, this modified lineage developed in parallel with its more populous cousins, the *Homo erectus*. Then, around 300,000 years ago, the next phase of the experiment began. The two populations were guided to merge, blending the robust, earth-adapted genetics of *erectus* with the divinely-encoded potential of the modified *heidelbergensis* line.
 
 **This merger explains the mystery of human neoteny.** The Titans' initial modifications established the basic domestication template—flattened faces, reduced aggression, enhanced social bonding. But it was the Anunnaki refinement that created our extreme baby-faced appearance. Why? Because juvenile features trigger caregiving responses and reduce threat perception. A species with baby-like faces is simultaneously more appealing and more manageable—perfect for beings who needed cooperative workers, not independent warriors.
+
+**The timing of this merger is crucial.** Recent genetic evidence shows that any significant population changes occurred much earlier than previously thought—during the severe glacial period around 150,000-130,000 years ago, not from later catastrophic events. This earlier timeline fits perfectly with the gradual, sophisticated approach the Titans would have used: working with natural population fragmentation during ice ages to modify isolated groups without detection.
 
 ---
 
@@ -175,8 +177,8 @@ The question is: what were we designed to do? And are we fulfilling that purpose
 - **Dependency on caretakers**: Modern humans cannot survive without complex social structures
 
 **The Domestication Timeline:**
-- **Phase 1 (Titans)**: Initial neoteny and docility modifications during the *heidelbergensis* bottleneck
-- **Phase 2 (Anunnaki)**: Enhanced cognitive abilities while maintaining and intensifying baby-like features
+- **Phase 1 (Titans, ~150,000-130,000 years ago)**: Initial neoteny and docility modifications during MIS 6 glacial refugia isolation
+- **Phase 2 (Anunnaki, ~300,000-12,000 years ago)**: Enhanced cognitive abilities while maintaining and intensifying baby-like features
 - **Phase 3 (Ongoing)**: Self-domestication as humans continue to select for neotenic, cooperative traits
 
 **We are the most thoroughly domesticated species on Earth.** And unlike dogs, cats, or cattle, we show no signs of our "wild" ancestors—because our wild ancestors were themselves the product of intervention.
