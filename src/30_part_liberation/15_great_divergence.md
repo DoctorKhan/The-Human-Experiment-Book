@@ -127,17 +127,9 @@ The Apkallu path seems to be characterized by those who preserved fragments of w
 
 ### Consciousness-Based Abilities
 
-**Psychic Sensitivity in Daily Life**: Maintained ability to perceive subtle energies, communicate telepathically, and access non-local information.
-- *Intuitive Knowing*: Sensing who's calling before checking the phone, knowing when someone is lying, feeling others' emotions
-- *Energy Reading*: Detecting illness through touch, sensing the "mood" of places, feeling energy blockages in the body
-- *Precognitive Dreams*: Receiving information about future events through dreams and visions
-- *Telepathic Communication*: Knowing what others are thinking, sending and receiving mental messages
+**Psychic Sensitivity in Daily Life**: Those on the Apkallu path maintain the ability to perceive subtle energies, communicate telepathically, and access non-local information in ways that seem impossible to the analytical mind. Maria often knows who's calling before checking her phone, can sense when someone is lying just by being in their presence, and feels others' emotions as if they were her own. When she places her hands on a patient, she can detect illness through touch, sensing the "mood" of different places and feeling energy blockages in the body before any medical tests confirm what she already knows. Her dreams frequently contain information about future events, and she sometimes finds herself knowing what others are thinking or receiving mental messages that arrive without words.
 
-**Ecological Attunement**: Deep connection to natural systems and the ability to work with rather than against natural forces.
-- *Plant Communication*: Sensing what plants need, understanding herbal medicine intuitively, successful gardening without formal training
-- *Weather Sensitivity*: Feeling storms approaching, sensing seasonal changes in the body, natural circadian rhythms
-- *Animal Connection*: Ability to calm animals, understand their needs, communicate with pets non-verbally
-- *Earth Awareness*: Sensing geological changes, feeling comfortable in natural settings, distress in artificial environments
+**Ecological Attunement**: Those maintaining Tree of Life programming demonstrate a deep connection to natural systems and the ability to work with rather than against natural forces. Maria can sense what plants need without formal training, understanding herbal medicine intuitively and maintaining gardens that thrive under her care. She feels storms approaching days before they arrive, experiences seasonal changes in her body as natural rhythms, and maintains circadian cycles that sync with natural light rather than artificial schedules. Animals calm in her presence, and she understands their needs through a form of non-verbal communication that her analytical brother finds impossible to explain. She feels comfortable in natural settings but experiences distress in artificial environments, as if her nervous system is calibrated to the frequencies of living systems rather than mechanical ones.
 
 **Holistic Understanding**: The ability to perceive complex systems as integrated wholes rather than collections of parts.
 - *Systems Thinking*: Seeing how everything connects, understanding root causes rather than symptoms

@@ -132,17 +132,17 @@ The fact that these substances occur naturally in plants worldwide suggests they
 
 ## The Embedded Directives
 
-This genetic tampering installed a suite of new instincts, directives that define our species to this day:
+This genetic tampering installed a suite of new instincts, directives that define our species to this day.
 
-**The Worship Imperative**: Humans are the only species that consistently creates and worships deities. This isn't cultural—it's genetic. We are programmed to seek and serve higher authorities.
+**Consider the worship imperative that drives human behavior.** Humans are the only species that consistently creates and worships deities. This isn't cultural—it's genetic. We are programmed to seek and serve higher authorities in ways that no other creature exhibits. Even the most secular societies develop quasi-religious devotion to ideologies, leaders, or institutions.
 
-**The Hierarchy Drive**: Unlike other primates, humans naturally organize into complex, multi-layered hierarchies. We instinctively understand rank, status, and chain of command.
+**Then there's our hierarchy drive, which sets us apart from other primates.** Unlike our closest relatives, humans naturally organize into complex, multi-layered hierarchies. We instinctively understand rank, status, and chain of command in ways that allow for massive social coordination. This isn't learned behavior—it's hardwired.
 
-**The Domestication Response**: Humans are uniquely docile compared to other apex predators. We can be trained, managed, and controlled in ways that would be impossible with our closest genetic relatives.
+**Most remarkably, humans exhibit a domestication response that makes us uniquely manageable.** Compared to other apex predators, we are remarkably docile. We can be trained, managed, and controlled in ways that would be impossible with our closest genetic relatives. A wild chimpanzee cannot be domesticated, but humans accept authority and follow rules as naturally as breathing.
 
-**The Technology Compulsion**: No other species systematically develops and improves tools across generations. This drive to build and innovate was installed for a purpose.
+**Our technology compulsion represents another installed directive.** No other species systematically develops and improves tools across generations. This drive to build and innovate was clearly installed for a purpose—to create the infrastructure that would support complex civilizations.
 
-**The Transcendence Longing**: Humans alone among Earth's creatures consistently report experiences of connection to something greater than themselves—mystical experiences, religious ecstasy, cosmic consciousness.
+**Perhaps most telling is our transcendence longing.** Humans alone among Earth's creatures consistently report experiences of connection to something greater than themselves—mystical experiences, religious ecstasy, cosmic consciousness. This isn't random neural misfiring; it's a genetic memory of our origins, a built-in compass pointing toward our creators.
 
 *The child looked up at the stars, her eyes wide with wonder. "What's out there?" she asked her mother.*
 
