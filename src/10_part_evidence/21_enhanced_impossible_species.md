@@ -60,6 +60,18 @@ For hundreds of thousands of years, this modified lineage developed in parallel 
 
 **This merger explains the mystery of human neoteny.** The Titans' initial modifications established the basic domestication template—flattened faces, reduced aggression, enhanced social bonding. But it was the Anunnaki refinement that created our extreme baby-faced appearance. Why? Because juvenile features trigger caregiving responses and reduce threat perception. A species with baby-like faces is simultaneously more appealing and more manageable—perfect for beings who needed cooperative workers, not independent warriors.
 
+---
+
+> **Sidebar: The Toba Bottleneck—A Scientific Myth**
+>
+> For decades, textbooks and documentaries have repeated the story that the Toba supervolcano eruption 74,000 years ago nearly drove humanity to extinction, reducing our numbers to a few thousand survivors. But recent research has thoroughly debunked this “Toba bottleneck” hypothesis.
+>
+> As paleoanthropologist John Hawks and others have shown, there is no genetic, archaeological, or paleoclimatic evidence for a catastrophic population crash linked to Toba. Genetic studies do not detect a bottleneck at this time; archaeological sites in Africa and Asia show continuous human presence; and climate records reveal no volcanic winter severe enough to threaten our species. The supposed coincidence between Toba and human population changes was always weak, and newer data have only made the connection less plausible.
+>
+> The persistence of the Toba myth is a cautionary tale about how scientific ideas can become entrenched in public imagination long after the evidence has moved on. It also highlights the importance of skepticism, cross-disciplinary communication, and the willingness to revise our narratives as new data emerge.
+
+---
+
 ## The Seven Pairs Protocol
 
 *The Council of Gardeners gathered in the place between worlds, their forms shifting like aurora in the cosmic wind. Before them lay the genetic templates—seven different approaches to the human experiment.*
