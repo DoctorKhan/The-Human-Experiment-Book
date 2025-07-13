@@ -1,4 +1,4 @@
-# Chapter 5: The Vanishing Builders
+# Chapter 6: The Vanishing Builders
 
 *Dr. Rebecca Morrison knelt in the muddy field near Stonehenge, carefully extracting ancient DNA from a 4,000-year-old burial. The preliminary results had shaken her to her core. The sophisticated builders who had created this astronomical marvel had simply vanished, replaced by a genetically distinct population within just a few centuries.*
 

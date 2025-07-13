@@ -1,4 +1,4 @@
-# The Choice Point
+# Chapter 17: The Choice Point
 
 ## A Day in 2035: Two Possible Futures
 

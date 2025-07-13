@@ -1,4 +1,4 @@
-# Chapter 3: The Ghost in the Machine
+# Chapter 5: The Ghost in the Machine
 
 *Dr. Anya Petrov sat in her cognitive research lab at MIT, staring at the brain scan results that made no sense. She had been studying decision-making patterns in humans for fifteen years, but these results challenged everything she thought she knew about free will and consciousness.*
 

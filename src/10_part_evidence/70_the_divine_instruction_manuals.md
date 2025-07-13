@@ -1,4 +1,4 @@
-# Chapter 6: Whispers of a Lost World
+# Chapter 7: Whispers of a Lost World
 
 *Dr. Marcus Chen sat in the basement archives of the Oriental Institute, surrounded by thousands of cuneiform tablets. After months of studying ancient Mesopotamian texts, he had made a discovery that challenged everything he thought he knew about ancient mythology. These weren't primitive creation stories—they were technical manuals.*
 

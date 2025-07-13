@@ -1,4 +1,4 @@
-# Chapter 9.5: Perseus and the Mirror Shield - The Technology of Indirect Seeing
+# Chapter 10: Perseus and the Mirror Shield - The Technology of Indirect Seeing
 
 *Within this mythology, Perseus represents the archetypal hero who discovers the technology of seeing truth without being destroyed by it.*
 
