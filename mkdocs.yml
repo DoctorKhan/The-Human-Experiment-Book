@@ -6,7 +6,7 @@ site_dir: ../site_build
 docs_dir: docs
 nav:
 - index.md
-- The Human Experiment: the-human-experiment.md
+- Manual Override: manual-override.md
 - 'Part 1: The Anomalies':
   - part-1-the-anomalies.md
   - chapter-1-the-unsettling-data.md
@@ -16,16 +16,14 @@ nav:
   - chapter-5-the-ghost-in-the-machine.md
   - chapter-6-the-vanishing-builders.md
   - chapter-7-whispers-of-a-lost-world.md
-  - chapter-8-the-two-great-resets.md
 - 'Part 2: A Theory of the Case':
   - part-2-a-theory-of-the-case.md
+  - chapter-8-the-two-great-resets.md
   - chapter-9-a-theory-emerges.md
   - chapter-10-perseus-and-the-mirror-shield-the-technology-of-indirect-seeing.md
   - chapter-11-two-different-hands.md
   - chapter-12-the-first-architects.md
   - chapter-13-the-great-transition.md
-- 'Part 3: The Human Condition - Legacy of the Experiment':
-  - part-3-the-human-condition-legacy-of-the-experiment.md
   - chapter-14-the-two-generations.md
   - chapter-15-the-great-divergence-two-paths-of-human-evolution.md
   - chapter-16-practices-for-liberation.md
@@ -33,6 +31,8 @@ nav:
   - chapter-18-conclusion-the-future-of-the-experiment.md
   - chapter-19-appendix-a-the-complete-timeline-of-human-intervention.md
   - chapter-20-glossary-of-terms.md
+- Additional Content:
+  - the-human-experiment.md
 - Downloads: downloads/index.md
 theme:
   name: material
