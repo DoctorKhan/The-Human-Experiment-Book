@@ -268,27 +268,28 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 
 ## Key Technology Timeline
 
-**MIS 6 Genetic Modifications** (150,000-130,000 years ago): Titans enhance isolated refugia populations, install receiver protocols
-**The Spear Moment** (~400,000 years ago): First distance weapons test human consciousness
-**Gradual Emergence** (300,000-50,000 years ago): Progressive activation of enhanced genetic potential across multiple populations
-**Younger Dryas Impact** (12,900 years ago): Cosmic bombardment marks violent transition from Titan to Anunnaki control
-**Göbekli Tepe Construction** (11,600 years ago): First major Anunnaki construction project, memorial to defeated Titans
-**Göbekli Tepe Burial** (10,000 years ago): Systematic erasure of Titan-era evidence begins
-**Agricultural Revolution** (10,000 years ago): Anunnaki introduce settlement-based control system
-**The 17:1 Ratio** (~8,000-5,000 years ago): Extreme reproductive bottleneck - 17 women reproduce for every 1 man
-**Urban Civilization** (6,000 years ago): Full implementation of systematic population management
-**The Abandonment** (6,000 years ago): Control systems continue operating without active management
-**The Biblical Deluge** (4,200 years ago): Climate catastrophe during Bronze Age collapse, preserved in flood narratives
-**Abraham's Calling** (~4,000 years ago): Establishment of monotheistic covenant system as post-abandonment control mechanism
-**Age of Heroes** (~3,500-1,200 years ago): Bronze Age period of legendary figures and divine-human interactions
-**Albian Retreat to Albion** (~3,000-2,000 years ago): Last Titan descendants establish final stronghold in Britain
-**Roman Conquest of Albion** (~2,000-1,500 years ago): Systematic destruction of final Titan consciousness technologies and bloodlines
+- **MIS 6 Genetic Modifications** (150,000-130,000 years ago): Titans enhance isolated refugia populations, install receiver protocols
+- **The Spear Moment** (~400,000 years ago): First distance weapons test human consciousness
+- **Gradual Emergence** (300,000-50,000 years ago): Progressive activation of enhanced genetic potential across multiple populations
+- **Younger Dryas Impact** (12,900 years ago): Cosmic bombardment marks violent transition from Titan to Anunnaki control
+- **Göbekli Tepe Construction** (11,600 years ago): First major Anunnaki construction project, memorial to defeated Titans
+- **Göbekli Tepe Burial** (10,000 years ago): Systematic erasure of Titan-era evidence begins
+- **Agricultural Revolution** (10,000 years ago): Anunnaki introduce settlement-based control system
+- **The 17:1 Ratio** (~8,000-5,000 years ago): Extreme reproductive bottleneck - 17 women reproduce for every 1 man
+- **Urban Civilization** (6,000 years ago): Full implementation of systematic population management
+- **The Abandonment** (6,000 years ago): Control systems continue operating without active management
+- **The Biblical Deluge** (4,200 years ago): Climate catastrophe during Bronze Age collapse, preserved in flood narratives
+- **Abraham's Calling** (~4,000 years ago): Establishment of monotheistic covenant system as post-abandonment control mechanism
+- **Age of Heroes** (~3,500-1,200 years ago): Bronze Age period of legendary figures and divine-human interactions
+- **Albian Retreat to Albion** (~3,000-2,000 years ago): Last Titan descendants establish final stronghold in Britain
+- **Roman Conquest of Albion** (~2,000-1,500 years ago): Systematic destruction of final Titan consciousness technologies and bloodlines
 
 ## The Present Moment: Between Two Legacies
 
 Humanity currently exists in a unique historical position - operating under Anunnaki control systems while retaining dormant Titan potential for consciousness development. This creates the fundamental tensions of human experience:
 
 **The Control Legacy**: Systematic hierarchies, binary thinking, institutional dependence, worship of external authorities
+
 **The Consciousness Legacy**: Capacity for wisdom, spiritual development, independent thinking, direct connection to source
 
 Understanding this dual inheritance is crucial for anyone seeking to navigate modern life consciously. We are not simply victims of control systems, nor are we free agents operating without constraints. We are beings caught between two competing visions of what humanity should become, with the power to choose which legacy we will activate and develop.
