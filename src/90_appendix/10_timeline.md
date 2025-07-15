@@ -34,9 +34,9 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 
 *The Great Refinement: Gradual Enhancement During Glacial Refugia*
 
-**The Natural Opportunity**: During Marine Isotope Stage 6, the most severe glacial period in recent human history, expanding ice sheets fragment human populations into isolated refugia. The Titans use this natural separation to systematically enhance isolated groups without detection - not catastrophic reduction but structured modification of small, separated populations.
+**The Natural Opportunity**: During Marine Isotope Stage 6, the most severe glacial period in recent human history, expanding ice sheets fragment human populations into isolated refugia. The Anunnaki use this natural separation to systematically enhance isolated groups without detection - not catastrophic reduction but structured modification of small, separated populations.
 
-**The Seven Pairs Protocol**: Into this refined gene pool, the Titans implement a systematic genetic engineering program. Ancient Mesopotamian texts preserve the memory of seven pairs of Adamu being created—fourteen individuals representing different experimental approaches to human enhancement. Each pair tested specific combinations of divine genetics with various hominid lineages under different environmental conditions.
+**The Seven Pairs Protocol**: Into this refined gene pool, the Anunnaki implement a systematic genetic engineering program. Ancient Mesopotamian texts preserve the memory of seven pairs of Adamu being created—fourteen individuals representing different experimental approaches to human enhancement. Each pair tested specific combinations of divine genetics with various hominid lineages under different environmental conditions.
 
 **The Modifications**: Each of the seven pairs received sophisticated genetic modifications:
 - Enhanced receiver sequences for future activation
@@ -49,7 +49,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 
 **Geographic Distribution**: The seven pairs were distributed across different continents and ecological niches, creating parallel experiments in human development. Over hundreds of thousands of years, most experimental lineages failed due to environmental pressures, genetic instability, or dilution of modifications.
 
-**Temporal Advantage**: The Titans' mastery of time - whether through near-light speed travel or other temporal technologies - allows them to execute plans across geological ages while experiencing minimal subjective time.
+**Temporal Advantage**: The Anunnaki's mastery of time - whether through near-light speed travel or other temporal technologies - allows them to execute plans across geological ages while experiencing minimal subjective time.
 
 *Key Insight: This gradual modification period creates the specific genetic foundation that makes modern human consciousness possible, while the seven refugia protocol demonstrates the systematic, experimental nature of human genetic engineering. The process was structured and subtle, not catastrophic, allowing for sophisticated genetic modifications without detection.*
 
@@ -77,7 +77,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 
 **Enki's Advocacy**: Throughout this period, Enki's faction argues for gradual preparation of humans for independence, believing they should eventually become autonomous conscious beings rather than permanent dependents.
 
-**The Withdrawal Plan**: As the era progresses, the Titans begin planning their withdrawal, believing the human experiment is ready for the next phase of independent development.
+**The Withdrawal Plan**: As the era progresses, the Anunnaki begin planning their withdrawal, believing the human experiment is ready for the next phase of independent development.
 
 ## Phase V: The Generational Conflict (15,000-11,600 Years Ago)
 
@@ -86,22 +86,22 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 **The Palace Coup**: What mythology remembers as the "war in heaven" is actually a civil war between the older and younger generations of gods. This is not external invasion but internal revolution.
 
 **Competing Visions**:
-- *Titans*: Humans should eventually become independent conscious beings
-- *Anunnaki*: Humans require permanent domestication and systematic control
+- *Anunnaki*: Humans should eventually become independent conscious beings
+- *Igigi*: Humans require permanent domestication and systematic control
 
-**The Younger Dryas Impact Event (12,900 Years Ago)**: The cosmic war reaches its climax with a catastrophic impact event that triggers the Younger Dryas climate disruption. This represents the violent overthrow of Titan leadership by the Anunnaki faction through what appears to be directed cosmic bombardment.
+**The Younger Dryas Impact Event (12,900 Years Ago)**: The cosmic war reaches its climax with a catastrophic impact event that triggers the Younger Dryas climate disruption. This represents the violent overthrow of Anunnaki leadership by the Igigi faction through what appears to be directed cosmic bombardment.
 
 **Archaeological Evidence - Göbekli Tepe**: The construction of Göbekli Tepe (11,600 years ago) marks the immediate aftermath of this transition. This massive temple complex represents:
-- The first major construction project under new Anunnaki management
-- A memorial to the defeated Titan civilization (the carved pillars depicting extinct megafauna)
+- The first major construction project under new Igigi management
+- A memorial to the defeated Anunnaki civilization (the carved pillars depicting extinct megafauna)
 - Evidence of advanced knowledge being preserved during the catastrophic transition
 - The beginning of organized religion as a control mechanism
 
-**The Deliberate Burial**: Göbekli Tepe's intentional burial around 8,000 BCE represents a deliberate act of preservation and concealment. This was not desecration; it was the systematic sealing of a time capsule and the erasure of a history. The Anunnaki, understanding the fragility of memory and the danger of the knowledge they now possessed, hid the evidence of their predecessors. They buried the Titans' legacy, ensuring that future humanity would remember the Anunnaki as the original creators, not the conquerors.
+**The Deliberate Burial**: Göbekli Tepe's intentional burial around 8,000 BCE represents a deliberate act of preservation and concealment. This was not desecration; it was the systematic sealing of a time capsule and the erasure of a history. The Igigi, understanding the fragility of memory and the danger of the knowledge they now possessed, hid the evidence of their predecessors. They buried the Anunnaki legacy, ensuring that future humanity would remember the Igigi as the original creators, not the conquerors.
 
-**Marduk's Victory**: The mythological battle between Marduk and Tiamat represents the final defeat of the primordial Titan consciousness by the younger generation's systematic approach. Organic, evolutionary development is replaced by mechanical, controlled management.
+**Marduk's Victory**: The mythological battle between Marduk and Tiamat represents the final defeat of the primordial Anunnaki consciousness by the younger generation's systematic approach. Organic, evolutionary development is replaced by mechanical, controlled management.
 
-## Phase VI: Anunnaki Control Era (11,600-6,000 Years Ago)
+## Phase VI: Igigi Control Era (11,600-6,000 Years Ago)
 
 **The New Management**: The younger generation implements their vision of permanent human domestication through systematic control mechanisms, beginning immediately after their violent takeover.
 
@@ -120,19 +120,19 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 - Establishes the foundation for all subsequent hierarchical civilizations built on agricultural surplus
 - Coincides with the burial of Göbekli Tepe, marking the transition from memorial to active control
 
-**Binary Programming Exploitation**: The Anunnaki discover they can exploit the Titan-installed binary programming for direct control:
+**Binary Programming Exploitation**: The Igigi discover they can exploit the Anunnaki-installed binary programming for direct control:
 - What was designed as temporary cognitive training becomes permanent manipulation
 - Simple either/or choices bypass complex reasoning
 - Emotional charges attached to concepts create predictable responses
 - Religious systems channel this programming through worship of external authorities
 
-**Urban Civilization (~6,000 Years Ago)**: The development of cities, writing, and complex hierarchies represents the full implementation of Anunnaki control systems:
+**Urban Civilization (~6,000 Years Ago)**: The development of cities, writing, and complex hierarchies represents the full implementation of Igigi control systems:
 - Creation of Umannu - modern humans optimized for civilization-scale management
 - Establishment of rigid hierarchical structures
 - Development of religious and political systems designed for population control
 - Complete separation of humans from natural rhythms and ecological wisdom
 
-**The Nephilim Problem**: Hybrid offspring of Anunnaki and human unions create unforeseen complications:
+**The Nephilim Problem**: Hybrid offspring of Igigi and human unions create unforeseen complications:
 - Enhanced beings claim breeding rights over human populations
 - Power differentials create oppressive hierarchies
 - Human complaints reach the gods: "We were like grasshoppers in our own sight"
@@ -153,7 +153,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 
 ## Phase VII: The Abandonment and Automated Control (6,000-4,000 Years Ago)
 
-**The Withdrawal**: The Anunnaki gradually withdraw from direct human management, leaving behind control systems designed for permanent supervision but no longer actively managed.
+**The Withdrawal**: The Igigi gradually withdraw from direct human management, leaving behind control systems designed for permanent supervision but no longer actively managed.
 
 **Orphaned Systems**: Humanity is left operating under management protocols designed for external supervision:
 - Binary programming continues operating without its original controllers
@@ -268,13 +268,13 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 
 ## Key Technology Timeline
 
-- **MIS 6 Genetic Modifications** (150,000-130,000 years ago): Titans enhance isolated refugia populations, install receiver protocols
+- **MIS 6 Genetic Modifications** (150,000-130,000 years ago): Anunnaki enhance isolated refugia populations, install receiver protocols
 - **The Spear Moment** (~400,000 years ago): First distance weapons test human consciousness
 - **Gradual Emergence** (300,000-50,000 years ago): Progressive activation of enhanced genetic potential across multiple populations
-- **Younger Dryas Impact** (12,900 years ago): Cosmic bombardment marks violent transition from Titan to Anunnaki control
-- **Göbekli Tepe Construction** (11,600 years ago): First major Anunnaki construction project, memorial to defeated Titans
-- **Göbekli Tepe Burial** (10,000 years ago): Systematic erasure of Titan-era evidence begins
-- **Agricultural Revolution** (10,000 years ago): Anunnaki introduce settlement-based control system
+- **Younger Dryas Impact** (12,900 years ago): Cosmic bombardment marks violent transition from Anunnaki to Igigi control
+- **Göbekli Tepe Construction** (11,600 years ago): First major Igigi construction project, memorial to defeated Anunnaki
+- **Göbekli Tepe Burial** (10,000 years ago): Systematic erasure of Anunnaki-era evidence begins
+- **Agricultural Revolution** (10,000 years ago): Igigi introduce settlement-based control system
 - **The 17:1 Ratio** (~8,000-5,000 years ago): Extreme reproductive bottleneck - 17 women reproduce for every 1 man
 - **Urban Civilization** (6,000 years ago): Full implementation of systematic population management
 - **The Abandonment** (6,000 years ago): Control systems continue operating without active management
@@ -286,7 +286,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 
 ## The Present Moment: Between Two Legacies
 
-Humanity currently exists in a unique historical position - operating under Anunnaki control systems while retaining dormant Titan potential for consciousness development. This creates the fundamental tensions of human experience:
+Humanity currently exists in a unique historical position - operating under Igigi control systems while retaining dormant Anunnaki potential for consciousness development. This creates the fundamental tensions of human experience:
 
 **The Control Legacy**: Systematic hierarchies, binary thinking, institutional dependence, worship of external authorities
 

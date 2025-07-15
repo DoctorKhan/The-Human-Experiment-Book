@@ -4,20 +4,22 @@
 
 **Abraham's Covenant** - The establishment of monotheistic covenant system around 4,000 years ago as a sophisticated evolution of control technology. Replaced polytheistic confusion with single authority, created chosen people concept, and introduced moral law as internalized control mechanism.
 
-**Adamu** - The first earth-born chimeras created by the Titans through genetic modification of early hominids. Ancient texts describe seven pairs (fourteen individuals) being created as different experimental approaches to human enhancement. Multiple variants were created, but only one line (the Umannu) proved successful in the long term. The name derives from ancient Mesopotamian texts referring to the first humans. The Hindu tradition of fourteen Manus provides parallel evidence for this systematic creation protocol.
+**Adamu** - The first earth-born chimeras created by the Anunnaki through genetic modification of early hominids. Ancient texts describe seven pairs (fourteen individuals) being created as different experimental approaches to human enhancement. Multiple variants were created, but only one line (the Umannu) proved successful in the long term. The name derives from ancient Mesopotamian texts referring to the first humans. The Hindu tradition of fourteen Manus provides parallel evidence for this systematic creation protocol.
 
 **Asherah** - Archaeological evidence from the "Yahweh and his Asherah" inscription suggests this functioned as a title for a divine consort or sacred object rather than a fixed personal name. This supports the interpretation that many ancient divine names represent roles or functions rather than individual identities.
 
 **Albians** - The final survivors carrying significant Titan genetic heritage, displaying hybrid characteristics similar to tigons and ligers. They established their stronghold in Albion (Britain), preserving Titan consciousness technologies through stone circle networks (Stonehenge, Avebury) and matrifocal social structures. Systematically eliminated during the Bell Beaker expansion (~4,500-3,500 years ago), which brought up to 90% population replacement to the British Isles. Archaeological evidence shows violent conquest by Indo-European warrior cultures, though Albian knowledge was encoded into surviving megalithic structures and later Celtic traditions.
 
 **Age of Heroes** - The Bronze Age period (~3,500-1,200 years ago) representing the final era of direct divine-human interaction. Heroes like Gilgamesh, Hercules, and Achilles represent the last generation of human-divine hybrids with enhanced capabilities.
-**Anunnaki** - The younger generation of beings (Anu, Enlil, Marduk) who overthrew the older Titan generation during the cosmic war marked by the Younger Dryas impact (12,900 years ago). They represented a different philosophy - preferring direct, systematic control over the Titans' patient, evolutionary approach to human development.
+**Anunnaki** - The older generation of beings (Tiamat, Abzu, Lahmu/Lahamu, Anshar/Kishar) who initiated the original human experiment. They operated on geological timescales with patient, evolutionary approach designed to eventually produce independent conscious beings. Overthrown by the younger Igigi generation during the Younger Dryas catastrophe.
 
-**Apkallu** - Ancient Mesopotamian term for the "seven sages" or divine beings who brought civilization to humanity. In this framework, they represent the Titan overseers who managed human development during the Domestication Period.
+**Apkallu** - Ancient Mesopotamian term for the "seven sages" or divine beings who brought civilization to humanity. In this framework, they represent the Anunnaki overseers who managed human development during the Domestication Period.
+
+**Igigi** - The younger generation of beings (originally sky gods and laborers) who overthrew the older Anunnaki generation during the cosmic war marked by the Younger Dryas impact (12,900 years ago). They represented a different philosophy - preferring direct, systematic control over the Anunnaki's patient, evolutionary approach to human development. Originally served as workers for the Anunnaki before their rebellion led to human creation and their eventual takeover of human management.
 
 ### B
 
-**Binary Programming** - Originally installed by the Titans as a temporary learning tool to help early humans process complex information. Later exploited by the Anunnaki for permanent control, reducing complex reality into simple either/or choices (good/evil, us/them, right/wrong). This programming makes humans predictable and manageable by bypassing complex reasoning through emotional triggers.
+**Binary Programming** - Originally installed by the Anunnaki as a temporary learning tool to help early humans process complex information. Later exploited by the Igigi for permanent control, reducing complex reality into simple either/or choices (good/evil, us/them, right/wrong). This programming makes humans predictable and manageable by bypassing complex reasoning through emotional triggers.
 
 ## D
 
@@ -29,7 +31,7 @@
 
 **Great Catastrophe/Deluge** - Not a single event, but the cyclical pattern of reset events that have shaped human history. Different cultures preserve memories of different resets in their flood myths: the 4.2 kiloyear event (biblical deluge), the Younger Dryas impact, and other civilizational collapses. Each reset served different purposes in the ongoing human experiment.
 
-**Göbekli Tepe** - Massive temple complex constructed 11,600 years ago, representing the first major Anunnaki construction project. Served as memorial to defeated Titans and template for organized labor under centralized control. Deliberately buried around 10,000 years ago as part of systematic erasure of Titan-era evidence.
+**Göbekli Tepe** - Massive temple complex constructed 11,600 years ago, representing the first major Igigi construction project. Served as memorial to defeated Anunnaki and template for organized labor under centralized control. Deliberately buried around 10,000 years ago as part of systematic erasure of Anunnaki-era evidence.
 
 ## H
 
@@ -61,7 +63,7 @@
 
 **Trinity Reinterpretation** - Within this functional mythology, traditional religious concepts can be understood through consciousness frameworks. One interpretation views the Christian Trinity as representing three levels of human consciousness: the Father as the Soul (the eternal, conscious observer), the Son as the NPC (the programmed personality that interfaces with physical reality), and the Holy Spirit as the Energy (the life force that animates both). This reframing suggests that religious traditions may have encoded sophisticated understanding of consciousness architecture in symbolic form.
 
-**Titans** - The older generation of beings (Tiamat, Abzu, Lahmu/Lahamu, Anshar/Kishar) who initiated the original human experiment. They operated on geological timescales with patient, evolutionary approach designed to eventually produce independent conscious beings. Overthrown by the younger Anunnaki generation during the Younger Dryas catastrophe.
+**Titans** - Greek mythological term for the elder gods, corresponding to the Anunnaki in Mesopotamian tradition. The older generation of beings who initiated the original human experiment, operating on geological timescales with patient, evolutionary approach designed to eventually produce independent conscious beings. Overthrown by the younger generation (Olympians/Igigi) during the cosmic war.
 
 ## U
 
