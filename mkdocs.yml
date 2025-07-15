@@ -2,7 +2,7 @@ site_name: The Human Experiment
 site_description: A deep dive into the human condition and social dynamics.
 site_author: Rez Khan
 site_url: https://universalbookcompiler.com/30_The_Human_Experiment/
-site_dir: ../site_build
+site_dir: output/web_build
 docs_dir: docs
 nav:
 - index.md
