@@ -15,6 +15,14 @@
 # Allow all directories (so submodules work)
 !*/
 
+# Allow docs folder and all its contents
+!docs/
+!docs/**
+
+# Allow src folder and all its contents
+!src/
+!src/**
+
 # Ignore Python cache and build artifacts
 __pycache__/
 *.pyc
