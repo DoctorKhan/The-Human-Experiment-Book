@@ -1,12 +1,28 @@
+**Do you ever feel like you're living someone else's life?**
+
+Like you're following a script you never agreed to, pursuing goals that don't fulfill you, trapped in systems that seem designed for different beings? Like there's something fundamentally wrong with the way we're living, but you can't quite put your finger on what it is?
+
+You're not alone. And you're not crazy.
+
+---
+
 *The old shaman stared into the flickering embers of the fire, his face a roadmap of wrinkles carved by time and wisdom. "The stories are dying," he whispered, his voice like the rustle of dry leaves. "The great songs that held the world together are fading. We have forgotten the language of the stars, and the whispers of the earth are drowned out by the noise of our own machines."*
 
 *He looked up, his eyes meeting those of the young apprentice across the fire. "We are a people without a story. And a people without a story are a people lost in the dark."*
 
 The apprentice shivered, not just from the cold but from the weight of the words. The fire crackled, sending up sparks that danced like memories. The shaman reached into a pouch and pulled out a small stone, smooth and dark. "This was given to me by my grandmother," he said, voice trembling. "She told me the story of the river that runs beneath the mountain, but tonight... I cannot remember the ending." He closed his eyes, searching for the lost words, and the silence between them grew heavy—a silence filled with the ache of forgetting.
 
+**This is the feeling of our time: the ache of forgetting something essential about who we are.**
+
 ---
 
 *In a city apartment, a young woman named Maya scrolled through her phone, thumb aching from endless swipes. News, memes, arguments, advice—her mind felt like a crowded marketplace. She paused, staring at a viral video, and realized she couldn't remember what she'd watched just moments before. The glow of the screen reflected in her eyes, but inside she felt hollow, disconnected. She was drowning in information, yet starving for a story. She put the phone down and looked out the window, longing for something real, something ancient, something that could hold her together.*
+
+*Maya's experience isn't unique. Across the globe, millions of people wake up each day feeling like strangers in their own lives. Despite unprecedented prosperity, technology, and connection, rates of anxiety, depression, and suicide continue to climb. We have more information than any generation in history, yet feel more lost than ever. We've built systems that seem designed for different beings—institutions that feel alien, work that feels meaningless, relationships that feel hollow.*
+
+*The old stories that once held civilizations together have crumbled. Religion feels outdated. Science offers facts but no meaning. Politics divides rather than unites. We're living through what feels like the collapse of everything that once made sense, yet we have no new story to replace what we've lost.*
+
+*This isn't just personal struggle—it's civilizational crisis. And it's happened before.*
 
 ---
 
@@ -18,9 +34,22 @@ The apprentice shivered, not just from the cold but from the weight of the words
 
 *Three researchers. Three impossible discoveries. Three pieces of a puzzle that would challenge everything humanity thought it knew about itself.*
 
-Something is wrong with the human story we've been told.
+**Something is wrong with the human story we've been told.**
+
+And that wrongness isn't just academic—it's the source of our current crisis. We feel lost because we've been given a story about ourselves that doesn't match our actual experience. We feel like strangers in our own world because we've forgotten who we really are and why we're here.
+
+The symptoms are everywhere:
+- **We feel disconnected** despite being more "connected" than ever
+- **We feel meaningless** despite having more opportunities than any generation in history
+- **We feel powerless** despite having unprecedented technological capabilities
+- **We feel like something is missing** but can't name what it is
+- **We sense we're capable of more** but don't know how to access it
+
+What if these feelings aren't personal failures but accurate perceptions? What if we feel wrong because something about our current story IS wrong?
 
 This book is their investigation—a detective story that follows the clues wherever they lead. We join Dr. Tyra, Dr. Vasquez, Dr. Petrov, and their growing network of colleagues as they examine evidence with fresh eyes, question assumptions that have never been questioned, and piece together a picture of human origins that is far stranger and more profound than anything we've been taught.
+
+But this isn't just an intellectual exercise. Understanding our true origins may be the key to understanding why modern life feels so wrong—and what we can do about it.
 
 What began as separate research projects in isolated fields slowly revealed itself as pieces of a single, impossible puzzle. A puzzle that suggests humanity is not an accident of natural evolution, but something far more complex, far more deliberate.
 
