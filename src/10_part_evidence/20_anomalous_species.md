@@ -88,6 +88,8 @@ Dr. Tyra's investigation revealed another disturbing pattern. Humans exhibit wha
 
 "This is what we see in dogs, cats, horses—every animal humans have domesticated," Dr. Wright said, staring at the comparison charts. "But humans show these traits too. The question is: who domesticated us?"
 
+"But it's the *kind* of domestication that's fascinating," Dr. Wright mused. "It's not like cattle, bred for docility and meat. It's like a species of primate bred for a prolonged childhood. The Gardeners didn't just want a compliant species; they wanted an endlessly curious, adaptable, and creative one. They selected for **neoteny** to create the ultimate **playful learner**."
+
 The implications were staggering. If humans had been domesticated, it meant there had been a domesticator—some intelligence capable of selective breeding on a species-wide scale.
 
 ## The Programming Evidence

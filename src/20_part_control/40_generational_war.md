@@ -155,6 +155,10 @@ The Igigi's arrival wasn't a simple conquest; it was like a new team of system a
 
 "Their 'domestication' plan was useful and efficient because the hardware was already designed for programmability," Dr. Chen observed. "We are, in the most functional sense, biological robots. And the Igigi did not crash-land into a world of wild primitives; they executed a hostile takeover of a sophisticated, pre-existing network of biological machines."
 
+### The Imposition of Seriousness: The Managers' First Act
+
+Dr. Vasquez pointed to the timeline. "The moment the Managers take over, the entire architecture of society changes. The playful, exploratory stone circles are replaced by rigid, hierarchical ziggurats. The agricultural revolution isn't just about food; it's the end of free time. It's the imposition of toil." Dr. Chen added, "The Managers needed predictable workers, not creative players. Their first act was to replace the **social technology of play** with the **social technology of work and worship**. Seriousness, obedience, and fear became the new operating system."
+
 ### The Administrative Structure: The 72 Domains
 
 Dr. Chen's deeper analysis revealed something even more specific about the second group's approach to human management. Across multiple traditions, the number 72 appeared with striking consistency in descriptions of post-intervention authority structures.
