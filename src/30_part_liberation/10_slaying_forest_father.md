@@ -24,15 +24,25 @@ His quest to slay Humbaba was not a heroic impulse. It was a strategic mission, 
 
 Gilgamesh's journey to the Cedar Forest was the model for every colonial expedition in history: a technologically superior force invading a "primitive" land to extract its wealth and eliminate its native guardians.
 
-## The Aftermath: The Birth of Propaganda
+## The Aftermath: Installing the Core Lie
 
-The most significant part of the story is what happened after Humbaba was slain. The narrative was systematically inverted.
+The most significant part of the story is what happened after Humbaba was slain. The narrative was systematically inverted to install a fundamental lie about the nature of consciousness and power.
 
 **The Protector Becomes the Monster**: Humbaba, the guardian appointed by the elder gods, was rebranded as a hideous and evil demon who hoarded the forest's riches. His fierce protection was reframed as malevolent tyranny.
 
 **The Invader Becomes the Hero**: Gilgamesh, the resource-hungry hybrid who destroyed a sacred ecosystem and killed its protector, was celebrated as the hero who "tamed the wilderness" and brought civilization to the untamed world.
 
-This was one of the first and most successful propaganda campaigns in human history. It installed a core program into the human psyche: Nature is a hostile force to be conquered, and its conquest is a heroic act. This single story provided the mythological justification for every act of ecological destruction that followed, from the Roman deforestation of Europe to the clear-cutting of the Amazon rainforest.
+**The Core Lie Installed**: This propaganda campaign did more than justify ecological destruction—it installed the fundamental programming that would drive the War on Magic for millennia:
+
+*"The Tree of Life's power is chaotic, monstrous, and dangerous. It must be 'tamed' by the order and control of the Tree of Knowledge. Those who wield consciousness technologies are threats to civilization that must be eliminated."*
+
+**The Template for Persecution**: The Gilgamesh epic became the template for every subsequent campaign against consciousness technologies:
+- Frame the practitioners as "monsters" or "demons"
+- Present their abilities as "unnatural" and "dangerous"
+- Position their elimination as "heroic" and "civilizing"
+- Celebrate the conquest as bringing "order" to "chaos"
+
+This was one of the first and most successful propaganda campaigns in human history. It didn't just justify ecological destruction—it programmed humanity to fear and attack its own consciousness potential. This single story provided the mythological justification for every witch hunt, every persecution of healers and mystics, every suppression of consciousness technologies that followed.
 
 ## The Legacy: The Green Man and Our Inherited Schizophrenia
 
