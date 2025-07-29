@@ -16,7 +16,6 @@ site/
 build/
 dist/
 assets/
-assets/
 
 # IDE files
 .vscode/
