@@ -1,4 +1,4 @@
-# Chapter 13: The First Architects
+# Chapter 17: The First Architects
 
 *Dr. Rebecca Morrison pulled up her genetic analysis of the earliest human modifications, her excitement barely contained. After weeks of detailed study, she had identified the signatures of what appeared to be the first group's work—subtle, sophisticated, and focused on long-term human potential.*
 

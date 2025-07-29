@@ -1,4 +1,4 @@
-# Chapter 20: The Choice Point
+# Chapter 24: The Choice Point
 
 ## A Day in 2035: Two Possible Futures
 

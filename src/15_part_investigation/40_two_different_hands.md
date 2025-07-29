@@ -1,4 +1,4 @@
-# Chapter 7: Two Different Hands
+# Chapter 11: Two Different Hands
 
 *Dr. Rebecca Morrison stared at her genetic analysis results, a frown deepening across her face. She had been testing the intervention hypothesis by looking for consistent patterns in the human modifications, but what she found was the opposite of consistency.*
 

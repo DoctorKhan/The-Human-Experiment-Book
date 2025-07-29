@@ -1,4 +1,4 @@
-# Part 2: A Theory of the Case
+# Part 3: A Theory of the Case
 
 *Detective Sarah Chen sat in her office at 3 AM, surrounded by evidence boards, genetic charts, and archaeological photos. For months, she'd been following the clues, building the case piece by piece. The genetic bottlenecks, the impossible structures, the systematic population replacements, the consciousness anomalies—they all pointed to the same conclusion.*
 
