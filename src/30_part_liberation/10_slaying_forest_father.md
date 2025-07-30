@@ -1,4 +1,4 @@
-# Chapter 23: The Slaying of the Forest Father
+# Chapter 22: The Slaying of the Forest Father
 
 In the cool, damp stone of a thousand European churches, a face peers out from the carvings—a man's features woven from leaves and vines, his mouth spewing foliage. He is the Green Man, a pagan ghost haunting the architecture of the faith that replaced him. He is a memory without a story, an ache of forgotten connection. Scholars debate his origins, but they are looking in the wrong texts. His story is not written in catechisms, but in the baked clay of Mesopotamia, in the epic of a hero who was anything but.
 
