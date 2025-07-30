@@ -1,4 +1,4 @@
-# Chapter 17: The Alba Preservation Network: Seeds of Light in the Darkness
+# Chapter 20: The Alba Preservation Network: Seeds of Light in the Darkness
 
 *Dr. Elena Vasquez stared at the photographs spread across her desk—bronze artifacts from Sanxingdui, China, dating to 3,000 years ago. The Tree of Life sculptures were unmistakable, their intricate branches and mythological creatures identical to motifs found in Mesopotamian art. But these weren't trade goods or cultural borrowings. The metallurgy was too advanced, appearing suddenly in the archaeological record without local developmental precedent.*
 

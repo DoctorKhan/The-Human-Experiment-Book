@@ -1,4 +1,4 @@
-# Chapter 26: The Lost and the Remembering
+# Chapter 28: The Lost and the Remembering
 
 The city breathed like a dying thing, its concrete lungs exhaling smog and despair in equal measure. Maya Chen pressed her back against the rough bark of an oak tree in Meridian Park, watching the ant-like figures below scurry through their predetermined paths along the glass and steel canyon of 47th Street. Each person moved with the mechanical precision of wind-up toys, their faces illuminated by the blue glow of screens that had become their primary reality.
 

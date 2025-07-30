@@ -1,4 +1,4 @@
-# Chapter 23: Beyond Good and Evil - The Two Trees and Moral Evolution
+# Chapter 25: Beyond Good and Evil - The Two Trees and Moral Evolution
 
 *"There are no facts, only interpretations."* - Friedrich Nietzsche
 
