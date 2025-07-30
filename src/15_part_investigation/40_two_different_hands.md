@@ -84,14 +84,11 @@ Dr. Marcus Chen's analysis of ancient texts provided the narrative framework tha
 
 "Every major mythological tradition describes the same basic pattern," he said, spreading out comparative charts. "Elder gods who created humans, followed by younger gods who took control."
 
-**The Global Pattern:**
-- **Mesopotamian**: Anunnaki (elder gods) vs. Igigi (younger sky gods)
-- **Greek**: Titans (primordial rulers) vs. Olympians (younger gods)
-- **Hebrew**: Elohim (creator gods) vs. Nephilim (sons of god)
-- **Hindu**: Devas (ancient gods) vs. Asuras (power-seeking gods)
-- **Norse**: Vanir (wise gods) vs. Æsir (warrior gods)
+"The myths are a mess," Dr. Chen said, frustration evident in his voice. "Every culture has stories about elder gods being replaced by younger ones, but the names and details are all different. The **Anunnaki** and **Igigi**, the Titans and **Olympians**, the Elohim and **Nephilim**—they're all describing some kind of transition, but I can't make sense of who was who."
 
-"These aren't random cultural inventions," Dr. Chen explained. "They're describing the same events from different perspectives—a transition from one group of interveners to another."
+Dr. Vasquez nodded. "So we have the 'Gardeners' who built the consciousness tech like the early stone circles, and then the 'Managers' who came in, buried those sites, and built the pyramids and ziggurats. But who were they? The myths are contradictory."
+
+"These aren't random cultural inventions," Dr. Chen explained. "They're describing the same events from different perspectives—a transition from one group of interveners to another. But the details have been scrambled."
 
 ## The Takeover Hypothesis
 

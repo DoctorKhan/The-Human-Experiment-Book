@@ -16,16 +16,16 @@ Dr. Chen's analysis of global mythological traditions had revealed a consistent 
 
 **Phase 1: The Functioning System (Pre-Crisis)**
 
-**The Original Anunnaki Experiment:**
+**The Original Werdh-anes Experiment:**
 - **Objective**: Long-term consciousness development project on Earth
-- **The Design**: Two specialized helper races to manage different aspects:
+- **The Design**: Two specialized agent classes to manage different aspects:
 
-**The Apkallu**:
+**The Gneh-tah** (remembered as the **Apkallu**):
 - **Role**: Scientists, teachers, and wisdom-keepers
 - **Gift**: Keepers of the Tree of Knowledge (astronomy, mathematics, genetics, law, agriculture)
 - **Mission**: Share knowledge with humanity to develop analytical capabilities
 
-**The Igigi**:
+**The Igigi** (who later became **The Reges**):
 - **Role**: Administrators, protectors, and energy managers
 - **Gift**: Wielders of the Tree of Life (vital energy, consciousness power, strength, longevity)
 - **Mission**: Share life force with humanity to develop consciousness capabilities
@@ -35,17 +35,17 @@ Dr. Chen's analysis of global mythological traditions had revealed a consistent 
 **Phase 2: The System Crisis (12,900 years ago)**
 
 **The Internal Rebellion:**
-- **The Igigi Corruption**: Beings gifted with Tree of Life power grew arrogant and unstable, refusing their duties
-- **The Apkallu's Dilemma**: Continued fulfilling their mission, sharing Tree of Knowledge with humanity
-- **The Anunnaki's Fear**: Rogue Igigi could weaponize the newly intelligent human population
+- **The Igigi Corruption**: Beings gifted with Tree of Life power grew arrogant and unstable, refusing their duties and staging a coup to become **The Reges**
+- **The Gneh-tah's Dilemma**: Continued fulfilling their mission, sharing Tree of Knowledge with humanity
+- **The Werdh-anes' Fear**: Rogue **Reges** could weaponize the newly intelligent human population
 
 **The Quarantine Protocol:**
-- **The Lockdown**: Anunnaki enacted planetary quarantine to contain the crisis
-- **The Severance**: Cut off Earth's connection to the off-world Tree of Life, severing Igigi from their power source
-- **The Withdrawal**: Anunnaki left the entire system—Igigi, Apkallu, and humans—trapped on Earth to resolve their dysfunction
+- **The Lockdown**: **The Werdh-anes** enacted planetary quarantine to contain the crisis
+- **The Severance**: Cut off Earth's connection to the off-world Tree of Life, severing **The Reges** from their power source
+- **The Withdrawal**: **The Werdh-anes** left the entire system—**The Reges**, **The Gneh-tah**, and humans—trapped on Earth to resolve their dysfunction
 - **The Fall**: Not just humanity's fall, but the fall of the entire local divine hierarchy
 
-"The Mesopotamian sources preserve this tragedy," Dr. Chen explained. "What we've been interpreting as conquest was actually a planetary lockdown. Everyone became prisoners—the Igigi became wardens of a prison they couldn't escape."
+"The Mesopotamian sources preserve this tragedy," Dr. Chen explained. "What we've been interpreting as conquest was actually a planetary lockdown. Everyone became prisoners—**The Reges** became wardens of a prison they couldn't escape."
 
 ## The Survival Transformation: From Research to Domestication
 

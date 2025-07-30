@@ -66,9 +66,9 @@ The evidence was undeniable:
 
 ## The Mythological Echo
 
-Curiously, ancient texts from completely separate cultures seem to preserve memories of this same pattern. Mesopotamian creation stories speak of seven pairs of *Adamu* being created as the first humans. Hindu traditions describe fourteen Manus who serve as progenitors of humanity across different cosmic ages. These stories, separated by thousands of miles and years, describe the same basic structure: systematic creation of human founders, distributed across time and space, with most lineages eventually failing while one succeeds.
+Curiously, this pattern echoes the Mesopotamian creation stories, which speak of seven pairs of the **Adamu** being created by the **Anunnaki**. Hindu traditions describe fourteen Manus who serve as progenitors of humanity across different cosmic ages. These stories, separated by thousands of miles and years, describe the same basic structure: systematic creation of human founders, distributed across time and space, with most lineages eventually failing while one succeeds.
 
-Could these myths be preserving actual memories of the genetic bottleneck? Or is it merely coincidence that ancient stories match the genetic evidence so precisely?
+Could these myths be preserving actual memories of the genetic bottleneck? The precision is unsettling—ancient texts describing exactly what we now see in the genetic data. The **Anunnaki** of Mesopotamian lore were described as beings who shaped humanity through careful selection and modification. Is it merely coincidence that ancient stories match the genetic evidence so precisely?
 
 But perhaps more importantly: if our ancestors were capable of permanent settlements 800,000 years ago, and our bodies show evidence of long-term domestication, what does that say about the true timeline of human development?
 

@@ -88,9 +88,11 @@ Perhaps most puzzling was the pattern Dr. Kim discovered in religious and mythol
 
 **The Pattern Across Cultures:**
 
-**Mesopotamian Mythology**: The Anunnaki gods who had once walked among humans but had withdrawn to the heavens.
+The **Anunnaki** who withdrew, the **Olympians** who rarely intervened, the God of the **Hebrew Tradition** who became hidden. Every advanced culture tells the same story of divine beings who were once present but are now absent.
 
-**Greek Mythology**: The Titans who had been overthrown and banished, leaving humans to serve the Olympian gods who rarely intervened directly.
+**Mesopotamian Mythology**: The **Anunnaki** gods who had once walked among humans but had withdrawn to the heavens.
+
+**Greek Mythology**: The Titans who had been overthrown and banished, leaving humans to serve the **Olympians** who rarely intervened directly.
 
 **Hebrew Tradition**: A God who had once walked in the Garden of Eden but now remained hidden, communicating only through intermediaries.
 

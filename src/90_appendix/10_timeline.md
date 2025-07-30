@@ -39,19 +39,19 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 - **Departure**: Mission completed successfully, returned to home world leaving experiments to evolve naturally
 
 **Phase 2: The Off-World Development Program (Interim Period)**
-- **Location**: Anunnaki home world
-- **Activity**: Using harvested human DNA, bio-engineered two specialized helper races:
-  - **Apkallu**: Aquatic/subterranean scientists and teachers, keepers of the **Tree of Knowledge** (astronomy, mathematics, genetics, law, agriculture)
-  - **Igigi**: High-altitude administrators and warriors, wielders of the **Tree of Life** (vital energy, consciousness power, strength, longevity)
-- **Purpose**: Prepare specialized crews for eventual return to Earth - Apkallu to share knowledge, Igigi to provide protection and administration
+- **Location**: **Werdh-anes** home world
+- **Activity**: Using harvested human DNA, bio-engineered two specialized agent classes:
+  - **The Gneh-tah** (remembered as the **Apkallu**): Aquatic/subterranean scientists and teachers, keepers of the **Tree of Knowledge** (astronomy, mathematics, genetics, law, agriculture)
+  - **The Igigi** (who later became **The Reges**): High-altitude administrators and warriors, wielders of the **Tree of Life** (vital energy, consciousness power, strength, longevity)
+- **Purpose**: Prepare specialized crews for eventual return to Earth - **The Gneh-tah** to share knowledge, **The Igigi** to provide protection and administration
 
 **Phase 3: The Catastrophic Return and the Great Rebellion (12,900 Years Ago)**
 - **Plan**: Controlled return with specialized crews to check on experiment progress
 - **Reality**: Ship explosion during atmospheric entry creates Younger Dryas crisis
-- **Initial Cooperation**: Stranded Apkallu begin sharing knowledge with humans to rebuild civilization (agriculture, writing, law)
-- **The Igigi Rebellion**: Igigi grow resentful of Apkallu "giving away" civilization's secrets to primitive humans
-- **The Coup**: Igigi use their superior vital energy and warrior training to overthrow Apkallu leadership
-- **The Great Theft**: Igigi implement the ultimate control measure - they restrict humanity's access to the Tree of Life while allowing limited access to Tree of Knowledge
+- **Initial Cooperation**: Stranded **Gneh-tah** begin sharing knowledge with humans to rebuild civilization (agriculture, writing, law)
+- **The Igigi Rebellion**: **The Igigi** grow resentful of **The Gneh-tah** "giving away" civilization's secrets to primitive humans
+- **The Coup**: **The Igigi** use their superior vital energy and warrior training to overthrow **Gneh-tah** leadership, establishing themselves as **The Reges**
+- **The Great Theft**: **The Reges** implement the ultimate control measure - they restrict humanity's access to the Tree of Life while allowing limited access to Tree of Knowledge
 - **The Tragic Result**: Humanity gains technological brilliance but loses vital energy, creating a species capable of great knowledge but lacking the life force to use it wisely
 
 ## Phase II: The MIS 6 Modification Period (150,000-130,000 Years Ago)
@@ -164,7 +164,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 - **The Extinction Scenario**: Human Y-chromosomes being systematically bred out of existence over centuries
 - **Humanity's Innovation**: Invention of patriarchy as a survival strategy - the first act of conscious self-programming
 - **The 17:1 Bottleneck**: Result of humanity's own desperate control of reproduction, not external purge
-- **The Trauma Legacy**: Patriarchal security programming becomes humanity's dominant operating system
+- **The Adaptive Legacy**: Patriarchal protection systems become humanity's dominant organizing principle—a successful survival innovation that now requires conscious expansion
 
 **The Great Reproductive Bottleneck (~8,000-5,000 years ago)**: Genetic evidence reveals an extreme demographic crisis during this period:
 - Only 1 man successfully reproduces for every 17 women who bear children
@@ -314,7 +314,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 
 ## The Present Moment: Living Out Ancient Trauma
 
-Humanity currently exists in a unique historical position - still operating from the patriarchal security programming developed during the Great Trauma, while the original threat (Nephilim) no longer exists. This creates the fundamental tensions of human experience:
+Humanity currently exists in a unique historical position - still operating from the patriarchal protection systems developed during the Great Crisis, while the original threat (Nephilim) no longer exists. This creates both the tensions and opportunities of human experience:
 
 **The Three Inheritance Programs Still Running:**
 
@@ -328,11 +328,11 @@ Humanity currently exists in a unique historical position - still operating from
 - Guardians of pre-trauma consciousness and balanced relationships
 - The memory of what was lost when patriarchy was invented
 
-**Human Inheritance (Patriarchal Security Program):**
-- Obsession with lineage, purity, and control
-- Gender conflict and fear of the "uncontrollable" feminine
-- Honor/shame cultures designed to prevent genetic "contamination"
-- The trauma response that became our dominant operating system
+**Human Inheritance (Patriarchal Protection Program):**
+- Deep commitment to lineage, continuity, and structural stability—born from existential terror of genetic annihilation
+- Masculine drive to protect and provide, intensified by ancestral fear of **Wiros** dominance, **Alba** magic, and climatic collapse
+- Honor/shame cultures designed to maintain social cohesion under existential threat—fear-based systems that created both necessary protection and destructive control
+- The protective innovation born from terror that became our foundational organizing system, carrying both survival wisdom and trauma patterns that now require conscious integration
 
 **The Modern Crisis:**
 The security program that saved us from extinction now threatens our survival through ecological collapse, social fragmentation, and spiritual emptiness. The pain of the system's failure is the alarm clock for collective healing.

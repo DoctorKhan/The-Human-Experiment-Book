@@ -18,7 +18,7 @@ In most mammalian species, the reproductive ratio is much closer to 1:1. Even in
 
 "Look at the timeline," Dr. Tyra explained to her research team. "Before agriculture, human reproductive patterns were relatively normal. Then, around 10,000 years ago, this extreme bottleneck appears suddenly across multiple populations simultaneously."
 
-The implications were staggering. Someone or something had gained control over human reproduction on a global scale, determining which males could breed and which could not.
+The implications were staggering. Someone or something had gained control over human reproduction on a global scale, determining which males could breed and which could not. This level of reproductive control seems almost inhuman, resonating with biblical tales of the **Nephilim**—divine beings who interbred with humanity and disrupted the natural order.
 
 ## The British Isles Anomaly
 

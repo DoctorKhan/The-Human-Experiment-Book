@@ -1,5 +1,17 @@
 # Glossary of Terms
 
+## PIE-Derived Terms (The True Names)
+
+**Alba, The** - (from PIE `*albho-`, "white, bright"). The revealed functional name for the hybrid preservation lineage created by **The Gneh-tah** to carry forward the original **Werdh-anes** knowledge. Characterized by enhanced cognitive abilities, longevity, and consciousness technologies. **Cultural Echoes:** Elves (Germanic), Tuatha Dé Danann (Celtic), Álfar (Norse), Shining Ones (various traditions).
+
+**Gneh-tah, The** - (from PIE `*ǵneh₃-`, "to know"). The revealed functional name for the scientist-class agents created by **The Werdh-anes** to serve as teachers and knowledge-keepers. They maintained the original plan even after **The Reges** coup. **Cultural Echoes:** Apkallu (Mesopotamian), Rishis (Hindu), Prometheus-type figures (Greek), Wise Ones (various traditions).
+
+**Reges, The** - (from PIE `*h₃rḗǵs`, "ruler, king"). The revealed functional name for the administrator-class agents who staged a coup against **The Werdh-anes** and **The Gneh-tah**, establishing themselves as the new rulers of the human experiment. **Cultural Echoes:** Igigi (Mesopotamian), Olympians (Greek), Æsir (Norse), Asuras (Hindu).
+
+**Werdh-anes, The** - (from PIE `*werdh-`, "to grow, increase"). The revealed functional name for the primordial architects who designed the original Human Experiment as a long-term consciousness development project. **Cultural Echoes:** Anunnaki (Mesopotamian), Titans (Greek), Vanir (Norse), Devas (Hindu).
+
+**Wiros, The** - (from PIE `*wiHrós`, "hero, man"). The revealed functional name for the hybrid warrior lineage created by **The Reges** to serve as their enforcers. Characterized by physical prowess, aggression, and a philosophy of domination. **Cultural Echoes:** Nephilim (Hebrew), The Heroes (Greek), Giants/Jötnar (Norse), Rakshasa (Hindu).
+
 ### A
 
 **Abraham's Covenant** - The establishment of monotheistic covenant system around 4,000 years ago as a sophisticated evolution of control technology. Replaced polytheistic confusion with single authority, created chosen people concept, and introduced moral law as internalized control mechanism.
@@ -11,11 +23,11 @@
 **Albians** - The final survivors carrying significant Titan genetic heritage, displaying hybrid characteristics similar to tigons and ligers. They established their stronghold in Albion (Britain), preserving Titan consciousness technologies through stone circle networks (Stonehenge, Avebury) and matrifocal social structures. Systematically eliminated during the Bell Beaker expansion (~4,500-3,500 years ago), which brought up to 90% population replacement to the British Isles. Archaeological evidence shows violent conquest by Indo-European warrior cultures, though Albian knowledge was encoded into surviving megalithic structures and later Celtic traditions.
 
 **Age of Heroes** - The Bronze Age period (~3,500-1,200 years ago) representing the final era of direct divine-human interaction. Heroes like Gilgamesh, Hercules, and Achilles represent the last generation of human-divine hybrids with enhanced capabilities.
-**Anunnaki** - The older generation of beings (Tiamat, Abzu, Lahmu/Lahamu, Anshar/Kishar) who initiated the original human experiment. They operated on geological timescales with patient, evolutionary approach designed to eventually produce independent conscious beings. Overthrown by the younger Igigi generation during the Younger Dryas catastrophe.
+**Anunnaki** - Mesopotamian cultural echo of **The Werdh-anes**, the primordial architects who initiated the original human experiment. They operated on geological timescales with patient, evolutionary approach designed to eventually produce independent conscious beings. Overthrown by **The Reges** (remembered as the Igigi) during the Younger Dryas catastrophe.
 
-**Apkallu** - Ancient Mesopotamian term for the "seven sages" or divine beings who brought civilization to humanity. In this framework, they represent the Anunnaki overseers who managed human development during the Domestication Period.
+**Apkallu** - Ancient Mesopotamian cultural echo of **The Gneh-tah**, the "seven sages" or divine beings who brought civilization to humanity. In this framework, they represent the scientist-class agents who managed human development and preserved the original **Werdh-anes** plan even after **The Reges** coup.
 
-**Igigi** - The younger generation of beings (originally sky gods and laborers) who overthrew the older Anunnaki generation during the cosmic war marked by the Younger Dryas impact (12,900 years ago). They represented a different philosophy - preferring direct, systematic control over the Anunnaki's patient, evolutionary approach to human development. Originally served as workers for the Anunnaki before their rebellion led to human creation and their eventual takeover of human management.
+**Igigi** - Mesopotamian cultural echo of **The Reges**, the administrator-class agents who overthrew **The Werdh-anes** and **The Gneh-tah** during the cosmic war marked by the Younger Dryas impact (12,900 years ago). They represented a different philosophy - preferring direct, systematic control over the original patient, evolutionary approach to human development.
 
 ### B
 
@@ -47,7 +59,7 @@
 
 ## N
 
-**Nephilim** - Biblical term for the "giants" or "fallen ones" - the offspring of divine beings and human women. In this framework, they represent hybrid descendants displaying characteristics similar to tigons and ligers: first-generation vigor with enhanced capabilities, but genetic instability and fertility issues in later generations requiring constant breeding program management.
+**Nephilim** - Hebrew cultural echo of **The Wiros**, the "giants" or "fallen ones" - the offspring of **The Reges** and human women. In this framework, they represent the hybrid warrior lineage displaying characteristics similar to tigons and ligers: first-generation vigor with enhanced capabilities, but genetic instability and fertility issues in later generations requiring constant breeding program management.
 
 ## S
 
