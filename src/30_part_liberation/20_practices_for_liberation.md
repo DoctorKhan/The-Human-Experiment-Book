@@ -32,7 +32,7 @@ Consciousness technologies to restore the original human capabilities that **The
 
 **The Integration**: When you combine these four protocols, you become capable of operating as **The Werdh-anes** originally intended—a conscious, creative being with access to both analytical intelligence and consciousness technologies, no longer limited by **Reges** programming.
 
-**The Wolf-Prince Warning**: The legend of ***Wl̥kʷós*** teaches us that liberation is not just about gaining power or defeating oppressors. The ultimate challenge is learning to fight systems without becoming them, to use power without being corrupted by it, and to create something genuinely new rather than just replacing one hierarchy with another.
+
 
 ## A WORD OF WARNING
 
@@ -422,19 +422,7 @@ Remember: This is not about perfection or dramatic transformation. It's about gr
 
 The goal is not to become superhuman, but to become fully human—to reclaim the consciousness technologies that are your birthright and use them in service of your own liberation and the awakening of others.
 
-## The Wolf-Prince Model: Heroism Without Corruption
 
-The legend of ***Wl̥kʷós*** provides a crucial framework for modern heroes. His story validates righteous anger and action while teaching the profound lesson that victory can create new problems. The Wolf-Prince model offers:
-
-**Validation of Action**: Fighting oppression is necessary and righteous. There are real monsters, and passivity is not the answer.
-
-**Integration of Strength and Wisdom**: True heroism combines the warrior's courage with the sage's understanding, strategy with consciousness.
-
-**Awareness of Corruption**: The ultimate challenge is not to win, but to win without becoming the new oppressor.
-
-**The Modern Mission**: How can we fight systems without becoming them? How can we unify people without creating new religions? How can we use power without being corrupted by it?
-
-This is the hero's quest for our time—not just liberation, but conscious liberation that doesn't replicate the patterns of domination.
 
 ## Practice 2: The Perseus Protocol - Disabling Reges Binary Programming
 

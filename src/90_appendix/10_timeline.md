@@ -194,27 +194,6 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 - This catastrophe becomes preserved in biblical flood narratives
 - Represents the failure of early post-abandonment control systems
 
-## Phase VII.5: The Wolf-Prince Rebellion (~3,800-3,400 Years Ago)
-
-**The Imperfect Champion**: A legendary figure who successfully fought back against **The Reges** but whose victory created new problems:
-- ***Wl̥kʷós*** (the Wolf-Prince) emerges as a **Gneh-Wiros** hybrid with access to both Trees
-- Unifies scattered human tribes (**Menes**) into the first resistance movement since the takeover
-- Hunts and destroys failed **Wiros** prototypes (the "dragons" and "chimeras" of legend)
-- Leads successful military campaign against local **Rex** and **Wiros** legions
-- Establishes the first free human kingdom since **The Reges'** conquest
-
-**The Tragic Victory**: Liberation through conquest creates new oppression:
-- Military hierarchy required for victory becomes permanent social structure
-- Followers begin worshipping ***Wl̥kʷós*** as god-king, recreating divine authority
-- Consciousness technologies become taboo for common people, reserved for priestly class
-- Guerrilla tactics of liberation become iron laws of new kingdom
-- After ***Wl̥kʷós'*** death, his empire evolves into system mirroring **Reges** control
-
-**The Suppressed Legacy**: Both **Reges** and **Gneh-tah** survivors bury this story:
-- **Reges** suppress it because it proves they can be defeated
-- **Gneh-tah** suppress it because it shows the dangers of fighting on **Reges** terms
-- Story becomes fragmented, preserved only in scattered, hidden texts
-- Provides crucial lesson: "You cannot use the Master's tools to dismantle the Master's house"
 
 ## Phase VIII: Covenant Control Systems (4,000 Years Ago-Present)
 
@@ -336,7 +315,6 @@ The technological escalation using divine hardware upgrades:
 - **Abraham's Calling** (~4,000 years ago): Establishment of monotheistic covenant system as post-abandonment control mechanism
 - **Bell Beaker Expansion (*koryos Period)** (~4,800-4,100 years ago): **The Reges** deploy self-replicating warrior bands across Western Europe, achieving up to 90% population replacement
 - **Sintashta Revolution (Chariot Period)** (~4,100-3,800 years ago): Technology transfer provides elite **\*koryos** bands with war chariots, enabling rapid conquest of Eurasia
-- **Wolf-Prince Rebellion** (~3,800-3,400 years ago): ***Wl̥kʷós*** successfully fights **The Reges** but his victory creates new oppression, demonstrating the trap of using the Master's tools
 - **Age of Heroes** (~3,500-1,200 years ago): Bronze Age period of legendary figures and divine-human interactions
 - **Albian Retreat to Albion** (~3,000-2,000 years ago): Last **Werdh-anes** descendants establish final stronghold in Britain
 - **Roman Conquest of Albion** (~2,000-1,500 years ago): Systematic destruction of final **Werdh-anes** consciousness technologies and bloodlines

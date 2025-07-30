@@ -92,7 +92,7 @@ Dr. Tyra looked around the room. "Which means our investigation isn't just acade
 
 Dr. Vasquez studied her archaeological data with new understanding. "And if this framework is correct, we should be able to find evidence of how **The Reges** actually implemented their takeover. The mechanisms, the methods, the human agents they used."
 
-"We need to investigate the conquest itself," Dr. Chen agreed. "Not just the mythology, but the actual historical process. How did they turn humans into their own conquerors? And more importantly—did anyone ever successfully fight back?"
+"We need to investigate the conquest itself," Dr. Chen agreed. "Not just the mythology, but the actual historical process. How did they turn humans into their own conquerors?"
 
 ## The Path Forward
 

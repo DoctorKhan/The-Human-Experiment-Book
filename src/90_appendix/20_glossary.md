@@ -89,10 +89,6 @@
 
 **Perseus Protocol** - The archetypal approach to consciousness liberation that allows individuals to see and transform programming without being overwhelmed. Named after the mythological hero who used a mirror shield to defeat Medusa without looking directly at her. Represents the technology of indirect seeing—approaching difficult truths through reflection, metaphor, and strategic perspective rather than direct confrontation. The three Perseus tools are: the Mirror Shield (reflective awareness), Winged Sandals (dimensional mobility), and the Sword of Discrimination (precise discernment).
 
-## W
-
-***Wl̥kʷós*** **(The Wolf-Prince)** - (from PIE `*wl̥kʷós`, "wolf"). Legendary figure known as the "Imperfect Champion" who successfully fought **The Reges** but whose victory created new oppression. A human with dormant **Werdh-anes** genetics who underwent brutal self-activation to become a **Gneh-Wiros** hybrid with access to both Trees. Led the first successful resistance movement since the takeover, hunting failed **Wiros** prototypes and establishing a free human kingdom. His tragic legacy demonstrates the fundamental trap: "You cannot use the Master's tools to dismantle the Master's house." His story serves as both inspiration and warning for modern liberation movements.
-
 ## Y
 
 **Yahweh** - Within this framework, one of the seventy sons of El assigned to govern specific human populations. Not a "bad" faction but a territorial divine authority competing with divine siblings for influence. The name "Israel" (Isra-El) means "those who struggle with El," suggesting eventual conflict with the higher divine hierarchy. Represents both political divine management and authentic spiritual relationship that generated genuine wisdom and moral development.

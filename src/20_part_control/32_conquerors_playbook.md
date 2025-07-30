@@ -126,6 +126,6 @@ Dr. Vasquez studied her archaeological data with new understanding. "The conques
 
 *As the team absorbed the magnitude of their discovery, they realized they had uncovered not just ancient history, but the active operating system of modern civilization. The myths that **The Reges** had installed 5,000 years ago were still running, still shaping human consciousness, still justifying the same patterns of domination and extraction.*
 
-*But Dr. Chen was already noticing fragments that didn't fit this pattern—suppressed stories that seemed to have been deliberately erased from both **Reges** propaganda and **Gneh-tah** lore. Stories of someone who had tried a different approach entirely.*
+*But Dr. Chen was already noticing fragments that didn't fit this pattern—suppressed stories that seemed to have been deliberately erased from both **Reges** propaganda and **Gneh-tah** lore. Stories suggesting that someone had once fought back, though the details remained frustratingly incomplete.*
 
-*The question was no longer just what **The Reges** had believed. It was whether humanity could ever break free from the mythological programming that had defined civilization itself—and whether anyone had ever succeeded in doing so.*
+*The question was no longer just what **The Reges** had believed. It was whether humanity could ever break free from the mythological programming that had defined civilization itself.*
