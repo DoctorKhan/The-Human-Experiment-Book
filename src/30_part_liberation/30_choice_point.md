@@ -32,6 +32,8 @@ The choice point humanity faces is not about technology, politics, or economics�
 
 *After the healing circle, Elena joined the council meeting where the community made decisions about resource allocation and external relationships. No voting was necessary—through the consciousness technologies they had developed, they could sense the collective wisdom emerging from their discussions. Disagreements were rare because they could feel each other's authentic concerns and find solutions that honored everyone's needs.*
 
+*What made their community different from the old spiritual movements was their commitment to verification. When the healers in the morning circle reported success with a new plant medicine, the community's scientists would conduct controlled studies to verify its effects and understand its mechanism. Their spiritual texts were living documents, constantly updated with new discoveries. They had learned that intuitive wisdom without scientific rigor could lead to dangerous delusion, while science without spiritual understanding created a dead world. Their civilization thrived because they honored both the truths of the heart and the facts of the mind, integrating direct experience with careful verification.*
+
 *The afternoon brought a visit from a delegation of "sleepers"—people from the conventional world who were beginning to question their programming. Elena remembered her own awakening twenty years ago, the terror and excitement of realizing that everything she had believed about reality was incomplete.*
 
 *"How do you know this isn't just another form of control?" asked David, a former corporate executive whose world had crumbled when he realized his entire career had been built on manipulating human psychology.*
