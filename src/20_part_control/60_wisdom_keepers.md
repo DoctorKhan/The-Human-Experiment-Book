@@ -1,4 +1,4 @@
-# Chapter 18: The Great Transition
+# Chapter 21: The Great Transition
 
 *Dr. Elena Vasquez stood in the ruins of Göbekli Tepe, studying the evidence of its deliberate burial around 8000 BCE. The sophisticated astronomical observatory had been systematically covered with tons of earth, preserving it perfectly but ending its function as a consciousness-enhancing technology.*
 

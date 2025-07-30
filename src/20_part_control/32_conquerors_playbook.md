@@ -1,4 +1,4 @@
-# Chapter 14: The Conquerors' Playbook
+# Chapter 15: The Conquerors' Playbook
 
 *Dr. Marcus Chen burst into the conference room three days after their discovery of the \*koryos system, his arms full of comparative mythology texts and his laptop displaying complex mythological charts. His eyes were bright with the terrible excitement of someone who had just decoded humanity's darkest secret.*
 

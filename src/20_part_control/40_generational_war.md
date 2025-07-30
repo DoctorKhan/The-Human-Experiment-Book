@@ -1,4 +1,4 @@
-# Chapter 15: Two Different Hands
+# Chapter 18: Two Different Hands
 
 *Dr. Marcus Chen spread out his comparative analysis of ancient texts across the conference table. After weeks of detailed study, he had discovered something that refined their intervention hypothesis in a crucial way.*
 

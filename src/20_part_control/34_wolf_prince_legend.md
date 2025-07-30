@@ -1,4 +1,4 @@
-# Chapter 15: The Wolf-Prince Legend
+# Chapter 16: The Wolf-Prince Legend
 
 *Dr. Marcus Chen sat alone in the Stanford library at 3 AM, surrounded by fragments of ancient texts that didn't fit any of the patterns they had discovered. These weren't standard PIE propaganda myths, nor were they hidden **Gneh-tah** wisdom traditions. They were something else entirely—suppressed stories that seemed to have been deliberately erased from both official and underground records.*
 
