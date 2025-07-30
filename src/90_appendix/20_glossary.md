@@ -2,7 +2,7 @@
 
 ## PIE-Derived Terms (The True Names)
 
-**Alba, The** - (from PIE `*albho-`, "white, bright"). The revealed functional name for the hybrid preservation lineage created by **The Gneh-tah** to carry forward the original **Werdh-anes** knowledge. Characterized by enhanced cognitive abilities, longevity, and consciousness technologies. **Cultural Echoes:** Elves (Germanic), Tuatha Dé Danann (Celtic), Álfar (Norse), Shining Ones (various traditions).
+**Alba, The** - (from PIE `*albho-`, "white, bright"). The revealed functional name for the hybrid preservation lineage created by **The Gneh-tah** to carry forward the original **Werdh-anes** knowledge. After **The Reges** conquest, **Alba** survivors implemented a sophisticated global preservation strategy, integrating into major civilizations while seeding consciousness technologies through cultural embedding and genetic distribution. Archaeological evidence of **Alba** influence found worldwide, from Sanxingdui bronze artifacts in China to Greek mystery schools to Vedic traditions in India. **Cultural Echoes:** Elves (Germanic), Tuatha Dé Danann (Celtic), Álfar (Norse), Shining Ones (various traditions).
 
 **Gneh-tah, The** - (from PIE `*ǵneh₃-`, "to know"). The revealed functional name for the scientist-class agents created by **The Werdh-anes** to serve as teachers and knowledge-keepers. They maintained the original plan even after **The Reges** coup. **Cultural Echoes:** Apkallu (Mesopotamian), Rishis (Hindu), Prometheus-type figures (Greek), Wise Ones (various traditions).
 
