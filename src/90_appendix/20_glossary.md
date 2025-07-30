@@ -51,6 +51,10 @@
 
 **Hybrid Genetics** - The Nephilim displayed characteristics similar to tigons and ligers in modern big cat breeding: first-generation hybrid vigor with enhanced capabilities, followed by genetic instability and fertility issues in later generations. This required systematic breeding programs to maintain hybrid lines, contributing to the 17:1 reproductive bottleneck.
 
+## K
+
+**\*koryos** - (PIE reconstructed term). The social institution of landless warrior bands, identified as the "human engine" of **The Reges'** conquest. Responsible for the slow-phase cultural and genetic replacement in Western Europe (e.g., the Bell Beaker phenomenon). These bands of young, landless warriors were ritually associated with wolves or dogs, engaged in ecstatic rites to enter battle-fury, and functioned as self-replicating shock troops carrying the complete PIE ideological package. The human implementation of **The Wiros** program.
+
 ## M
 
 **Manu** - In Hindu tradition, the progenitors of humanity across different cosmic ages. Fourteen Manus rule over successive periods (Manvantaras), with each cosmic age ending in destruction of the current human type and emergence of a new Manu with enhanced capabilities. This tradition parallels the Mesopotamian seven pairs of Adamu, suggesting global memory of systematic human genetic engineering. We currently live under the seventh Manu (Vaivasvata), approaching a transition to the eighth.
@@ -63,7 +67,7 @@
 
 ## S
 
-**Sintashta** - An ancient culture (circa 2100-1800 BCE) known for advanced metallurgy, horse domestication, and chariot technology. Within this narrative, they represent one of the post-catastrophe civilizations that preserved fragments of Titan knowledge and technology.
+**Sintashta Culture** - A specific archaeological culture (~2100-1800 BCE) on the Eurasian steppe. Identified as the recipients of a direct technology transfer from **The Reges**, granting them the first war chariots and advanced bronze weapons. Represented an escalation from social warfare (**\*koryos**) to high-tech warfare, enabling the rapid conquest of Eurasia and explosive spread of Indo-European languages and **Reges** ideology. They were **\*koryos** 2.0—elite warrior bands who received the hardware upgrade.
 
 ## S
 
@@ -84,6 +88,10 @@
 ## P
 
 **Perseus Protocol** - The archetypal approach to consciousness liberation that allows individuals to see and transform programming without being overwhelmed. Named after the mythological hero who used a mirror shield to defeat Medusa without looking directly at her. Represents the technology of indirect seeing—approaching difficult truths through reflection, metaphor, and strategic perspective rather than direct confrontation. The three Perseus tools are: the Mirror Shield (reflective awareness), Winged Sandals (dimensional mobility), and the Sword of Discrimination (precise discernment).
+
+## W
+
+***Wl̥kʷós*** **(The Wolf-Prince)** - (from PIE `*wl̥kʷós`, "wolf"). Legendary figure known as the "Imperfect Champion" who successfully fought **The Reges** but whose victory created new oppression. A human with dormant **Werdh-anes** genetics who underwent brutal self-activation to become a **Gneh-Wiros** hybrid with access to both Trees. Led the first successful resistance movement since the takeover, hunting failed **Wiros** prototypes and establishing a free human kingdom. His tragic legacy demonstrates the fundamental trap: "You cannot use the Master's tools to dismantle the Master's house." His story serves as both inspiration and warning for modern liberation movements.
 
 ## Y
 

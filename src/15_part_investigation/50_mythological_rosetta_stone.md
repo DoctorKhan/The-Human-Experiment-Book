@@ -90,6 +90,10 @@ Dr. Chen moved to a fresh section of the whiteboard. "If this framework is corre
 
 Dr. Tyra looked around the room. "Which means our investigation isn't just academic research. We might be part of the awakening process ourselves."
 
+Dr. Vasquez studied her archaeological data with new understanding. "And if this framework is correct, we should be able to find evidence of how **The Reges** actually implemented their takeover. The mechanisms, the methods, the human agents they used."
+
+"We need to investigate the conquest itself," Dr. Chen agreed. "Not just the mythology, but the actual historical process. How did they turn humans into their own conquerors? And more importantly—did anyone ever successfully fight back?"
+
 ## The Path Forward
 
 "Now that we have the complete framework," Dr. Tyra said, "we need to test it. If **The Reges** are still in control through modern institutions, we should be able to identify their systems. If the **Alba** bloodlines carry dormant **Gneh-tah** knowledge, we should be able to reactivate it. And if we're approaching the prophesied choice point, we should see signs of the old system breaking down."

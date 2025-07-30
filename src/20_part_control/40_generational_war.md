@@ -45,7 +45,7 @@ Dr. Chen's analysis of global mythological traditions had revealed a consistent 
 - **The Withdrawal**: **The Werdh-anes** left the entire system—**The Reges**, **The Gneh-tah**, and humans—trapped on Earth to resolve their dysfunction
 - **The Fall**: Not just humanity's fall, but the fall of the entire local divine hierarchy
 
-"The Mesopotamian sources preserve this tragedy," Dr. Chen explained. "What we've been interpreting as conquest was actually a planetary lockdown. Everyone became prisoners—**The Reges** became wardens of a prison they couldn't escape."
+"The Mesopotamian sources preserve this tragedy," Dr. Chen explained. "What we've been interpreting as conquest was actually a planetary lockdown. Everyone became prisoners—**The Reges** became wardens of a prison they couldn't escape. But they were brilliant wardens. They created human systems to maintain their control: the **\*koryos** warrior bands, the Sintashta chariot technology, the entire ideological framework that justified their dominance."
 
 ## The Survival Transformation: From Research to Domestication
 

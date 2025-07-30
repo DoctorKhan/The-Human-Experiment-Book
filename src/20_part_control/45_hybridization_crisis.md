@@ -219,7 +219,7 @@ Every generation faces the same fundamental choice our ancestors faced when conf
 - **Fear of the "other"**: The same terror of **Alba** magic that led to systematic persecution now manifests as fear of consciousness technologies, alternative healing, and non-mainstream spiritual practices
 - **Genetic anxiety**: The same obsession with bloodline purity that created honor/shame cultures now appears in debates over genetic modification, racial purity, and cultural preservation
 
-The trauma patterns are not historical curiosities—they are the active operating system driving current global crises.
+The trauma patterns are not historical curiosities—they are the active operating system driving current global crises. The same **\*koryos** system that **The Reges** used to deploy warrior bands across Europe is still recruiting young, landless men into ideological shock troops today.
 
 **The Endgame: Demonstrating Stability**
 The biological robot framework reveals our true mission: **prove that we can heal from our own self-inflicted trauma**. This means:

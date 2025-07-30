@@ -194,6 +194,28 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 - This catastrophe becomes preserved in biblical flood narratives
 - Represents the failure of early post-abandonment control systems
 
+## Phase VII.5: The Wolf-Prince Rebellion (~3,800-3,400 Years Ago)
+
+**The Imperfect Champion**: A legendary figure who successfully fought back against **The Reges** but whose victory created new problems:
+- ***Wl̥kʷós*** (the Wolf-Prince) emerges as a **Gneh-Wiros** hybrid with access to both Trees
+- Unifies scattered human tribes (**Menes**) into the first resistance movement since the takeover
+- Hunts and destroys failed **Wiros** prototypes (the "dragons" and "chimeras" of legend)
+- Leads successful military campaign against local **Rex** and **Wiros** legions
+- Establishes the first free human kingdom since **The Reges'** conquest
+
+**The Tragic Victory**: Liberation through conquest creates new oppression:
+- Military hierarchy required for victory becomes permanent social structure
+- Followers begin worshipping ***Wl̥kʷós*** as god-king, recreating divine authority
+- Consciousness technologies become taboo for common people, reserved for priestly class
+- Guerrilla tactics of liberation become iron laws of new kingdom
+- After ***Wl̥kʷós'*** death, his empire evolves into system mirroring **Reges** control
+
+**The Suppressed Legacy**: Both **Reges** and **Gneh-tah** survivors bury this story:
+- **Reges** suppress it because it proves they can be defeated
+- **Gneh-tah** suppress it because it shows the dangers of fighting on **Reges** terms
+- Story becomes fragmented, preserved only in scattered, hidden texts
+- Provides crucial lesson: "You cannot use the Master's tools to dismantle the Master's house"
+
 ## Phase VIII: Covenant Control Systems (4,000 Years Ago-Present)
 
 **Abraham's Calling (~4,000 years ago)**: In response to the failure of automated control systems, a new approach emerges:
@@ -241,20 +263,24 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 - Islam further refines and systematizes the approach
 - All three maintain core control mechanisms while adapting to different cultures
 
-## Phase X: The Final Elimination (~4,500-3,500 Years Ago)
+## Phase X: The Two-Phase Final Conquest (~4,500-3,500 Years Ago)
 
-**The Bell Beaker Expansion**: The systematic destruction of the last Titan stronghold:
-- Bell Beaker culture spreads across Western Europe (~4,500-3,800 years ago)
-- Archaeological evidence shows massive population replacement in Britain (~4,400 years ago)
-- Up to 90% genetic turnover in British Isles population within a few centuries
-- Systematic targeting and elimination of existing Neolithic populations
-- Destruction of ancient stone circle ceremonies and consciousness practices
+**Phase 1: The Bell Beaker Expansion (*koryos Period, ~2800-2100 BCE)**
+The systematic destruction of the last **Werdh-anes** stronghold using human social software:
+- **The *koryos System**: **The Reges** deploy self-replicating warrior bands across Western Europe
+- **Social Programming**: Young, landless warriors carry complete PIE ideological package
+- **Systematic Extermination**: Up to 90% genetic replacement in Britain (~2450 BCE) within centuries
+- **Cultural Overwriting**: Complete replacement of Neolithic traditions, burial practices, technologies
+- **Consciousness Technology Destruction**: Ancient stone circles abandoned, **Gneh-tah** practices buried
+- **Methodical Expansion**: The same pattern repeated across Western Europe with mechanical precision
 
-**The Sintashta Connection**: The militarized expansion phase:
-- Sintashta culture (~4,200-3,600 years ago) develops advanced bronze weaponry and horse warfare
-- Rapid spread of Indo-European warrior cultures across Europe
-- Archaeological evidence of violent conquest and population displacement
-- Systematic destruction of matrifocal societies and goddess-centered cultures
+**Phase 2: The Sintashta Revolution (Chariot Period, ~2100-1800 BCE)**
+The technological escalation using divine hardware upgrades:
+- **Technology Transfer**: **The Reges** provide elite **\*koryos** bands with chariot technology and advanced bronze-working
+- **Sintashta Culture**: Recipients of the hardware upgrade become unstoppable force on Eurasian steppe
+- **Rapid Conquest**: High-speed chariot warfare enables conquest from India to Greece
+- **PIE Language Spread**: Explosive expansion of Indo-European languages and **Reges** ideology
+- **Final Elimination**: Remaining centers of **Werdh-anes** and **Gneh-tah** influence systematically destroyed
 
 **The End of the Albian Bloodlines**: The final phase of genetic elimination:
 - Systematic targeting of families carrying Titan genetic markers
@@ -308,9 +334,12 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 - **The Abandonment** (6,000 years ago): Control systems continue operating without active management
 - **The Biblical Deluge** (4,200 years ago): Climate catastrophe during Bronze Age collapse, preserved in flood narratives
 - **Abraham's Calling** (~4,000 years ago): Establishment of monotheistic covenant system as post-abandonment control mechanism
+- **Bell Beaker Expansion (*koryos Period)** (~4,800-4,100 years ago): **The Reges** deploy self-replicating warrior bands across Western Europe, achieving up to 90% population replacement
+- **Sintashta Revolution (Chariot Period)** (~4,100-3,800 years ago): Technology transfer provides elite **\*koryos** bands with war chariots, enabling rapid conquest of Eurasia
+- **Wolf-Prince Rebellion** (~3,800-3,400 years ago): ***Wl̥kʷós*** successfully fights **The Reges** but his victory creates new oppression, demonstrating the trap of using the Master's tools
 - **Age of Heroes** (~3,500-1,200 years ago): Bronze Age period of legendary figures and divine-human interactions
-- **Albian Retreat to Albion** (~3,000-2,000 years ago): Last Titan descendants establish final stronghold in Britain
-- **Roman Conquest of Albion** (~2,000-1,500 years ago): Systematic destruction of final Titan consciousness technologies and bloodlines
+- **Albian Retreat to Albion** (~3,000-2,000 years ago): Last **Werdh-anes** descendants establish final stronghold in Britain
+- **Roman Conquest of Albion** (~2,000-1,500 years ago): Systematic destruction of final **Werdh-anes** consciousness technologies and bloodlines
 
 ## The Present Moment: Living Out Ancient Trauma
 
