@@ -36,7 +36,7 @@ The apprentice shivered, not just from the cold but from the weight of the words
 
 **Something is wrong with the human story we've been told.**
 
-And that wrongness isn't just academic—it's the source of our current crisis. We feel lost because we've been given a story about ourselves that doesn't match our actual experience. We feel like strangers in our own world because we've forgotten who we really are and why we're here.
+But this isn't a conspiracy—it's a mystery. The wrongness isn't the result of deliberate deception, but of missing pieces in a puzzle so vast that no single discipline could see the whole picture. And that wrongness isn't just academic—it's the source of our current crisis. We feel lost because we've been given a story about ourselves that doesn't match our actual experience. We feel like strangers in our own world because we've forgotten who we really are and why we're here.
 
 The symptoms are everywhere:
 - **We feel disconnected** despite being more "connected" than ever
