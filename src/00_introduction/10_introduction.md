@@ -14,6 +14,36 @@ The apprentice shivered, not just from the cold but from the weight of the words
 
 **This is the feeling of our time: the ache of forgetting something essential about who we are.**
 
+## How to Use This Series: A Reader's Guide
+
+You are about to embark on a four-part journey into the nature of reality, consciousness, and human potential. Each book builds upon the last, guiding you from a clear diagnosis of our current world to the practical tools for personal liberation and a profound understanding of our cosmic purpose. For the most complete experience, we highly recommend reading them in the following order:
+
+---
+
+**Book 1: *The Social Game* (The Diagnosis)**
+This book provides an unflinching, evidence-based analysis of the external systems that shape our world. You will learn to see the invisible rules of the 'social game'—the political, economic, and technological forces that manufacture division and control.
+
+**Book 2: *Manual Override* (The Toolkit)**
+Having diagnosed the external game, we turn inward. This book is a practical user's manual for your own mind. You will learn the psychological tools to de-program your automatic reactions, reclaim your conscious choice, and achieve internal sovereignty.
+
+**Book 3: *The Human Experiment* (The Origin Story)**
+With the external landscape mapped and the internal toolkit in hand, you will be ready for the deepest part of the investigation: our origin story. This book explores the hidden history of humanity, revealing that we are part of a grand experiment.
+
+**Book 4: *The Cosmic Game* (The Ultimate Purpose)**
+Having understood our origins, we arrive at the final question: What is the meaning of it all? This capstone book reframes the entire human journey as a sacred game for the evolution of the soul.
+
+---
+
+**You are currently reading *The Human Experiment*.**
+
+## This Book's Purpose: The Origin Story
+
+We have mapped the external game and mastered the internal tools. We are now ready to ask the ultimate questions of 'who' and 'why.'
+
+This is the origin story. We will follow the evidence—from our DNA to our oldest myths—to uncover the truth of who we are and where we came from. You will discover that the 'NPC' concept from *Manual Override* was not just a useful metaphor, but a literal description of our engineered nature.
+
+By the end of this investigation, you will understand the cosmic context for the social control systems and psychological programming you've learned to navigate. You will know your true nature and potential.
+
 ---
 
 *In a city apartment, a young woman named Maya scrolled through her phone, thumb aching from endless swipes. News, memes, arguments, advice—her mind felt like a crowded marketplace. She paused, staring at a viral video, and realized she couldn't remember what she'd watched just moments before. The glow of the screen reflected in her eyes, but inside she felt hollow, disconnected. She was drowning in information, yet starving for a story. She put the phone down and looked out the window, longing for something real, something ancient, something that could hold her together.*
