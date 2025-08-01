@@ -1,4 +1,4 @@
-# Chapter 11: Two Different Hands
+# Chapter 11: The Rebellion of the Guardians
 
 *Dr. Rebecca Morrison stared at her genetic analysis results, a frown deepening across her face. She had been testing the intervention hypothesis by looking for consistent patterns in the human modifications, but what she found was the opposite of consistency.*
 
@@ -6,9 +6,9 @@
 
 *Dr. Tyra studied the data. "Different how?"*
 
-*"Different techniques, different objectives, different timescales. It's like they were done by entirely different... entities."*
+*"Different techniques, different objectives, different timescales. It's like they were done by entirely different administrations."*
 
-*The word hung in the air. If their intervention hypothesis was correct, they weren't just dealing with one advanced intelligence—they were looking at evidence of two completely different approaches to human development.*
+*The word hung in the air. If their intervention hypothesis was correct, they weren't just dealing with one advanced intelligence—they were looking at evidence of a cosmic changing of the guard.*
 
 ## The Genetic Inconsistency
 
@@ -32,7 +32,7 @@ She pulled up two sets of genetic data side by side.
 - Emphasis on docility and hierarchical organization
 - Intensive resource extraction capabilities
 
-"The genetic signatures are completely different," Dr. Morrison concluded. "It's like two different research programs with different objectives and methodologies."
+"The genetic signatures are completely different," Dr. Morrison concluded. "It's like two different research programs with different objectives and methodologies. But more than that—it's like the second program was designed to undo the work of the first."
 
 ## The Archaeological Contradiction
 
