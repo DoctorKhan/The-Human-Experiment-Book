@@ -1,4 +1,4 @@
-# Chapter 14: The Human Engine of Conquest
+# Chapter 16: The Human Engine of Conquest
 
 *Dr. Elena Vasquez spread the archaeological maps across the Stanford conference table, her face grim with discovery. The genetic data told a story so brutal that she had initially refused to believe it. But the evidence was undeniable.*
 

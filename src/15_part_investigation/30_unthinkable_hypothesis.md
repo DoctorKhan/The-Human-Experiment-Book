@@ -1,4 +1,4 @@
-# Chapter 10: The Unthinkable Hypothesis
+# Chapter 11: The Unthinkable Hypothesis
 
 *Dr. Sarah Tyra stood before the whiteboard, marker hovering over the timeline they had constructed. The evidence was overwhelming, but the conclusion it pointed toward was so radical that none of them wanted to be the first to say it out loud.*
 

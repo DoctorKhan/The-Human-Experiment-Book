@@ -1,4 +1,4 @@
-# Chapter 21: The Deluge Waves: Cyclical Resets in the Human Experiment
+# Chapter 24: The Deluge Waves: Cyclical Resets in the Human Experiment
 
 *Dr. Sarah Tyra stood before a wall-sized timeline, marking patterns that had taken months to recognize. Red markers indicated major wars. Blue showed pandemic outbreaks. Green marked natural disasters and climate catastrophes. Yellow represented economic collapses and social upheavals.*
 

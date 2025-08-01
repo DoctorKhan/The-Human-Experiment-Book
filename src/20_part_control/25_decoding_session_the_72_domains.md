@@ -1,4 +1,4 @@
-# Chapter 17: Decoding Session - The 72 Domains
+# Chapter 15: Decoding Session - The 72 Domains
 
 *Dr. Marcus Chen stood before a massive digital whiteboard in the team's research facility, surrounded by his colleagues who had gathered for what he promised would be a breakthrough presentation. For weeks, he had been obsessing over ancient place names, diving deeper into Ugaritic texts and biblical genealogies than any sane person should. But tonight, the pieces were finally coming together.*
 

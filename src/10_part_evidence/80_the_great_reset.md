@@ -1,4 +1,4 @@
-# Chapter 8: The Two Great Resets
+# Chapter 9: The Two Great Resets
 
 *Dr. Orion, a specialist in comparative mythology, stared at the maps covering his office walls. They showed the distribution of a single story, a narrative that appeared in hundreds of cultures across every continent, many of which had never been in contact. A divine council decides humanity has grown too troublesome. A catastrophic flood is sent to wipe the slate clean. A single righteous survivor is warned, given detailed instructions to build a vessel, and tasked with preserving life to start the world anew.*
 

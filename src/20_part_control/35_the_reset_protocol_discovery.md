@@ -1,4 +1,4 @@
-# Chapter 21: The Reset Protocol Discovery
+# Chapter 19: The Reset Protocol Discovery
 
 *Dr. Sarah Tyra sat alone in her lab at 3:17 AM, surrounded by empty coffee cups and the blue glow of multiple monitors. For months, she had been feeding data streams about climate disasters, pandemics, wars, and economic collapses into her pattern-recognition software, trying to find some underlying logic to the great catastrophes of human history.*
 

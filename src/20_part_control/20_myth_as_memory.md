@@ -1,4 +1,4 @@
-# Chapter 13: A Theory Emerges
+# Chapter 14: A Theory Emerges
 
 *The team of researchers sat around the conference table at Stanford, the weight of their combined evidence filling the room like a heavy fog. Dr. Sarah Tyra looked at each of her colleagues—Dr. Elena Vasquez, Dr. Rebecca Morrison, Dr. Marcus Chen, Dr. Anya Petrov, and Dr. Thomas Kim. Each had uncovered anomalies that challenged conventional understanding of human development.*
 

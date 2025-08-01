@@ -1,4 +1,4 @@
-# Case File Review: Anomaly G-01 (The Seven Pairs)
+# Chapter 3: Case File Review: Anomaly G-01 (The Seven Pairs)
 
 *Dr. Sarah Tyra sat across from Dr. James Mitchell, a newly recruited geneticist who had been brought in to review the team's most controversial findings. The conference room was filled with genetic charts, population models, and archaeological timelines. Dr. Mitchell had spent the weekend reviewing the data, and his expression suggested he was struggling with the implications.*
 

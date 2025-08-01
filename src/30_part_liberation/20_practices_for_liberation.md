@@ -1,4 +1,4 @@
-# Chapter 27: Practices for Liberation
+# Chapter 30: Practices for Liberation
 
 *Maya sat in her small apartment at 11:47 PM, the blue glow of her phone screen illuminating her face in the darkness. Another notification. Another outrage. Another crisis demanding her immediate emotional response. The headline read: "BREAKING: Political Figure Says Controversial Thing." She felt the familiar surge of anger rising in her chest, the compulsion to share, to react, to join the digital mob.*
 

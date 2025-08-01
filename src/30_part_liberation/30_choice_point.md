@@ -1,4 +1,4 @@
-# Chapter 29: The Choice Point
+# Chapter 32: The Choice Point
 
 *Dr. Chen closed his research files and looked around the conference table at his colleagues. "We've traced the entire arc—from the original quarantine through the hybridization crisis, the Great Trauma, and the War on Magic. Now we face the same choice our ancestors faced, but with one crucial difference: we understand what we're choosing between."*
 
