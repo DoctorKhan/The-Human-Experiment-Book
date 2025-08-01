@@ -40,6 +40,8 @@ Dr. Chen's voice grew more intense as he reached the core of his discovery.
 
 The room fell silent as the implications sank in.
 
+"And here," Dr. Chen continued, his excitement building, "the team found the key to the puzzle Dr. Kim had uncovered in the earliest texts. The distant, creative **Werdh-anes** were the 'First Father,' the cosmic CEO known as **El**. The **Reges** were the warrior-administrators, the 'Storm Gods,' the ambitious middle-managers like **Yahweh**, Baal, and Indra. The Gnostic 'Demiurge' wasn't a single being; it was the entire administrative class of the *Reges*."
+
 Dr. Tyra was the first to speak. "You're saying you can trace the actual names back to Proto-Indo-European?"
 
 "Not just the names," Dr. Chen said, pulling up his etymological charts. "The entire power structure. The **Werdh-anes** comes from `*werdh-`, meaning 'to grow' or 'to increase'—they were the original architects focused on long-term development. When the **Igigi** took over and became **The Reges**, they weren't just changing management—they were changing the entire purpose of the human project."

@@ -152,6 +152,26 @@ Dr. Chen's expanded research had revealed that the pattern of technical knowledg
 
 "Every advanced ancient civilization shows the same pattern," Dr. Chen observed. "Technical knowledge preserved in mythological form, then systematically lost or suppressed."
 
+## The Gnostic Echo
+
+As the team analyzed these patterns of hidden knowledge, Dr. Hoffman noted a striking parallel to the suppressed Gnostic traditions of the early Christian era.
+
+"The Gnostics always spoke of a flawed, ignorant creator-god—the Demiurge—who ruled the material world, and a higher, transcendent God of pure spirit," she explained. "They were dismissed as heretics, but what if they were simply preserving a corrupted memory of this very system? A memory of the **Managers** who controlled the flow of information, and the distant **Gardeners** whose original wisdom had been hidden?"
+
+The Gnostic texts consistently described:
+
+**Hidden Knowledge**: Secret wisdom (*gnosis*) that could liberate humans from ignorance and control.
+
+**Flawed Rulers**: Intermediate beings who claimed divine authority but were actually obstacles to true spiritual development.
+
+**Imprisoned Sparks**: Divine consciousness trapped within material forms, yearning for liberation.
+
+**The True Source**: A distant, transcendent reality beyond the reach of the false rulers.
+
+"The parallels are too precise to be coincidental," Dr. Chen observed. "The Gnostics weren't inventing theology—they were preserving fragmented memories of the actual power structure."
+
+The idea was filed away, but the echo was too loud to ignore. If the Gnostics had retained corrupted but recognizable memories of this system, what other suppressed traditions might contain similar fragments of the truth?
+
 ## The Questions That Demand Answers
 
 As Dr. Chen and Dr. Hoffman compiled their research into ancient technical knowledge, the questions multiplied:

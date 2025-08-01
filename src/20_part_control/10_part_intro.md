@@ -1,5 +1,11 @@
 # Part 3: A Theory of the Case
 
+> *At the still point of the turning world. Neither flesh nor fleshless;*
+> *Neither from nor towards; at the still point, there the dance is,*
+> *But neither arrest nor movement. And do not call it fixity,*
+> *Where past and future are gathered.*
+> — T.S. Eliot, "Burnt Norton"
+
 *Detective Sarah Chen sat in her office at 3 AM, surrounded by evidence boards, genetic charts, and archaeological photos. For months, she'd been following the clues, building the case piece by piece. The genetic bottlenecks, the impossible structures, the systematic population replacements, the consciousness anomalies—they all pointed to the same conclusion.*
 
 *But she'd been afraid to say it out loud. It sounded too incredible, too much like science fiction. Yet the evidence was undeniable.*
@@ -7,6 +13,8 @@
 *She picked up her phone and called her partner. "I know who did it," she said quietly. "I know who's been running the human experiment."*
 
 ---
+
+What follows is an attempt to map the dance. It is a theory of the case, a story pieced together from the echoes and the fragments. But remember, the map is not the territory, and the story is only a pointer to the still point within you where the true knowing resides.
 
 *"When you have eliminated the impossible, whatever remains, however improbable, must be the truth."* - Arthur Conan Doyle
 
