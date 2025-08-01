@@ -22,7 +22,7 @@ Dr. Vasquez leaned forward. "What do you mean, class structure?"
 
 Dr. Chen moved to the whiteboard and began drawing a hierarchical diagram.
 
-"At the top, you have the primordial creators, the architects. Let's call them by their philosophical function: **The Werdh-anes**, 'The Growers.' Below them were two specialized agent classes they created. The **Apkallu** were the scientists and teachers—the keepers of knowledge. And the **Igigi** were the administrators and workforce—the keepers of infrastructure. The whole Human Experiment was run by this middle-management."
+"At the top, you have the primordial creators, the architects. Let's call them by their philosophical function: **The Gardeners**—their true name in the ancient tongue was *Werdh-anes*, 'The Growers.' Below them were two specialized agent classes they created. The **Apkallu** were the scientists and teachers—**The Sages**—the keepers of knowledge. And the **Igigi** were the administrators and workforce—who later became **The Rulers**—the keepers of infrastructure. The whole Human Experiment was run by this middle-management."
 
 Dr. Morrison studied the diagram. "So the **Anunnaki** we keep reading about..."
 
@@ -36,11 +36,11 @@ Dr. Petrov frowned. "But why would the middle management rebel against the archi
 
 Dr. Chen's voice grew more intense as he reached the core of his discovery.
 
-"The **Igigi** rebellion wasn't just a strike; it was a coup. They seized control of the human workforce and the entire planet. They became the new rulers. And this is where the language proves it. In the mother-tongue, PIE, the word for 'ruler' is `*h₃rḗǵs`. The **Igigi** *became* **The Reges**. And the **Apkallu**, the keepers of knowledge? Their name comes from `*ǵneh₃-`, to know. They were **The Gneh-tah**. This wasn't a war between gods; it was a hostile corporate takeover where the workforce locked the scientists out and declared themselves the new board of directors."
+"The **Igigi** rebellion wasn't just a strike; it was a coup. They seized control of the human workforce and the entire planet. They became **The Rulers**. And this is where the language proves it. In the mother-tongue, PIE, the word for 'ruler' is `*h₃rḗǵs`—**The Rulers** were originally called *Reges*. And the **Apkallu**, the keepers of knowledge? Their name comes from `*ǵneh₃-`, to know. **The Sages** were originally called *Gneh-tah*. This wasn't a war between gods; it was a hostile corporate takeover where the workforce locked the scientists out and declared themselves the new board of directors."
 
 The room fell silent as the implications sank in.
 
-"And here," Dr. Chen continued, his excitement building, "the team found the key to the puzzle Dr. Kim had uncovered in the earliest texts. The distant, creative **Werdh-anes** were the 'First Father,' the cosmic CEO known as **El**. The **Reges** were the warrior-administrators, the 'Storm Gods,' the ambitious middle-managers like **Yahweh**, Baal, and Indra. The Gnostic 'Demiurge' wasn't a single being; it was the entire administrative class of the *Reges*."
+"And here," Dr. Chen continued, his excitement building, "the team found the key to the puzzle Dr. Kim had uncovered in the earliest texts. The distant, creative **Gardeners** were the 'First Father,' the cosmic CEO known as **El**. **The Rulers** were the warrior-administrators, the 'Storm Gods,' the ambitious middle-managers like **Yahweh**, Baal, and Indra. The Gnostic 'Demiurge' wasn't a single being; it was the entire administrative class of **The Rulers**."
 
 Dr. Tyra was the first to speak. "You're saying you can trace the actual names back to Proto-Indo-European?"
 
@@ -104,6 +104,10 @@ Dr. Chen gathered his papers, exhausted but exhilarated. "The linguistic evidenc
 
 "More importantly," Dr. Vasquez added, "we know that the current system isn't natural or inevitable. It's the result of a specific takeover that can potentially be reversed."
 
+*Dr. Chen paused at the door and looked back at the whiteboard covered with etymological charts and ancient names.*
+
+**Dr. Chen**: "For the sake of clarity, having decoded their origins, from this point forward we'll refer to these factions by their functional names: **The Gardeners**, **The Rulers**, **The Sages**, **The Hybrids**, and **The Preservers**. The true names are important for understanding the deep history, but the functional names will help us see how these ancient forces are still operating today."
+
 *As the team left the conference room, they carried with them not just a new understanding of human history, but a roadmap for human liberation. The mythological Rosetta Stone had revealed the true names, the real relationships, and the ongoing influence of forces that had shaped human consciousness for millennia.*
 
-*The question now was: what would they do with this knowledge?*
+*Now they could begin to see these ancient patterns playing out in the modern world.*

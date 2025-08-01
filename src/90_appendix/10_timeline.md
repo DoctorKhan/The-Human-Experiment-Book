@@ -39,19 +39,19 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 - **Departure**: Mission completed successfully, returned to home world leaving experiments to evolve naturally
 
 **Phase 2: The Off-World Development Program (Interim Period)**
-- **Location**: **Werdh-anes** home world
+- **Location**: **The Gardeners** home world
 - **Activity**: Using harvested human DNA, bio-engineered two specialized agent classes:
-  - **The Gneh-tah** (remembered as the **Apkallu**): Aquatic/subterranean scientists and teachers, keepers of the **Tree of Knowledge** (astronomy, mathematics, genetics, law, agriculture)
-  - **The Igigi** (who later became **The Reges**): High-altitude administrators and warriors, wielders of the **Tree of Life** (vital energy, consciousness power, strength, longevity)
-- **Purpose**: Prepare specialized crews for eventual return to Earth - **The Gneh-tah** to share knowledge, **The Igigi** to provide protection and administration
+  - **The Sages** (remembered as the **Apkallu**): Aquatic/subterranean scientists and teachers, keepers of the **Tree of Knowledge** (astronomy, mathematics, genetics, law, agriculture)
+  - **The Igigi** (who later became **The Rulers**): High-altitude administrators and warriors, wielders of the **Tree of Life** (vital energy, consciousness power, strength, longevity)
+- **Purpose**: Prepare specialized crews for eventual return to Earth - **The Sages** to share knowledge, **The Igigi** to provide protection and administration
 
 **Phase 3: The Catastrophic Return and the Great Rebellion (12,900 Years Ago)**
 - **Plan**: Controlled return with specialized crews to check on experiment progress
 - **Reality**: Ship explosion during atmospheric entry creates Younger Dryas crisis
-- **Initial Cooperation**: Stranded **Gneh-tah** begin sharing knowledge with humans to rebuild civilization (agriculture, writing, law)
-- **The Igigi Rebellion**: **The Igigi** grow resentful of **The Gneh-tah** "giving away" civilization's secrets to primitive humans
-- **The Coup**: **The Igigi** use their superior vital energy and warrior training to overthrow **Gneh-tah** leadership, establishing themselves as **The Reges**
-- **The Great Theft**: **The Reges** implement the ultimate control measure - they restrict humanity's access to the Tree of Life while allowing limited access to Tree of Knowledge
+- **Initial Cooperation**: Stranded **The Sages** begin sharing knowledge with humans to rebuild civilization (agriculture, writing, law)
+- **The Igigi Rebellion**: **The Igigi** grow resentful of **The Sages** "giving away" civilization's secrets to primitive humans
+- **The Coup**: **The Igigi** use their superior vital energy and warrior training to overthrow **Sage** leadership, establishing themselves as **The Rulers**
+- **The Great Theft**: **The Rulers** implement the ultimate control measure - they restrict humanity's access to the Tree of Life while allowing limited access to Tree of Knowledge
 - **The Tragic Result**: Humanity gains technological brilliance but loses vital energy, creating a species capable of great knowledge but lacking the life force to use it wisely
 
 ## Phase II: The MIS 6 Modification Period (150,000-130,000 Years Ago)

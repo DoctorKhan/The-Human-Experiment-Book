@@ -90,27 +90,27 @@ He moved to the whiteboard and began drawing a timeline.
 
 **Phase I: The Golden Age of the Gardeners**
 
-"In the beginning," Dr. Chen explained, "there was a unified project overseen by the **Werdh-anes**—the Architect class, the Titans. They designed the Human Experiment and created two specialized, benevolent agent classes to administer it."
+"In the beginning," Dr. Chen explained, "there was a unified project overseen by **The Gardeners**—the Architect class, the Titans. They designed the Human Experiment and created two specialized, benevolent agent classes to administer it."
 
 He drew two circles on the board.
 
-**The *Gneh-tah* (The Scientist/Teacher Class):**
+**The Sages (The Scientist/Teacher Class):**
 - Original Name: The *Apkallu*, the Seven Sages
 - Function: Keepers of the Tree of Knowledge
 - Role: Humanity's educators—patient professors, librarians, scientists
 - Relationship to Humanity: Mentors, teachers, guides
 
-**The *Bene Elohim* (The Guardian/Administrator Class):**
+**The Guardians (The Guardian/Administrator Class):**
 - Original Name: The "Sons of the Gods"—the *Igigi* in their unfallen state
 - Function: Wielders of the Tree of Life
 - Role: Humanity's protectors and energy managers—charismatic leaders, guardians
 - Relationship to Humanity: Guardians, protectors, charismatic leaders
 
-"The original plan was perfect," Dr. Chen continued. "The two classes worked in harmony. The *Gneh-tah* provided wisdom, the *Bene Elohim* provided life force and security. Humanity, guided by both, would evolve into an integrated species, mastering both Knowledge and Life."
+"The original plan was perfect," Dr. Chen continued. "The two classes worked in harmony. **The Sages** provided wisdom, **The Guardians** provided life force and security. Humanity, guided by both, would evolve into an integrated species, mastering both Knowledge and Life."
 
 Dr. Morrison looked up from her data. "The Edenic state. That's what we're seeing in the early genetic modifications—a collaborative, nurturing approach."
 
-"Exactly. There were no '*Reges*' yet, only the benevolent *Bene Elohim*."
+"Exactly. There were no **Rulers** yet, only the benevolent **Guardians**."
 
 ## Phase II: The Fall - The Rebellion of the Guardians
 
@@ -120,11 +120,11 @@ Dr. Chen's voice grew somber as he moved to the next section of the timeline.
 
 **The Trigger: The Corruption of Power**
 
-"The *Bene Elohim*, being the direct interface with humanity and the wielders of immense life-force energy, began to develop a fatal flaw. Proximity to the 'game board' and the adoration of humanity corrupted them. They began to see the experiment not as a sacred trust, but as their personal kingdom."
+"**The Guardians**, being the direct interface with humanity and the wielders of immense life-force energy, began to develop a fatal flaw. Proximity to the 'game board' and the adoration of humanity corrupted them. They began to see the experiment not as a sacred trust, but as their personal kingdom."
 
 Dr. Petrov looked up from her behavioral analysis. "That explains the psychological programming shift. The worship imperative wasn't part of the original design—it was installed later."
 
-"Exactly," Dr. Chen continued. "The *Bene Elohim* grew arrogant, resentful of the quiet authority of the *Gneh-tah* and impatient with the slow, multi-millennial plan of the unseen *Werdh-anes*."
+"Exactly," Dr. Chen continued. "**The Guardians** grew arrogant, resentful of the quiet authority of **The Sages** and impatient with the slow, multi-millennial plan of the unseen **Gardeners**."
 
 **The Event: The Coup d'état in Heaven**
 
@@ -132,37 +132,37 @@ Dr. Petrov looked up from her behavioral analysis. "That explains the psychologi
 
 He drew arrows showing the transformation on the timeline.
 
-- The *Bene Elohim* staged a rebellion against the *Gneh-tah*
+- **The Guardians** staged a rebellion against **The Sages**
 - They seized sole control of the Human Experiment
-- They cut themselves off from the guidance of the *Werdh-anes*
-- In this act, the benevolent *Bene Elohim* **transformed**—they ceased to be Guardians and became rulers
-- They became the **Reges**—the Kings
+- They cut themselves off from the guidance of **The Gardeners**
+- In this act, the benevolent **Guardians** **transformed**—they ceased to be protectors and became controllers
+- They became **The Rulers**—the Kings
 
-"The crucial sentence," Dr. Chen said, underlining it on the board, "is this: **The *Reges* were not a new race that arrived. The *Reges* are what the *Bene Elohim* became after they fell.**"
+"The crucial sentence," Dr. Chen said, underlining it on the board, "is this: **The Rulers were not a new race that arrived. The Rulers are what the Guardians became after they fell.**"
 
 The room fell silent as the implications sank in.
 
-## Phase III: The Age of the Reges (Post-Rebellion Administration)
+## Phase III: The Age of the Rulers (Post-Rebellion Administration)
 
 "Now the entire system is reconfigured under a new, flawed administration," Dr. Chen continued, drawing the final phase on the timeline.
 
-**The *Reges* (The Fallen Administrators):**
+**The Rulers (The Fallen Administrators):**
 - **New Role:** Sole, tyrannical rulers of the Human Experiment
-- **New Motivation:** Cut off from the direct creative purpose of the *Werdh-anes*, their primary motivation becomes **control and energy extraction**
+- **New Motivation:** Cut off from the direct creative purpose of **The Gardeners**, their primary motivation becomes **control and energy extraction**
 - **Energy Dependency:** They need human worship and sacrifice not for ego, but as literal fuel to maintain their power
 - **Their Great Work:** They install the **Control Firmware** over the original Gardener code—binary thinking, sacrifice compulsion, systematic suppression of the Tree of Life
 
-**The *Gneh-tah* (The Underground Resistance):**
+**The Sages (The Underground Resistance):**
 - **New Role:** A suppressed, underground class—scientists and teachers in exile
-- **Their Great Work:** They begin the **Alba Preservation Project**—a covert, long-term strategy of seeding the original Gardener code back into humanity through genetic seeding (*Alba* bloodlines) and cultural seeding (myths, mystery schools, sacred geometry)
+- **Their Great Work:** They begin **The Preservation Project**—a covert, long-term strategy of seeding the original Gardener code back into humanity through genetic seeding (**The Preservers** bloodlines) and cultural seeding (myths, mystery schools, sacred geometry)
 
-Dr. Morrison studied her genetic data with new understanding. "The *Alba* bloodlines—they're not a separate species. They're the *Gneh-tah's* attempt to preserve the original human template."
+Dr. Morrison studied her genetic data with new understanding. "**The Preservers** bloodlines—they're not a separate species. They're **The Sages'** attempt to preserve the original human template."
 
 "And the mystery schools," Dr. Vasquez added, "they're not just spiritual traditions. They're resistance cells preserving the original curriculum."
 
-**The Human Experience Under the Reges:**
+**The Human Experience Under the Rulers:**
 
-"Humanity now lives in what we might call the 'Clockwork City' built by the 'Iron King,'" Dr. Chen explained. "The world is no longer a garden to be tended, but a resource to be managed and a population to be controlled. The memory of the benevolent Gardeners and the original *Bene Elohim* fades, replaced by the worship of the now-absent, demanding *Reges*."
+"Humanity now lives in what we might call the 'Clockwork City' built by the 'Iron King,'" Dr. Chen explained. "The world is no longer a garden to be tended, but a resource to be managed and a population to be controlled. The memory of the benevolent **Gardeners** and the original **Guardians** fades, replaced by the worship of the now-absent, demanding **Rulers**."
 
 Dr. Petrov nodded grimly. "That's exactly what we see in the behavioral programming overlay. The original consciousness-based programming is still there, but it's been buried under control mechanisms."
 
@@ -210,7 +210,7 @@ Dr. Petrov nodded grimly. "That's exactly what we see in the behavioral programm
 
 *Dr. Tyra's eyes suddenly went wide as the pieces clicked into place.*
 
-**Dr. Tyra**: "And then... you have to crash land. The Younger Dryas event wasn't the *Managers* arriving to take over. It was the *Gardeners themselves*—or at least their mission crew—crash-landing in the middle of their own unprepared experiment."
+**Dr. Tyra**: "And then... you have to crash land. The Younger Dryas event wasn't **The Rulers** arriving to take over. It was **The Gardeners** themselves—or at least their mission crew—crash-landing in the middle of their own unprepared experiment."
 
 *She moved to the timeline, her voice gaining urgency.*
 
@@ -234,19 +234,19 @@ Dr. Petrov nodded grimly. "That's exactly what we see in the behavioral programm
 
 *He pointed to different sections of his research.*
 
-**Dr. Chen**: "The texts describe two distinct types. The **Apkallu**—what I've been calling the *Gneh-tah*—the 'sages from the sea.' They were the mission specialists: scientists, geneticists, engineers. The texts describe them as preferring underwater or underground environments. They were bio-engineered for dense, high-pressure conditions—the low-altitude crew."
+**Dr. Chen**: "The texts describe two distinct types. The **Apkallu**—**The Sages**—the 'sages from the sea.' They were the mission specialists: scientists, geneticists, engineers. The texts describe them as preferring underwater or underground environments. They were bio-engineered for dense, high-pressure conditions—the low-altitude crew."
 
 *He moved to another section.*
 
-**Dr. Chen**: "And the **Bene Elohim**—the 'sky gods,' what became the *Igigi*. They were the flight crew: pilots, warriors, administrators. Bio-engineered for high-altitude, low-density environments. Physically more robust, designed to manage the ship and protect the mission."
+**Dr. Chen**: "And the **Bene Elohim**—the 'sky gods,' who became **The Rulers**. They were the flight crew: pilots, warriors, administrators. Bio-engineered for high-altitude, low-density environments. Physically more robust, designed to manage the ship and protect the mission."
 
 *The team stared at the evidence boards as the full, tragic picture came into focus.*
 
-**Dr. Tyra**: "So the crash happens. The high-altitude crew—the *Igigi*—survives the atmospheric trauma better, establishing command centers in mountainous regions like Göbekli Tepe. The low-altitude science crew—the *Gneh-tah*—seeks refuge in coastal areas and river valleys."
+**Dr. Tyra**: "So the crash happens. The high-altitude crew—the flight crew—survives the atmospheric trauma better, establishing command centers in mountainous regions like Göbekli Tepe. The low-altitude science crew—**The Sages**—seeks refuge in coastal areas and river valleys."
 
 *Her voice dropped to a whisper.*
 
-**Dr. Tyra**: "They're stranded, traumatized, and in command of a planet full of programmable biological robots. The mission is no longer about consciousness evolution. It's about survival. And that is when the Gardeners became the Managers."
+**Dr. Tyra**: "They're stranded, traumatized, and in command of a planet full of programmable biological robots. The mission is no longer about consciousness evolution. It's about survival. And that is when **The Gardeners** became **The Rulers**."
 
 ## The Mesopotamian Memory: A Record of Trauma
 

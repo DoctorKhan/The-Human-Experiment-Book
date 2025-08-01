@@ -18,11 +18,11 @@ Genesis 6 speaks of the "sons of God" (*benei ha'elohim*) laying with the "daugh
 - **The "consent" problem**: How can there be meaningful consent when one party doesn't even understand they're biological robots designed to obey?
 
 **The Caretaker Violation:**
-**The Reges** had seized control of humanity's development from the **Gneh-tah**. Instead of maintaining the original plan of gradual consciousness development, they exploited their position for personal gratification. This represents the ultimate betrayal of the caretaker role—using those you're meant to develop for your own desires.
+**The Rulers** had seized control of humanity's development from **The Sages**. Instead of maintaining the original plan of gradual consciousness development, they exploited their position for personal gratification. This represents the ultimate betrayal of the caretaker role—using those you're meant to develop for your own desires.
 
 In a classic abuse of power, these new administrators began to use their human bio-robots not just for labor, but for sexual gratification.
 
-This union produced **The Wiros**—remembered in fear by the Hebrews as the **Nephilim**. These were not simply "giants"; they were a catastrophic hybrid, analogous to a modern **Liger**—the offspring of a male lion and a female tiger.
+This union produced **The Hybrids**—remembered in fear by the Hebrews as the **Nephilim**. These were not simply "giants"; they were a catastrophic hybrid, analogous to a modern **Liger**—the offspring of a male lion and a female tiger.
 
 **The Liger Model of The Wiros:**
 
@@ -39,7 +39,7 @@ This union produced **The Wiros**—remembered in fear by the Hebrews as the **N
 ## The Great Trauma: Humanity's First Act of Conscious Self-Programming
 
 **The Biological Mathematics of Extinction:**
-- **Wiros Advantage**: A single member of **The Wiros** could live for centuries, mating with generations of human women across vast territories
+- **Hybrid Advantage**: A single member of **The Hybrids** could live for centuries, mating with generations of human women across vast territories
 - **Human Disadvantage**: Human males lived and died in a single generation, unable to compete with beings who possessed divine life force
 - **The Inevitable Result**: Over centuries, human Y-chromosomes were being systematically bred out of existence by superior competitors
 
@@ -161,13 +161,13 @@ Modern genetic research provides startling support for this hybridization crisis
 
 Every culture on Earth preserves memories of this hybridization crisis, though the details have been obscured by time and deliberate editing:
 
-**Greek Mythology**: The Titans (**Werdh-anes**) vs. Olympians (**Reges**) war, with heroes like Hercules representing **Wiros** hybrids and figures like Prometheus representing **Gneh-tah** rebels who preserved forbidden knowledge.
+**Greek Mythology**: The Titans (**The Gardeners**) vs. Olympians (**The Rulers**) war, with heroes like Hercules representing **The Hybrids** and figures like Prometheus representing **The Sages** who preserved forbidden knowledge.
 
-**Norse Mythology**: The Æsir (**Reges**) vs. Vanir (**Werdh-anes**) conflict, with the Jötnar (giants/**Wiros**) as the chaotic offspring, and the Álfar (elves/**Alba**) as the wise, reclusive preservers of ancient knowledge.
+**Norse Mythology**: The Æsir (**The Rulers**) vs. Vanir (**The Gardeners**) conflict, with the Jötnar (giants/**The Hybrids**) as the chaotic offspring, and the Álfar (elves/**The Preservers**) as the wise, reclusive preservers of ancient knowledge.
 
-**Hindu Traditions**: The Deva (**Werdh-anes**) vs. Asura (**Reges**) eternal conflict, with the Rakshasa representing **The Wiros** corruption and the Rishis representing **The Gneh-tah** sages who withdrew to preserve pure knowledge.
+**Hindu Traditions**: The Deva (**The Gardeners**) vs. Asura (**The Rulers**) eternal conflict, with the Rakshasa representing **The Hybrids** corruption and the Rishis representing **The Sages** who withdrew to preserve pure knowledge.
 
-**Celtic Lore**: The Tuatha Dé Danann (**Alba**) retreating to the "Otherworld" as the Fomorians (**Wiros**) and later human kingdoms dominated the physical realm.
+**Celtic Lore**: The Tuatha Dé Danann (**The Preservers**) retreating to the "Otherworld" as the Fomorians (**The Hybrids**) and later human kingdoms dominated the physical realm.
 
 ## The Modern Inheritance
 
@@ -188,8 +188,8 @@ The keepers of balanced, pre-trauma consciousness who remember the world before 
 
 **The Human Inheritance (The Patriarchal Protection Program)**:
 The most pervasive program running in humanity—the protective innovation born from existential terror that became our foundational system:
-- **Commitment to lineage and continuity**: Deep-seated drive to protect bloodlines and maintain genetic integrity—a successful survival strategy born from the fear of genetic annihilation by **The Wiros**
-- **Fear-based masculine protection**: The protective masculine impulse intensified by terror of **Wiros** dominance, fear of **Alba** magic, and panic over resource scarcity during climatic collapse—creating both necessary protection and destructive control patterns
+- **Commitment to lineage and continuity**: Deep-seated drive to protect bloodlines and maintain genetic integrity—a successful survival strategy born from the fear of genetic annihilation by **The Hybrids**
+- **Fear-based masculine protection**: The protective masculine impulse intensified by terror of **Hybrid** dominance, fear of **Preserver** magic, and panic over resource scarcity during climatic collapse—creating both necessary protection and destructive control patterns
 - **Honor/shame cultures**: Structure-building systems designed to maintain social cohesion under existential threat—protective frameworks that can evolve from fear-based control into conscious partnership
 - **Security-based relationships**: The drive to protect and provide for loved ones, intensified by ancestral memories of **Wiros** predation and climatic catastrophe, which can expand from possession-based control into trust-based commitment
 
@@ -230,8 +230,8 @@ The trauma patterns are not historical curiosities—they are the active operati
 **The Endgame: Demonstrating Stability**
 The biological robot framework reveals our true mission: **prove that we can heal from our own self-inflicted trauma**. This means:
 
-- **Healing the gender wound**: Men and women working together to expand patriarchal protection into conscious partnership—honoring the masculine drive to protect (born from legitimate terror of **Wiros** dominance and climatic collapse) while integrating the feminine wisdom of nurturing, transforming fear-based control into trust-based strength
-- **Integrating the inheritances**: Combining **Alba** wisdom, **Gneh-tah** knowledge, and Human innovation to create balanced civilization
+- **Healing the gender wound**: Men and women working together to expand patriarchal protection into conscious partnership—honoring the masculine drive to protect (born from legitimate terror of **Hybrid** dominance and climatic collapse) while integrating the feminine wisdom of nurturing, transforming fear-based control into trust-based strength
+- **Integrating the inheritances**: Combining **Preserver** wisdom, **Sage** knowledge, and Human innovation to create balanced civilization
 - **Conscious self-programming**: Using our analytical abilities to systematically heal trauma patterns rather than perpetuate them
 
 **The Quarantine Ends When We Heal**
