@@ -1,4 +1,4 @@
-# Chapter 5: The Missing Builders
+### Chapter 5: The Missing Builders
 
 *Dr. Elena Vasquez stood at the edge of the Giza plateau, watching the sunrise paint the Great Pyramid in shades of gold. After months of investigating impossible ancient structures, she had come to Egypt seeking answers. Instead, she found only deeper mysteries.*
 

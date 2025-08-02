@@ -1,4 +1,4 @@
-# Part 3: A Theory of the Case
+## Part 3: A Theory of the Case
 
 > *At the still point of the turning world. Neither flesh nor fleshless;*
 > *Neither from nor towards; at the still point, there the dance is,*

@@ -6,7 +6,7 @@
 
 ---
 
-## The Legend
+#### The Legend
 
 *Long ago, when the world was young and consciousness was learning to know itself, there lived two brothers who saw reality in fundamentally different ways.*
 
@@ -28,7 +28,7 @@
 
 ---
 
-## The Key to Understanding
+#### The Key to Understanding
 
 This ancient parable provides the framework for everything you are about to discover in our investigation. As we examine the genetic evidence, the archaeological anomalies, and the mythological records, you will see this same pattern emerging again and again:
 

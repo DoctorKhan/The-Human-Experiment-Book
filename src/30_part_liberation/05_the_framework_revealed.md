@@ -1,4 +1,4 @@
-# Chapter 26: The Two Generations
+### Chapter 26: The Two Generations
 
 *Dr. Elena Vasquez stood before the assembled conference, her hands trembling slightly as she prepared to present the most controversial theory of her career. The evidence was overwhelming, but she knew how it would sound.*
 
@@ -22,7 +22,7 @@ Their approach was characterized by:
 
 **Holistic Development**: They represented an approach that maintained connection to cosmic consciousness while developing material capabilities. Their goal appears to have been creating humans who could bridge matter and spirit.
 
-### The Playful Primate: Humanity's Core Design
+##### The Playful Primate: Humanity's Core Design
 
 Dr. Chen's analysis of the Gardeners' modifications revealed a core design philosophy. "Their objective wasn't intelligence in the abstract," he explained. "It was the creation of a **neotenous species whose primary mode of learning, social bonding, and innovation was play.** Play is the engine of creativity. It's how new possibilities are explored without the risk of immediate survival consequences. The Gardeners were building a cosmic laboratory, and playful humanity was to be its greatest experimenter."
 

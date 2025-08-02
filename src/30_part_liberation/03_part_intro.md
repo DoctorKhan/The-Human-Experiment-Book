@@ -1,4 +1,4 @@
-# Part 4: The Human Condition - Legacy of the Experiment
+## Part 4: The Human Condition - Legacy of the Experiment
 
 Humanity stands at a crossroads shaped by forces both ancient and newly revealed. For generations, we have lived within the boundaries of inherited patterns—habits, beliefs, and social structures passed down like genetic code. These patterns, once adaptive, now often confine us, shaping our lives in ways we rarely question.
 

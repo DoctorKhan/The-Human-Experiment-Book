@@ -1,4 +1,4 @@
-# Chapter 35: The Lifeboat and the Flotilla
+### Chapter 35: The Lifeboat and the Flotilla
 
 *Dr. Sarah Tyra stood before the assembled team in their final meeting, holding a printed email that had arrived that morning. It was from Dr. Andrew Wilson, a theologian who had somehow learned of their research and had written a detailed critique of their framework.*
 

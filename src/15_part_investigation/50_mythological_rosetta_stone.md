@@ -1,4 +1,4 @@
-# Chapter 13: The Mythological Rosetta Stone
+### Chapter 13: The Mythological Rosetta Stone
 
 *Dr. Marcus Chen burst into the Stanford conference room where the team had been working for three days straight, his hair disheveled and his eyes bright with discovery. In his hands were printouts covered in linguistic notations and etymological charts.*
 

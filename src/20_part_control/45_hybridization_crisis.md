@@ -1,4 +1,4 @@
-# Chapter 21: The Hybridization Crisis: When Robots Have Children
+### Chapter 21: The Hybridization Crisis: When Robots Have Children
 
 **⚠️ INTEGRATION WARNING: Read Before Proceeding ⚠️**
 
@@ -24,7 +24,7 @@ Proceed with conscious awareness and self-compassion.
 
 Genesis 6 speaks of the "sons of God" (*benei ha'elohim*) laying with the "daughters of men." In the context of our framework, these "sons of God" were **The Reges**—the usurping administrators who had seized control of the human experiment from the original **Werdh-anes** and **Gneh-tah**. What we're witnessing here is a textbook case of what we might call **"caretaker lust"**—the systematic sexual exploitation of those under one's care and authority.
 
-### The Anatomy of Caretaker Lust
+##### The Anatomy of Caretaker Lust
 
 **The Reges** were not equals engaging in consensual relationships. They were the **administrators, supervisors, and guardians** of humanity who had overthrown the original plan. The power differential was absolute—they were gods, humans were their created servants. This wasn't romance; it was the ultimate abuse of authority.
 
@@ -129,7 +129,7 @@ Human history, from this point forward, can be re-read as a proxy war fought on 
 
 The team had uncovered the evidence of a global tragedy, but they had not yet understood its true cause. That revelation would come later, when they realized they were looking at the archaeological remains of humanity's first and greatest war—the war against its own potential.
 
-### The Caretaker Lust Pattern in Human History
+##### The Caretaker Lust Pattern in Human History
 
 The Igigi's violation of their caretaker role established a template that has echoed through human history. Every instance of those in power exploiting those under their care can be traced back to this original corruption:
 
@@ -222,7 +222,7 @@ We are not victims of our genetics. We are programmable machines with the capaci
 
 The choice is ours: remain unconscious robots running ancient, corrupted software, or become conscious programmers of our own evolution.
 
-### Healing the Great Trauma: The Path to Conscious Self-Programming
+##### Healing the Great Trauma: The Path to Conscious Self-Programming
 
 Understanding the Great Trauma gives us the key to healing it. We are not victims of external control—we are a species living out the consequences of our own traumatic survival strategy. The path forward is **collective healing**, not individual awakening.
 

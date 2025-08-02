@@ -1,4 +1,4 @@
-# Part 1: The Anomalies
+## Part 1: The Anomalies
 
 *The scientist stared at the data on her screen, her coffee growing cold as the implications sank in. The genetic sequence she was analyzing shouldn't exist. It showed signs of modification so precise, so intentional, that it could only have been designed. But designed by whom? And when? The official timeline of human evolution suddenly seemed like a fairy tale told to children—comforting, simple, and completely wrong.*
 

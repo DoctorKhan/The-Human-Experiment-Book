@@ -1,4 +1,4 @@
-# Part 2: The Investigation - Assembling the Puzzle
+## Part 2: The Investigation - Assembling the Puzzle
 
 *Dr. Sarah Tyra stood before the whiteboard in the Stanford conference room, marker in hand, staring at the timeline she had just drawn. Six months of independent research by her team had produced a collection of anomalies that defied conventional explanation. But now, seeing them arranged chronologically, a pattern was beginning to emerge.*
 

@@ -1,6 +1,6 @@
 # Glossary of Terms
 
-## PIE-Derived Terms (The True Names)
+#### PIE-Derived Terms (The True Names)
 
 **Alba, The** - (from PIE `*albho-`, "white, bright"). The revealed functional name for the hybrid preservation lineage created by **The Gneh-tah** to carry forward the original **Werdh-anes** knowledge. After **The Reges** conquest, **Alba** survivors implemented a sophisticated global preservation strategy, integrating into major civilizations while seeding consciousness technologies through cultural embedding and genetic distribution. Archaeological evidence of **Alba** influence found worldwide, from Sanxingdui bronze artifacts in China to Greek mystery schools to Vedic traditions in India. **Cultural Echoes:** Elves (Germanic), Tuatha Dé Danann (Celtic), Álfar (Norse), Shining Ones (various traditions).
 
@@ -12,7 +12,7 @@
 
 **Wiros, The** - (from PIE `*wiHrós`, "hero, man"). The revealed functional name for the hybrid warrior lineage created by **The Reges** to serve as their enforcers. Characterized by physical prowess, aggression, and a philosophy of domination. **Cultural Echoes:** Nephilim (Hebrew), The Heroes (Greek), Giants/Jötnar (Norse), Rakshasa (Hindu).
 
-### A
+##### A
 
 **Abraham's Covenant** - The establishment of monotheistic covenant system around 4,000 years ago as a sophisticated evolution of control technology. Replaced polytheistic confusion with single authority, created chosen people concept, and introduced moral law as internalized control mechanism.
 
@@ -29,15 +29,15 @@
 
 **Igigi** - Mesopotamian cultural echo of **The Reges**, the administrator-class agents who overthrew **The Werdh-anes** and **The Gneh-tah** during the cosmic war marked by the Younger Dryas impact (12,900 years ago). They represented a different philosophy - preferring direct, systematic control over the original patient, evolutionary approach to human development.
 
-### B
+##### B
 
 **Binary Programming** - Originally installed by the Anunnaki as a temporary learning tool to help early humans process complex information. Later exploited by the Igigi for permanent control, reducing complex reality into simple either/or choices (good/evil, us/them, right/wrong). This programming makes humans predictable and manageable by bypassing complex reasoning through emotional triggers.
 
-## D
+#### D
 
 **Divine Titles** - Archaeological and textual evidence suggests that names like Enki, Enlil, Yahweh, and Asherah may represent titles or roles rather than fixed personal names. This explains apparent contradictions in mythological accounts where the same "character" displays different personalities or functions. Like modern titles (CEO, Judge, General), these designations describe divine functions that could be held by different consciousnesses in different contexts.
 
-## G
+#### G
 
 **MIS 6 Modification Period** - The gradual genetic enhancement period during Marine Isotope Stage 6 (150,000-130,000 years ago) when expanding ice sheets fragmented human populations into isolated refugia. Within this framework, this was Phase II of the Titan experiment - using natural population separation to systematically modify isolated groups without detection, installing sophisticated genetic modifications and receiver protocols.
 
@@ -45,35 +45,35 @@
 
 **Göbekli Tepe** - Massive temple complex constructed 11,600 years ago, representing the first major Igigi construction project. Served as memorial to defeated Anunnaki and template for organized labor under centralized control. Deliberately buried around 10,000 years ago as part of systematic erasure of Anunnaki-era evidence.
 
-## H
+#### H
 
 **HAR1 (Human Accelerated Region 1)** - A regulatory RNA gene expressed in neurons of the developing human neocortex that shows accelerated evolution in the human lineage. In this mythology, HAR1 represents one of the key genetic switches activated during Phase III of the experiment.
 
 **Hybrid Genetics** - The Nephilim displayed characteristics similar to tigons and ligers in modern big cat breeding: first-generation hybrid vigor with enhanced capabilities, followed by genetic instability and fertility issues in later generations. This required systematic breeding programs to maintain hybrid lines, contributing to the 17:1 reproductive bottleneck.
 
-## K
+#### K
 
 **\*koryos** - (PIE reconstructed term). The social institution of landless warrior bands, identified as the "human engine" of **The Reges'** conquest. Responsible for the slow-phase cultural and genetic replacement in Western Europe (e.g., the Bell Beaker phenomenon). These bands of young, landless warriors were ritually associated with wolves or dogs, engaged in ecstatic rites to enter battle-fury, and functioned as self-replicating shock troops carrying the complete PIE ideological package. The human implementation of **The Wiros** program.
 
-## M
+#### M
 
 **Manu** - In Hindu tradition, the progenitors of humanity across different cosmic ages. Fourteen Manus rule over successive periods (Manvantaras), with each cosmic age ending in destruction of the current human type and emergence of a new Manu with enhanced capabilities. This tradition parallels the Mesopotamian seven pairs of Adamu, suggesting global memory of systematic human genetic engineering. We currently live under the seventh Manu (Vaivasvata), approaching a transition to the eighth.
 
 **Mooneyed People** - Cherokee term for the builders of Fort Mountain's 900-foot stone wall in Georgia. Descriptions vary between small, pale beings and strong, cannibalistic giants with red or blonde hair. These seemingly contradictory accounts likely preserve memories of both hybrid lineages: the small, pale descriptions corresponding to Albians (goddess-human hybrids with astronomical knowledge), and the giant descriptions corresponding to Nephilim (aggressive Titan-human hybrids who "devoured the land").
 
-## N
+#### N
 
 **Nephilim** - Hebrew cultural echo of **The Wiros**, the "giants" or "fallen ones" - the offspring of **The Reges** and human women. In this framework, they represent the hybrid warrior lineage displaying characteristics similar to tigons and ligers: first-generation vigor with enhanced capabilities, but genetic instability and fertility issues in later generations requiring constant breeding program management.
 
-## S
+#### S
 
 **Sintashta Culture** - A specific archaeological culture (~2100-1800 BCE) on the Eurasian steppe. Identified as the recipients of a direct technology transfer from **The Reges**, granting them the first war chariots and advanced bronze weapons. Represented an escalation from social warfare (**\*koryos**) to high-tech warfare, enabling the rapid conquest of Eurasia and explosive spread of Indo-European languages and **Reges** ideology. They were **\*koryos** 2.0—elite warrior bands who received the hardware upgrade.
 
-## S
+#### S
 
 **Seventeen-to-One Ratio** - The extreme reproductive bottleneck (~8,000-5,000 years ago) where only 1 man successfully reproduced for every 17 women who bore children. Represents systematic elimination of competing male lineages and creation of genetic foundation for later ruling classes.
 
-## T
+#### T
 
 **Tertiary Consciousness** - The ability to transcend binary programming and hold multiple perspectives simultaneously without needing to collapse them into simple either/or choices. This represents an evolutionary step beyond the binary thinking that characterizes most human consciousness.
 
@@ -81,15 +81,15 @@
 
 **Titans** - Greek mythological term for the elder gods, corresponding to the Anunnaki in Mesopotamian tradition. The older generation of beings who initiated the original human experiment, operating on geological timescales with patient, evolutionary approach designed to eventually produce independent conscious beings. Overthrown by the younger generation (Olympians/Igigi) during the cosmic war.
 
-## U
+#### U
 
 **Umannu** - The successful line of genetically modified humans that emerged from the MIS 6 Modification Period and survived the Phase III activation. This term represents modern *Homo sapiens* - the species that carries the full Titan genetic modifications and consciousness programming installed during the glacial refugia enhancements.
 
-## P
+#### P
 
 **Perseus Protocol** - The archetypal approach to consciousness liberation that allows individuals to see and transform programming without being overwhelmed. Named after the mythological hero who used a mirror shield to defeat Medusa without looking directly at her. Represents the technology of indirect seeing—approaching difficult truths through reflection, metaphor, and strategic perspective rather than direct confrontation. The three Perseus tools are: the Mirror Shield (reflective awareness), Winged Sandals (dimensional mobility), and the Sword of Discrimination (precise discernment).
 
-## Y
+#### Y
 
 **Yahweh** - Within this framework, one of the seventy sons of El assigned to govern specific human populations. Not a "bad" faction but a territorial divine authority competing with divine siblings for influence. The name "Israel" (Isra-El) means "those who struggle with El," suggesting eventual conflict with the higher divine hierarchy. Represents both political divine management and authentic spiritual relationship that generated genuine wisdom and moral development.
 

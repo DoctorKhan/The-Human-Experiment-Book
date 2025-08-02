@@ -1,4 +1,4 @@
-# Chapter 4: Echoes in the Bone and Blood
+### Chapter 4: Echoes in the Bone and Blood
 
 *Dr. Sarah Tyra's hands shook as she stared at the latest genetic analysis. The 17:1 ratio was impossible to ignore—for every 17 women who had successfully reproduced throughout human history, only 1 man had passed on his genes. This wasn't natural selection. This was systematic control.*
 

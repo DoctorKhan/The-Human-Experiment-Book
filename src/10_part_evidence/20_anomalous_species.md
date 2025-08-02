@@ -1,4 +1,4 @@
-# Chapter 1: The Unsettling Data
+### Chapter 1: The Unsettling Data
 
 *Dr. Sarah Tyra stared at the genetic data scrolling across her screen, her coffee growing cold. After twenty years of studying human evolution, she thought she'd seen everything. But this was different. The patterns in the DNA didn't make sense. Humans weren't just another primate species that got lucky—they were something else entirely.*
 

@@ -1,4 +1,4 @@
-# Chapter 2: Stones That Should Not Be
+### Chapter 2: Stones That Should Not Be
 
 *Dr. Elena Vasquez knelt in the dust of Göbekli Tepe, her hands trembling as she brushed dirt from the carved stone pillar. The carbon dating results had come back that morning, and they changed everything. 11,600 years old. Built by hunter-gatherers who were supposed to be struggling for survival, not creating architectural marvels.*
 

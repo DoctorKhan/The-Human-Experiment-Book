@@ -1,4 +1,4 @@
-# Chapter 14: A Theory Emerges
+### Chapter 14: A Theory Emerges
 
 *The team of researchers sat around the conference table at Stanford, the weight of their combined evidence filling the room like a heavy fog. Dr. Sarah Tyra looked at each of her colleagues—Dr. Elena Vasquez, Dr. Rebecca Morrison, Dr. Marcus Chen, Dr. Anya Petrov, and Dr. Thomas Kim. Each had uncovered anomalies that challenged conventional understanding of human development.*
 
@@ -146,7 +146,7 @@ But proving it would require courage, careful planning, and acceptance of risks 
 
 *Dr. Tyra looked up from her notes. "Because the Managers didn't just install behavioral programs in individuals—they installed a planetary-scale version of what we might call **The Scribe**."*
 
-### The Collective Amnesia Mechanism
+##### The Collective Amnesia Mechanism
 
 The Managers understood that controlling individual behavior was insufficient for long-term dominance. They needed to control collective memory itself—the stories civilizations tell about their origins, their capabilities, and their place in the cosmos.
 
@@ -154,7 +154,7 @@ The Managers understood that controlling individual behavior was insufficient fo
 
 Just as individual Scribes protect personal identity by editing memories, the collective human Scribe protects civilizational identity by editing historical narratives.
 
-### How the Planetary Scribe Operates
+##### How the Planetary Scribe Operates
 
 **Evidence Reframing**: When archaeological discoveries suggest advanced ancient capabilities, the Scribe immediately generates explanations that preserve the "primitive past, progressive present" narrative:
 - Advanced stone cutting becomes "patient primitive techniques"
@@ -173,7 +173,7 @@ Just as individual Scribes protect personal identity by editing memories, the co
 - Linguists don't work with geologists
 - Each field develops explanations that work within their narrow domain but ignore cross-disciplinary implications
 
-### The Scribe's Civilizational Protection Protocols
+##### The Scribe's Civilizational Protection Protocols
 
 **When Presented with Intervention Evidence:**
 1. **Dismiss as Pseudoscience**: "That's not real archaeology/genetics/history"
@@ -187,7 +187,7 @@ Just as individual Scribes protect personal identity by editing memories, the co
 3. **Invoke Lost Techniques**: "They knew something we've forgotten"
 4. **Attribute to Aliens**: "If it's too advanced, it must be extraterrestrial" (safely placing it outside human history)
 
-### The Manager's Stroke of Genius
+##### The Manager's Stroke of Genius
 
 The Managers realized that the most effective way to hide intervention was not to erase all evidence—that would be impossible—but to install a psychological mechanism that would automatically rationalize any evidence that surfaced.
 
@@ -197,7 +197,7 @@ The Managers realized that the most effective way to hide intervention was not t
 
 **Academic Capture**: The Scribe doesn't just operate in individuals—it shapes entire academic disciplines, ensuring that institutional structures reward explanations that preserve the narrative and punish those that challenge it.
 
-### Why the Scribe Protects Linear Progress Mythology
+##### Why the Scribe Protects Linear Progress Mythology
 
 The Managers needed humanity to believe in a specific story about civilization:
 
@@ -214,7 +214,7 @@ The Managers needed humanity to believe in a specific story about civilization:
 - **Justifies Hierarchy**: If progress is linear and recent, current elites can claim to represent the most advanced human development
 - **Prevents Awakening**: If humans don't know they were once more capable, they won't try to recover those capabilities
 
-### Breaking Free from the Planetary Scribe
+##### Breaking Free from the Planetary Scribe
 
 **Cross-Disciplinary Synthesis**: The Scribe's weakness is its compartmentalization. When evidence from multiple fields is synthesized, patterns emerge that no single discipline can explain away.
 
@@ -224,7 +224,7 @@ The Managers needed humanity to believe in a specific story about civilization:
 
 **Mythological Literacy**: Treat ancient myths as potential historical documents rather than primitive fantasies, looking for consistent patterns across cultures.
 
-### The Scribe's Greatest Fear
+##### The Scribe's Greatest Fear
 
 The planetary Scribe's greatest fear is that humans will recognize their true history and capabilities. This recognition would trigger a species-wide "manual override"—a collective awakening that would make current control systems obsolete.
 
