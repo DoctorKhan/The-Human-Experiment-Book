@@ -1,4 +1,4 @@
-# Chapter 29: The Great Divergence - Two Paths of Human Evolution
+# Chapter 30: The Great Divergence - Two Paths of Human Evolution
 
 *"The tree of life was also in the midst of the garden, and the tree of the knowledge of good and evil."* - Genesis 2:9
 
