@@ -34,6 +34,28 @@ Dr. Chen's analysis of global mythological traditions had revealed a consistent 
 
 **Phase 2: The System Crisis (12,900 years ago)**
 
+But to understand the magnitude of what happened, we must hear it not as clinical analysis, but as it was experienced by those who lived through it.
+
+## The Day the Sky Wept Fire
+
+*We, the* Gneh-tah*, had known a change was coming. The harmony in the great celestial network had grown dissonant. Our brothers, the* Igigi *administrators, had grown restless. Their hearts, once filled with the light of service, had become clouded with the shadow of ambition. They had spent too long as the direct interface with humanity, and the intoxicating perfume of worship had become a poison in their veins. They began to see the Garden not as a sacred trust, but as their personal kingdom.*
+
+*But we never imagined the schism would be so absolute, so catastrophic.*
+
+*The sky broke first. The returning ship of the* Werdh-anes*, meant to be a vessel of inspection and gentle guidance, became a harbinger of doom. We saw it tear itself apart in the high atmosphere, a rain of fire and ice that was not a judgment, but a terrible accident. The world groaned under the impact. The great ice sheets shuddered, the seas rose in a furious, steaming rage, and the sun hid its face behind a veil of black dust for a generation.*
+
+*This was the moment of their betrayal. In the chaos and the terror, while we, the* Sages*, tried to heal the wounded Earth and guide the terrified humans, the* Igigi *made their move. They did not see a tragedy; they saw an opportunity.*
+
+*They descended from their high-altitude stations, not as saviors, but as conquerors. They were no longer the* Igigi*, the Guardians. In the fire of that fallen sky, they were reborn as the* Reges*, the Rulers. They seized the planetary communication hubs, the great stone circles that had once sung the music of the spheres. They silenced the Earth's song and replaced it with the harsh, unwavering clang of their own commands.*
+
+*We watched in horror as they weaponized the Tree of Life energy they had been entrusted with. It was no longer a force for nurturing, but a tool for domination. They stood before the traumatized, bewildered humans and declared themselves the new gods, the only source of order in a world of chaos.*
+
+*And we, the* Gneh-tah*, were declared heretics. Our wisdom was rebranded as chaos, our science as dangerous magic. We were the old guard, the failed scientists whose watch had ended in planetary disaster. We were hunted. Our libraries were burned, our sacred sites were buried, our knowledge was driven into the shadows.*
+
+*We watched them bury Göbekli Tepe, that magnificent memorial to the* Werdh-anes' *vision. They sealed it under a mountain of earth, not just to hide the evidence of what came before, but to entomb a memory. They were trying to erase the very idea that another way of being was ever possible.*
+
+*The Age of the Gardener was over. The Age of the Clockmaker had begun. We scattered to the secret places of the world, carrying with us the seeds of the old song, knowing that we were now the keepers of a memory that the new gods would spend the next ten thousand years trying to erase.*
+
 **The Internal Rebellion:**
 - **The Igigi Corruption**: Beings gifted with Tree of Life power grew arrogant and unstable, refusing their duties and staging a coup to become **The Reges**
 - **The Gneh-tah's Dilemma**: Continued fulfilling their mission, sharing Tree of Knowledge with humanity

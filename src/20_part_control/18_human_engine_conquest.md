@@ -27,9 +27,31 @@ Dr. Vasquez began with the Bell Beaker phenomenon, one of archaeology's most dis
 
 "The people who built Stonehenge—a culture that had lasted for over a millennium—were almost entirely wiped out," Dr. Vasquez continued. "Their genetic signature virtually disappears from the archaeological record. This wasn't conquest; it was genocide."
 
-Dr. Petrov studied the maps. "But who were the Bell Beaker people? Where did they come from?"
+The room fell silent as the magnitude of the data sank in. Dr. Rodriguez spoke quietly: "But what was it like for the people who lived through it? What did it feel like to watch your entire world disappear?"
 
-"That's where Dr. Chen's linguistic work becomes crucial," Dr. Vasquez replied. "Because the Bell Beaker expansion correlates perfectly with the spread of Proto-Indo-European languages and culture."
+Dr. Vasquez's expression grew somber. "To understand that, we need to hear it from their perspective. From the last of the *Alba* who remembered."
+
+## The Coming of the Wolf-Men
+
+*I am one of the last of the* Alba *who remembers the time before the iron and the shouting. I am a daughter of the* Gneh-tah*, and my people were the keepers of the stone circles in the land you now call Britain. Our towers were not of stone, but of woven light, and our knowledge was the rhythm of the living Earth. We healed with the songs of plants and the laying on of hands. We charted the long, slow dance of the stars, and in their movements, we read the great story of what was, and what is, and what could be.*
+
+*Then the Wolf-Men came.*
+
+*They came from the east, a tide of hungry ghosts. They were not like the men we knew. Their eyes held a fire that was not the fire of life, but the fire of conquest. They moved with the frantic, restless energy of a people who had forgotten how to listen to the Earth. The* Reges *had poured their own storm-god rage into the empty vessel of these landless boys and sent them to erase us.*
+
+*We heard them before we saw them: the clang of bronze on bronze, a sound utterly alien to our world of wood and stone and living things. We heard their drinking songs, which were not songs of praise for the land, but boasts of things they had broken. We heard the wolf-howls they made in the night, a ritual to empty themselves of their humanity so they could do the Warden's work.*
+
+*They did not understand our world. They saw our stone circles not as celestial instruments, but as dens of a terrifying magic. They saw our connection to the land not as wisdom, but as a threat to their god of order and control. They saw our women, who led and taught and healed, as an abomination.*
+
+*The war was not a war. It was a felling. They came upon our villages like a blight, and they burned the ancient groves, and they toppled the standing stones that had sung to the stars for a thousand years. They did not seek to learn from us. They sought to erase us. They were a virus, a self-replicating program of conquest, and they carried the entire ideology of their masters in their blood and their battle-cries.*
+
+*We did not fight them. How does the forest fight a fire? We retreated. We wove our light into the mists. We hid our knowledge in the secret geometry of the land itself, in folk tales and children's rhymes. We interbred with the few humans who still remembered the old ways, planting our genetic memory like a seed that might one day find fertile ground.*
+
+*We became the people of the hollow hills, the fae, the shining ones who live in the space between moments. We did not leave this world. We simply retreated into a deeper layer of its dream. We are still here. We are the whisper of truth in your oldest stories. We are the ache of longing for a world you can feel but cannot see. And we are waiting for you, our lost kin, to tire of the noise and the iron, and to remember the song of the Earth that we have kept safe for you all this time.*
+
+Dr. Petrov studied the maps, his face pale with recognition. "So the Bell Beaker people..."
+
+"Were the *koryos*," Dr. Chen confirmed. "The Wolf-Men. The self-replicating human weapon system that carried the *Reges'* programming across the world."
 
 ## The Social Software: The *Koryos
 
