@@ -1,4 +1,4 @@
-### Chapter 18: The Human Engine of Conquest - Hardware and Distribution
+### Chapter 19: The Human Engine of Conquest - Hardware and Distribution
 
 *The research team was still processing the implications of the ideological software when Dr. Elena Vasquez spread new archaeological maps across the conference table, her expression grim.*
 

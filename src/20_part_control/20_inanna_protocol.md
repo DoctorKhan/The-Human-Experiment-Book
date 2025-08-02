@@ -1,4 +1,4 @@
-### Chapter 19: The Inanna Protocol - A Technology for Integration
+### Chapter 20: The Inanna Protocol - A Technology for Integration
 
 The epic of Gilgamesh showed us the tragic path of the *Wiros* hybrid, the masculine hero of the *Reges*—a path of conquest, external striving, and the ultimate, bitter failure to reclaim the Tree of Life. It is the story of a soul trying to ram the gates of heaven and learning, through heartbreaking loss, to find meaning in the beautiful prison of mortality.
 
