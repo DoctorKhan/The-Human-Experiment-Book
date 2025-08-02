@@ -8,6 +8,12 @@
 
 *Dr. Petrov felt a chill. "Programmed by whom?"*
 
+#### Connecting the Investigation
+
+In *The Social Game*, we identified the external systems of control. In *Manual Override*, we introduced the concept of the "Autopilot"—the automated programming that runs within each person. We will now explore the evidence that this is not merely a useful psychological metaphor, but a literal description of our engineered nature.
+
+The patterns Dr. Petrov discovered in her lab weren't just cognitive quirks—they were the fingerprints of systematic programming installed in our species. What we called "running on Autopilot" in the previous books may be the result of actual software installed in human consciousness.
+
 ## The Binary Thinking Paradox
 
 Dr. Petrov's research had uncovered a disturbing pattern in human cognition. Despite possessing the most sophisticated brains on the planet, humans consistently defaulted to the simplest possible thinking patterns: binary categories that reduced complex realities to either/or choices.
