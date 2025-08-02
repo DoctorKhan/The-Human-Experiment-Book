@@ -14,7 +14,7 @@ The apprentice shivered, not just from the cold but from the weight of the words
 
 **This is the feeling of our time: the ache of forgetting something essential about who we are.**
 
-#### How to Use This Series: A Reader's Guide
+### How to Use This Series: A Reader's Guide
 
 You are about to embark on a four-part journey into the nature of reality, consciousness, and human potential. Each book builds upon the last, guiding you from a clear diagnosis of our current world to the practical tools for personal liberation and a profound understanding of our cosmic purpose. For the most complete experience, we highly recommend reading them in the following order:
 
@@ -36,7 +36,7 @@ Having understood our origins, we arrive at the final question: What is the mean
 
 **You are currently reading *The Human Experiment*.**
 
-#### This Book's Purpose: The Origin Story
+### This Book's Purpose: The Origin Story
 
 We have mapped the external game and mastered the internal tools. We are now ready to ask the ultimate questions of 'who' and 'why.'
 
@@ -91,7 +91,7 @@ This is because we are not separate individuals randomly encountering this infor
 
 From this perspective, the Human Experiment is not something that happened to other people in the past. It is our own multi-lifetime story, and we are now approaching its climax—the moment when we consciously choose what species we become next.
 
-#### The Method: The Detective's Toolkit
+### The Method: The Detective's Toolkit
 
 *In the vast, snow-covered expanse of the Arctic, an Inuit elder sits with a young child inside their igloo. The oil lamp casts dancing shadows on the ice walls. "I will tell you the story of the Raven who stole the sun," the elder says, her voice a low chant. The child listens, captivated, as the story unfolds—a tale of trickery, transformation, and the bringing of light to the world. The story is not a literal account. The child knows this. The elder knows this. But as the story is told, the child learns about cleverness, the nature of darkness and light, and the courage to change the world. The story is not true, but it is true enough to live by.*
 
@@ -101,7 +101,7 @@ This approach recognizes that literal truth and functional truth operate on diff
 
 The framework presented here is a modern extension of this ancient practice. It is a deliberately constructed mythology for our time, built from the scattered clues left behind by an ancient past.
 
-#### Addressing the Modern Detective
+### Addressing the Modern Detective
 
 Any new mythology must speak to the modern mind, which demands coherence and a basis in evidence. Our researchers face this challenge head-on.
 
@@ -111,7 +111,7 @@ Any new mythology must speak to the modern mind, which demands coherence and a b
 
 The goal is not to win a scientific debate, but to build a functional, empowering, and evolutionarily useful story for humanity's next phase of development. It is the story that our researchers found hidden in the data, the stones, and the echoes of myth.
 
-#### The Unfolding Mystery
+### The Unfolding Mystery
 
 This book is structured as a detective story. We will follow our researchers as they examine the evidence—the strange anomalies in our genetics, the impossible artifacts of our ancient past, and the persistent myths that haunt our collective memory. Each piece of evidence is a clue. Only after assembling the clues will we begin to construct a framework capable of explaining them.
 
@@ -119,7 +119,7 @@ The journey moves from the known anomalies to the unknown forces behind them, fr
 
 A glossary is provided for reference as new concepts are introduced throughout the journey.
 
-#### An Invitation to Conscious Exploration
+### An Invitation to Conscious Exploration
 
 What follows is not dogma, but a functional mythology—a story designed to convey essential truths, whether or not every detail is literally factual. As the Inuit say: "The stories are not true, but if you believe them, everything important will be conveyed." Belief is not required; what matters is how you engage with the story and what it awakens in you. And remember: there is always a kernel of truth in every good story—the key is to find it. To get the most from this journey, we invite you to join our researchers and:
 
