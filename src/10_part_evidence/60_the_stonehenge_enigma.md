@@ -36,7 +36,15 @@ Dr. Vasquez's investigation into Stonehenge's construction had revealed engineer
 
 **Trilithon Construction**: Massive horizontal lintels weighing up to 10 tons were lifted 16 feet off the ground and positioned with perfect precision on top of vertical stones.
 
-"The logistics are impossible," Dr. Vasquez explained. "Moving the bluestones alone would have required a coordinated effort involving thousands of people across multiple territories. The Neolithic population of Britain couldn't have supported such an undertaking."
+"The logistics are staggering," Dr. Vasquez explained. "Moving the bluestones alone would have required a coordinated effort involving thousands of people across multiple territories. The scale and complexity strain the limits of what a society of that size and technological level could reasonably achieve."
+
+## A Shockingly Peculiar Obsession
+
+While the engineering of Stonehenge is a marvel, the true enigma lies in the builders' motivations, which seem **shockingly peculiar** for a supposedly primitive society. The monument is a testament to an **incredibly sophisticated knowledge of astronomy**, with its alignments tracking complex solar and lunar cycles that would offer little practical benefit to a small group of hunter-gatherers. Why would a people struggling for survival invest generations of effort into building a celestial clock of such precision?
+
+This mystery is compounded by their fanatical commitment to specific materials. While the 150-mile journey of the Bluestones from Wales is a well-known puzzle, it pales in comparison to the journey of the central Altar Stone. Geological analysis has confirmed this stone was transported from **Scotland, a distance of 466 miles (750 kilometers).**
+
+Let us be clear: this was not a matter of convenience. This was a deliberate choice to source a specific stone from a staggeringly distant location, undertaking a logistical operation of immense scale and complexity. This act reveals a tremendous desire and a capacity for planning that fundamentally challenges the hunter-gatherer narrative. The builders of Stonehenge were not just capable of moving massive slabs; they possessed a sophisticated understanding of geology and a set of motivations that prioritized the unique properties of these stones over any practical consideration of effort. Their desire was so strong, and their knowledge so precise, that it suggests we are not looking at the work of primitive peoples, but at the legacy of a culture with a completely different, and far more advanced, understanding of the world.
 
 ## The Sudden Disappearance
 
