@@ -1,4 +1,4 @@
-### Chapter 21: The Engine and the Family - Two Models for a World
+### Chapter 22: The Engine and the Family - Two Models for a World
 
 To understand the profound chasm between the philosophy of the *Reges* and that of the *Werdh-anes*, we need not look to the heavens, but to the very structures we inhabit every day. For the ancient schism between the two Trees did not remain a cosmic event; it became the blueprint for the two ways humanity has learned to organize itself: as an Engine, and as a Family.
 
