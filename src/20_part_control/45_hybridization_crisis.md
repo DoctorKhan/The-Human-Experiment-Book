@@ -22,6 +22,8 @@ Proceed with conscious awareness and self-compassion.
 
 ## The Nephilim: The "Liger" Bug - A Case Study in Caretaker Lust
 
+The creation of the Nephilim can be understood as a forceful intervention in the co-evolutionary loop we explored in Chapter 5. Instead of providing a vessel for learning, the Rulers introduced a new "character class" designed to disrupt the game, creating a high-stakes curriculum of survival that humanity was not ready for.
+
 Genesis 6 speaks of the "sons of God" (*benei ha'elohim*) laying with the "daughters of men." In the context of our framework, these "sons of God" were **The Reges**—the usurping administrators who had seized control of the human experiment from the original **Werdh-anes** and **Gneh-tah**. What we're witnessing here is a textbook case of what we might call **"caretaker lust"**—the systematic sexual exploitation of those under one's care and authority.
 
 ##### The Anatomy of Caretaker Lust

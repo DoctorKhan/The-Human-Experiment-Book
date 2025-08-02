@@ -114,6 +114,8 @@ As they delved deeper into the evidence, a new pattern emerged that complicated 
 
 Dr. Vasquez nodded. "The early archaeological sites show harmony with natural systems. The later sites show domination and resource extraction."
 
+"This aligns perfectly with the co-evolutionary model we discussed in Chapter 5," Dr. Chen interjected. "The genetic changes were not random; they were the 'hardware upgrades' delivered by the Gardeners in response to the soul cohort's readiness for a new curriculum. The early modifications enhanced our capacity for consciousness development, while the later ones appear designed for control."
+
 "And the mythological sources," Dr. Chen added, "consistently describe conflict between two different groups of interveners."
 
 Dr. Tyra studied the timeline. "What if it wasn't one intervention, but two? What if we're looking at evidence of a takeover—one group of interveners being replaced by another?"
