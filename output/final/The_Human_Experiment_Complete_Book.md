@@ -1,7 +1,7 @@
 # The Human Experiment
 ## Reclaiming Our Origins, Purpose, and Evolutionary Destiny
 
-**Compiled**: 2025-08-03 12:36:45
+**Compiled**: 2025-08-03 21:44:15
 
 ---
 
@@ -3288,6 +3288,7 @@ Dr. Chen moved to the whiteboard, his excitement barely contained.
 He began drawing a diagram showing the structure of these warrior bands.
 
 **The \*Koryos System:**
+
 - **Recruitment**: Young men without inheritance, driven by desperation and promise of glory
 - **Ritual transformation**: Associated with wolves or dogs, engaged in ecstatic rites to enter battle-fury
 - **Social function**: Shock troops for expansion, operating outside normal social constraints
@@ -3305,6 +3306,7 @@ Dr. Morrison looked up from her genetic data. "You're saying these warrior bands
 Dr. Vasquez overlaid the linguistic and archaeological evidence.
 
 "The correlation is perfect," she said. "Everywhere we see Bell Beaker expansion, we see:
+
 - **Genetic replacement** of existing populations
 - **Cultural destruction** of matrifocal, Gneh-tah-influenced societies
 - **Introduction of PIE social structures** - the three-function system of priests, warriors, and producers
