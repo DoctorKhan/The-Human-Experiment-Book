@@ -20,11 +20,11 @@ To understand this, we must listen to another, quieter story, a fable that was o
 
 *The Man was no longer a river. He was a battlefield. The Watcher, the new king of his conscious mind, was now at war with the exiled currents—the tribes of his own soul he had branded as enemies. He had gained what he thought was control, but he had lost his wholeness forever.*
 
-## Decoding the Fable: The Birth of "Parts Work"
+## Decoding the Fable: The Birth of Internal Warfare
 
 The research team sat in stunned silence as Dr. Chen finished the ancient fable. The implications were staggering—not just for understanding the past, but for comprehending the fundamental structure of human psychology itself.
 
-Dr. Sarah Kim was the first to speak: "This isn't just mythology. This is a precise description of what modern therapy calls 'internal parts.'"
+Dr. Sarah Kim was the first to speak: "This isn't just mythology. This is a precise description of the psychological fragmentation we all experience."
 
 Chen nodded, his excitement building. "Exactly. This fable is the origin story of the psychological shattering that followed the cognitive upgrade. Let me break down the symbolism:"
 
@@ -36,11 +36,11 @@ He moved to the whiteboard and began mapping the elements:
 
 **The Dam-Building**: "This is the mechanism of impulse control through suppression. The Watcher, in its fear, believes it can control the river by force. This act of suppression is what creates the 'shadow' self."
 
-**The Exiled Currents**: "These are our 'internal parts.' The shamed desire becomes an 'addict' part. The suppressed anger becomes a 'rebel' part. The exiled fear becomes a 'vulnerable child' part. The Watcher itself becomes a 'protector' or 'manager' part, whose main job is to keep the exiles locked away."
+**The Exiled Currents**: "These are our fragmented aspects. The shamed desire becomes hidden compulsion. The suppressed anger becomes explosive rage. The exiled fear becomes paralyzing anxiety. The Watcher becomes a harsh internal critic, whose main job is to keep the exiles locked away."
 
-Dr. Alexei Petrov leaned forward, recognition dawning: "So Internal Family Systems therapy, parts work, even basic meditation—they're all addressing this primordial wound?"
+Dr. Alexei Petrov leaned forward, recognition dawning: "So the internal conflicts we all experience—they're all symptoms of this primordial wound?"
 
-"Not just addressing it," Chen replied. "They're the rediscovered healing technologies of the *Gneh-tah*. The ancient Sages understood that the cognitive upgrade would create this internal fragmentation, and they developed protocols to heal it."
+"Not just symptoms," Chen replied. "They're the inevitable result of the cognitive upgrade. The ancient Sages understood that this enhancement would create internal fragmentation, and they developed protocols to heal it."
 
 ## The *Reges'* Great Victory: A Species at War with Itself
 
@@ -56,21 +56,21 @@ Dr. Kim studied the patterns: "So the entire 'Conquerors' Playbook' we decoded..
 
 "Is an ideology designed to validate the Watcher and demonize the River," Chen confirmed. "It celebrates control over nature, reason over intuition, and will over impulse. It takes the internal battlefield and projects it onto the external world—civilization versus wilderness, order versus chaos, good versus evil."
 
-## The Path of Re-Integration: Modern Therapy as Ancient Technology
+## The Path of Re-Integration: Healing the Ancient Wound
 
 Dr. Chen moved to his final analysis, his voice filled with the excitement of discovery:
 
-"The practices of meditation and 'parts work' like Internal Family Systems aren't modern therapeutic inventions. They're the rediscovery of the *Gneh-tah's* healing protocol for this primordial wound."
+"The ancient Sages understood that the cognitive upgrade would create this internal fragmentation, and they developed protocols to heal it. The mythological stories preserve these healing technologies."
 
-He outlined the ancient technologies:
+He outlined the ancient wisdom:
 
-**Meditation**: "This is the practice of training the Watcher. But instead of teaching it to be a fearful dam-builder, we teach it to be a compassionate, non-judgmental observer. The meditator learns to sit on the riverbank and simply watch the currents of thought and feeling flow by, without trying to stop or divert them."
+**The Observer Training**: "This is the practice of training the Watcher. But instead of teaching it to be a fearful dam-builder, we teach it to be a compassionate, non-judgmental observer. The meditator learns to sit on the riverbank and simply watch the currents of thought and feeling flow by, without trying to stop or divert them."
 
-**Internal Family Systems (IFS) / Parts Work**: "This is the technology of diplomacy. It's the conscious act of the Watcher (the 'Self' in IFS terms) going down to the dams it has built, speaking to the exiled currents, and listening to their stories. It asks the angry part why it is so angry. It comforts the fearful part. It understands the desires of the addict part."
+**The Integration Journey**: "This is the technology of reconciliation. It's the conscious act of the Watcher going down to the dams it has built, speaking to the exiled currents, and listening to their stories. It asks the angry current why it flows so turbulently. It comforts the fearful current. It understands the desires of the passionate current."
 
 Dr. Rodriguez made the connection: "This is the journey Inanna took. She, the Queen of the Great Above—the Watcher—descended to meet her exiled sister—the River. She surrendered, listened, and integrated."
 
-Chen nodded, the full implications settling over the room: "To engage in these therapeutic practices is to perform a revolutionary act. It's to consciously reverse the foundational trauma of the cognitive upgrade. It's to heal the schism between the Two Trees within your own soul."
+Chen nodded, the full implications settling over the room: "To engage in this inner work is to perform a revolutionary act. It's to consciously reverse the foundational trauma of the cognitive upgrade. It's to heal the schism between the Two Trees within your own soul."
 
 He looked around at his colleagues' faces, seeing the recognition in their eyes.
 
