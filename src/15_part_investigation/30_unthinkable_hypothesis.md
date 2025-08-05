@@ -2,11 +2,19 @@
 
 *Dr. Sarah Tyra stood before the whiteboard, marker hovering over the timeline they had constructed. The evidence was overwhelming, but the conclusion it pointed toward was so radical that none of them wanted to be the first to say it out loud.*
 
+*"I've been trying to find conventional explanations for weeks," Dr. Vasquez said, her voice strained. "I've run every alternative scenario I can think of. Lost civilizations, unknown natural phenomena, measurement errors, dating mistakes. But every time I try to explain away one piece of evidence, three more anomalies surface."*
+
+*Dr. Petrov nodded, looking exhausted. "I keep hoping I'll find a flaw in my methodology. That the pre-conscious decision-making is just an artifact of the scanning technology. That the binary thinking patterns are just cultural conditioning. But the data is too consistent, too universal."*
+
+*Dr. Tyra thought of Emma, of the genetic markers that made her daughter part of an ancient lineage. "I've spent my entire career defending evolutionary orthodoxy. I've published papers debunking 'ancient astronaut' theories. My reputation, my funding, everything I've built—it's all based on the assumption that human evolution was natural and unguided."*
+
+*She looked around the room at her colleagues' faces, seeing her own struggle reflected in their eyes. "But we're scientists. We follow the evidence, even when it leads us somewhere we don't want to go."*
+
 *They had followed the clues methodically: the genetic impossibilities, the archaeological anomalies, the mythological convergences, the consciousness patterns. Each piece of evidence had seemed strange in isolation, but together they formed an undeniable pattern.*
 
-*"We need to follow the scientific method," she said finally. "We have anomalies that conventional theories cannot explain. We need a hypothesis that accounts for all the evidence, no matter how unthinkable it seems."*
+*"We need to follow the scientific method," she said finally, her voice barely steady. "We have anomalies that conventional theories cannot explain. We need a hypothesis that accounts for all the evidence, no matter how unthinkable it seems."*
 
-*Dr. Marcus Chen cleared his throat. "The hypothesis that fits all our data is that human development has been guided by advanced, non-human intelligence operating according to a long-term plan."*
+*Dr. Marcus Chen cleared his throat, his hands trembling slightly. "The hypothesis that fits all our data is that human development has been guided by advanced, non-human intelligence operating according to a long-term plan."*
 
 *The words hung in the air like a revelation. They had solved the mystery—but the solution was more extraordinary than any of them had imagined.*
 

@@ -1,8 +1,18 @@
 ## Part 3: The Mythological Rosetta Stone
 
-*The team had assembled a mountain of impossible, contradictory evidence. Humanity appeared to be both brilliantly engineered and strangely crippled. We had the bodies of a domesticated species and the minds of an orphaned one. Conventional theories had failed. It was Dr. Chen, buried in ancient Mesopotamian fragments, who found the key.*
+*The team had assembled a mountain of impossible, contradictory evidence. Humanity appeared to be both brilliantly engineered and strangely crippled. We had the bodies of a domesticated species and the minds of an orphaned one. Conventional theories had failed.*
 
-*"I think I've found it," he announced to the team, his voice filled with awe. "It's not a scientific paper. It's a story. A parable. But it's the only thing I've ever found that explains everything."*
+*For three weeks, Dr. Chen had been working eighteen-hour days, cross-referencing fragments from Sumerian tablets, Egyptian texts, and Indo-European myths. His office looked like a hurricane had hit a library. Coffee cups formed archaeological layers on his desk. His colleagues were beginning to worry.*
+
+*Then, at 2:47 AM on a Tuesday, he found it.*
+
+*The call came at 3 AM. Dr. Tyra's phone buzzed her awake. "Sarah, you need to get down here. Now. Bring everyone."*
+
+*Twenty minutes later, the entire team stood in Chen's office, staring at a man who looked like he'd seen a ghost—or perhaps something far more extraordinary.*
+
+*"I think I've found it," he announced, his hands shaking as he held up a collection of ancient fragments. "It's not a scientific paper. It's a story. A parable. But it's the only thing I've ever found that explains everything. Every single anomaly we've discovered. Every impossible piece of evidence."*
+
+*He looked around at their faces, his eyes bright with exhaustion and revelation. "This isn't just mythology. This is the historical record. The actual account of what happened to our species."*
 
 *Before we present the team's final theory of the case, there is an ancient story that holds the key to understanding everything that follows. This is the master key to the mystery we are about to solve.*
 
