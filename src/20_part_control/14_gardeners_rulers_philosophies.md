@@ -118,4 +118,12 @@ He paused, the weight of the revelation settling over the room.
 
 *The room fell silent as the magnitude of this realization settled over them. They weren't just studying ancient history—they were examining the fundamental choice that every conscious being must make.*
 
+## The Great Mysteries Solved
+
+*With the Gardener/Clockmaker framework in place, the core puzzles that had haunted the investigation finally resolved into a clear and elegant picture.*
+
+*   **The Neoteny Enigma—SOLVED:** The Gardeners did not domesticate us for simple docility. They brilliantly selected for **neoteny** to create the ultimate **playful learner.** A prolonged childhood, a state of perpetual curiosity, is the ideal incubator for creative and adaptive consciousness. Our vulnerability was a feature, not a bug—the necessary condition for our greatest gift.*
+
+*   **The Worship Imperative—SOLVED:** Our innate search for our 'parents' is a deep echo of our original bond with the nurturing Gardeners. But this gentle, relational instinct was hijacked by the Clockmakers—the Rulers. They hardwired it into a compulsive **Worship Imperative**, transforming our natural love into a program of blind obedience designed to fuel their new system of control.*
+
 "What happened next would determine not just the fate of humanity, but which cosmic philosophy would shape the next ten thousand years of human development."

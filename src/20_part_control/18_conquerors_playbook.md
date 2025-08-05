@@ -157,6 +157,23 @@ Dr. Chen nodded slowly. "Creation by Dismemberment justifies environmental destr
 
 Dr. Morrison looked around the room. "We're not just studying ancient history. We're reverse-engineering the foundational narratives that have been shaping Western and South Asian civilization for 5,000 years."
 
+## Law as an Operating System
+
+*The team's final breakthrough came when they re-examined the most foundational texts of human civilization: the great law codes, like the Ten Commandments and the Code of Hammurabi.*
+
+*"We've been reading these all wrong," Dr. Chen announced, projecting the Decalogue onto the main screen. "We've been debating them as morality, as 'right' versus 'wrong.' We missed the point. This isn't a moral code; it's an **operating system update for a biological network.**"*
+
+*He pointed to the commandments. "This is not spirituality. This is social engineering at a genius level. The Rulers weren't trying to make us 'good.' They were trying to make us **scalable**."*
+
+*He broke it down for the team:*
+*   *"'You shall have no other gods before me' isn't about theological purity. It's a **software exclusivity clause**. It prevents the human network from being infected by competing operating systems."*
+*   *"'You shall not kill' and 'You shall not steal' are not about saving individual souls. They are about **reducing network attrition and conflict**. It's basic resource management for a large-scale workforce."*
+*   *"'Honor your father and mother' is a command to ensure **stable, high-fidelity generational knowledge transfer**."*
+
+*Dr. Petrov grasped the implication immediately. "So what we call 'morality' is actually a set of firmware patches designed to allow a species of primates to function at the scale of millions without self-destructing."*
+
+*"Exactly," Chen confirmed. "The laws were the code that made civilization possible. A brilliant, necessary, but entirely functional system for managing biological robots. It has nothing to do with the soul."*
+
 ## The Modern Manifestation
 
 Dr. Chen moved to a fresh section of the whiteboard.
