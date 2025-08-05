@@ -2,11 +2,15 @@
 
 *Dr. Marcus Chen burst into the Stanford conference room where the team had been working for three days straight, his hair disheveled and his eyes bright with discovery. In his hands were printouts covered in linguistic notations and etymological charts.*
 
-*"I've got it," he announced breathlessly. "I know why the myths have been driving us crazy. I know who the Gardeners and Managers really were."*
+*"I've got them," he announced breathlessly. "I know who they were. I have their names."*
+
+*The room fell silent. For weeks, they had been wrestling with the evidence of two different interventions, two different philosophies, two different approaches to human development. They had the fingerprints, but not the identities.*
 
 *Dr. Sarah Tyra looked up from her genetic data. "Marcus, you look like you haven't slept in days."*
 
-*"I haven't," he said, spreading his papers across the table. "But I've cracked it. The reason we can't make sense of the mythological accounts isn't because they're contradictory—it's because we've been reading them wrong. We've been treating them as a simple hierarchy when they were actually describing a class structure."*
+*"I haven't," he said, spreading his papers across the table with trembling hands. "But I've cracked it. The mythological Rosetta Stone. I know who the Gardeners and Rulers really were. I have their actual names, their organizational structure, their chain of command."*
+
+*Dr. Vasquez felt her grandmother's voice echoing: "The Builders sang the stones into place." She leaned forward. "Tell us."*
 
 ## The Contradiction
 
@@ -106,7 +110,23 @@ Dr. Chen gathered his papers, exhausted but exhilarated. "The linguistic evidenc
 
 *Dr. Chen paused at the door and looked back at the whiteboard covered with etymological charts and ancient names.*
 
-**Dr. Chen**: "For the sake of clarity, having decoded their origins, from this point forward we'll refer to these factions by their functional names: **The Gardeners**, **The Rulers**, **The Sages**, **The Hybrids**, and **The Preservers**. The true names are important for understanding the deep history, but the functional names will help us see how these ancient forces are still operating today."
+*"For the sake of clarity, having decoded their origins, from this point forward we'll refer to these factions by their functional names: **The Gardeners**, **The Rulers**, **The Sages**, **The Hybrids**, and **The Preservers**. The true names are important for understanding the deep history, but the functional names will help us see how these ancient forces are still operating today."*
+
+*The room was quiet as the magnitude of their discovery settled over them. They had started with impossible clues—genetic anomalies, archaeological mysteries, behavioral paradoxes. They had been forced to consider the unthinkable: systematic intervention in human development. They had discovered evidence of two conflicting approaches, two different philosophies.*
+
+*And now they had names. They had organizational structure. They had the key to understanding not just what happened, but who did it and why.*
+
+*Dr. Petrov spoke first. "So we're not just studying ancient history. We're studying the evidence of an ongoing operation. The Rulers' control systems are still active. The Gardeners' genetic gifts are still dormant in the population. And we're approaching some kind of choice point."*
+
+*Dr. Tyra looked at Emma's photo on her laptop. "Which means this isn't just an academic investigation anymore. It's intelligence gathering for a war that never ended."*
+
+*Dr. Chen nodded grimly. "The mystery of 'who' is solved. Now we need to understand the full story of what they did to us—and what we can do about it."*
+
+---
+
+*End of Part II: The Investigation*
+
+*The impossible clues had been gathered. The unthinkable hypothesis had been proven. The players had been identified. Now it was time to understand the full scope of the Human Experiment—and humanity's role in its conclusion.*
 
 *As the team left the conference room, they carried with them not just a new understanding of human history, but a roadmap for human liberation. The mythological Rosetta Stone had revealed the true names, the real relationships, and the ongoing influence of forces that had shaped human consciousness for millennia.*
 

@@ -1,14 +1,16 @@
-### Chapter 12: The Rebellion of the Guardians
+### Chapter 12: Two Different Hands
 
-*Dr. Rebecca Morrison stared at her genetic analysis results, a frown deepening across her face. She had been testing the intervention hypothesis by looking for consistent patterns in the human modifications, but what she found was the opposite of consistency.*
+*The team had accepted the unthinkable: human development showed clear signs of systematic intervention. But as they began testing this hypothesis against their data, Dr. Rebecca Morrison made a discovery that shattered even their expanded worldview.*
 
-*"This doesn't make sense," she muttered, calling Dr. Sarah Tyra over to her workstation. "Look at these genetic signatures. The early modifications and the later ones... they're completely different."*
+*"I've been analyzing the genetic modifications chronologically," she announced at their next meeting, her voice tight with excitement and dread. "I expected to find a consistent pattern—one intelligence working according to a unified plan. Instead, I found this."*
 
-*Dr. Tyra studied the data. "Different how?"*
+*She pulled up two sets of genetic data side by side, and the room fell silent.*
 
-*"Different techniques, different objectives, different timescales. It's like they were done by entirely different administrations."*
+*Dr. Tyra leaned forward. "They're completely different."*
 
-*The word hung in the air. If their intervention hypothesis was correct, they weren't just dealing with one advanced intelligence—they were looking at evidence of a cosmic changing of the guard.*
+*"Different techniques, different objectives, different timescales," Morrison confirmed. "It's like they were done by entirely different species. We're not looking at one intervention—we're looking at evidence of a cosmic changing of the guard."*
+
+*The intervention hypothesis had just become infinitely more complex.*
 
 ## The Genetic Inconsistency
 
