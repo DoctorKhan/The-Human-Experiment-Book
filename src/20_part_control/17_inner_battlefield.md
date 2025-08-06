@@ -42,6 +42,8 @@ Dr. Alexei Petrov leaned forward, recognition dawning: "So the internal conflict
 
 "Not just symptoms," Chen replied. "They're the inevitable result of the cognitive upgrade. The ancient Sages understood that this enhancement would create internal fragmentation, and they developed protocols to heal it."
 
+*"And this fable isn't a metaphor," Dr. Petrov added, pulling up a diagram of the endocrine system. "It's a precise description of a biological process. The Watcher's constant suppression of the River creates a state of chronic, low-grade stress. This floods the body with cortisol, which is one of the most powerful epigenetic modulators we know of. It literally switches on genes for hyper-vigilance, fear, and resource hoarding, while switching off genes for cellular repair, long-term planning, and social empathy. The inner battlefield creates the biological prison. The Rulers didn't need to build walls around us; they taught us how to build them inside our own cells."*
+
 ## The *Reges'* Great Victory: A Species at War with Itself
 
 Dr. Elena Rodriguez connected this to her archaeological evidence: "This explains why the *Reges'* control system was so effective. They didn't need to police humanity from the outside—we were already policing ourselves from the inside."

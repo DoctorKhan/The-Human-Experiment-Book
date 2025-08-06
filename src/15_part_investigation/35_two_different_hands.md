@@ -18,23 +18,10 @@ Dr. Morrison presented her findings to the assembled team, her excitement barely
 
 "When I analyzed the genetic modifications chronologically, I expected to find a consistent pattern—one intelligence working according to a unified plan. Instead, I found this."
 
-She pulled up two sets of genetic data side by side.
-
-**Phase One Modifications (150,000-50,000 years ago):**
-- Gradual genetic enhancement over long periods
-- Focus on consciousness expansion and sensory development
-- Integration with existing human genetics
-- Emphasis on longevity and health optimization
-- Sustainable population management
-
-**Phase Two Modifications (50,000-10,000 years ago):**
-- Rapid genetic changes over short periods
-- Focus on productivity and behavioral control
-- Systematic breeding programs and population replacement
-- Emphasis on docility and hierarchical organization
-- Intensive resource extraction capabilities
-
-"The genetic signatures are completely different," Dr. Morrison concluded. "It's like two different research programs with different objectives and methodologies. But more than that—it's like the second program was designed to undo the work of the first."
+She pulled up two sets of genetic data side by side, and the room fell silent.
+"They're completely different," Dr. Tyra leaned forward.
+"Different philosophies entirely," Morrison confirmed. "This is the key. **The Gardeners were epigeneticists.** Their work is subtle, elegant. They installed the genetic 'hardware' millions of years ago, but their primary method was to nurture the 'software.' They used consciousness, environment, and subtle catalysts to activate latent potential. They were cultivating a garden."
+She then pointed to the second data set. "Then you have **the Rulers. They are brute-force engineers.** They aren't interested in the software. They go straight for the hardware, editing the source code, deleting functions, and installing backdoors. They're mechanics, not gardeners. The evidence doesn't show one long intervention; it shows a gardener's project being hijacked by a mechanic who only knows how to use a hammer."
 
 ## The Archaeological Contradiction
 

@@ -28,7 +28,7 @@ Around 150,000-130,000 years ago, during the severe glacial period known as Mari
 
 Dr. Wright studied the data, his brow furrowed. "It's like they were... refined somehow. Concentrated rather than diminished."
 
-"But that's not how bottlenecks work," Dr. Tyra replied. "They should have been wiped out, or at best, severely compromised. Instead, they became the foundation for our entire species."
+"But that's not how bottlenecks work," Dr. Tyra replied. "They should have been wiped out, or at best, severely compromised. And look at this," she added, pointing to a different screen. "It's not just their genes. It's their gene *expression*. We're seeing widespread, heritable epigenetic changes in the survivors. It's as if the trauma of the bottleneck itself was a switch that permanently flipped their biology into a different operating mode. Natural selection doesn't do that in a single generation."
 
 ## The Seven Pairs Mystery
 
