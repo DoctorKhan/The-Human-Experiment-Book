@@ -83,7 +83,11 @@
 
 #### U
 
-**Umannu** - The successful line of genetically modified humans that emerged from the MIS 6 Modification Period and survived the Phase III activation. This term represents modern *Homo sapiens* - the species that carries the full Titan genetic modifications and consciousness programming installed during the glacial refugia enhancements.
+**Umannu** - Human advisors who replaced the divine **Apkallu** after the flood, according to Mesopotamian records. This transition marks the shift from direct divine guidance to human intermediaries claiming divine authority. Represents the beginning of the "Age of Kings" - human rulers who derive legitimacy from claimed divine mandate rather than inherent divine nature. The Umannu system created the template for all subsequent human political authority.
+
+#### N
+
+**Nephilim** - The hybrid offspring of the **Reges** ("sons of God") and human women, described in Genesis 6. These genetically superior but unstable beings created a biological crisis that threatened pure human extinction. Their existence led to the development of the 17:1 reproductive bottleneck as a human survival strategy and ultimately necessitated the flood as a genetic reset. Cultural echoes include the Giants, Titans, and various "hero" lineages in global mythology.
 
 #### P
 

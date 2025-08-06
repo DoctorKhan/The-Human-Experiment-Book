@@ -120,6 +120,10 @@ Dr. Petrov, working with an economic historian, noted the striking similarity be
 
 *"The Anunnaki withdrew to the heavens. The Greek Titans were banished. The God of the Hebrew tradition, who once walked in the Garden, became hidden. Every major civilization tells the same story: the great creators were once present, but now they are gone. Why would we universally invent stories about being abandoned?"*
 
+*What was most peculiar, Dr. Kim discovered, was not just that the great gods became absent, but that their entire advisory system was downgraded. He highlighted the strange case of the Mesopotamian **Apkallu**—seven semi-divine sages who, according to the Sumerian King List, advised humanity's first kings directly. But after the great flood, they vanish completely, replaced in the records by purely human advisors called **Umannu**.*
+
+*"It's not just a story of absent landlords," he wrote in a memo to the team. "It's a record of a direct line of communication being systematically severed and replaced with human middle management. Why would a civilization document its own demotion?"*
+
 *He paused, letting the full weight of the contradictions settle. "The evidence is completely illogical. We have the bodies of a domesticated species. We have the minds of an orphaned species. We instinctively pay taxes to absent landlords. And our most cherished stories are about how they left us."*
 
 *Petrov summarized the impossible conclusion they were facing: "It's as if the entire architecture of human religion and culture is a system designed to maintain compliance with an authority that is no longer physically present."*
