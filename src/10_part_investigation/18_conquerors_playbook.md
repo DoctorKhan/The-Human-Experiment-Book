@@ -1,4 +1,4 @@
-# Chapter 11: The Conquerors' Playbook
+# Chapter 9: The Conquerors' Playbook
 
 *The research team was still processing the profound implications of the crash landing revelation. The traumatized survivors hadn't just established emergency protocols—they had weaponized human psychology itself.*
 

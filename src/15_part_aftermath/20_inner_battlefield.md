@@ -1,4 +1,4 @@
-# Chapter 13: The Inner Battlefield
+# Chapter 11: The Inner Battlefield
 
 **The cosmic war was never just an external event. It was internalized, becoming the blueprint for the conflict that rages within every human mind.**
 

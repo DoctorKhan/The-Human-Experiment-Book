@@ -1,4 +1,4 @@
-# Chapter 10: The Timeline of a Tragedy
+# Chapter 8: The Timeline of a Tragedy
 
 *Dr. Tyra's eyes suddenly went wide as the pieces clicked into place. The team had been thinking about the intervention as a single event, but the evidence pointed to something far more complex—and far more tragic.*
 

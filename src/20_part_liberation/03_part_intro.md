@@ -1,3 +1,3 @@
-# Part 5: The Liberation — Reclaiming Our Birthright
+# Part 4: The Liberation — Reclaiming Our Birthright
 
 *The investigation is complete. The mystery has been solved. Humanity is not a random accident of evolution, but the product of an ancient experiment that was hijacked by trauma and control. We now understand both the systems that have shaped us and the technologies that can free us. The question is no longer what happened to us, but what we will choose to do about it.*

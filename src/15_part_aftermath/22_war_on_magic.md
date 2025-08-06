@@ -1,4 +1,4 @@
-# Chapter 15: The War on Magic
+# Chapter 13: The War on Magic
 
 *Dr. Chen stared at the historical timeline he had been constructing, his face growing pale as the pattern became clear. The systematic persecution of consciousness technologies wasn't random cultural evolution—it was a coordinated, multi-millennial campaign.*
 

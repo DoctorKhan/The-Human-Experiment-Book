@@ -1,4 +1,4 @@
-# Chapter 12: A War in the Blood: The Hybridization Crisis
+# Chapter 10: A War in the Blood: The Hybridization Crisis
 
 *Dr. Rebecca Morrison stood before the genetic analysis displays, her face pale as she prepared to explain the most disturbing discovery of their investigation. The 17:1 reproductive bottleneck wasn't just a statistical anomaly—it was evidence of a biological catastrophe that had nearly destroyed the human species.*
 

@@ -10,10 +10,11 @@ gap_increment: 10
 
 # Auto-scanning will find all numbered directories and files
 # No need to manually list structure - it's built automatically from:
-# 10_introduction/
-# 20_part_evidence/
-# 30_part_control/
-# 40_part_liberation/
+# 00_introduction/
+# 05_part_crime_scene/
+# 10_part_investigation/
+# 15_part_aftermath/
+# 20_part_liberation/
 # 90_appendix/
 
 build:

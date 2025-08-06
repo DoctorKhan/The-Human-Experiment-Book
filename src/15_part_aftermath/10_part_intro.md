@@ -1,4 +1,4 @@
-# Part 4: Living the Aftermath — How Ancient Conflicts Shape Modern Life
+# Part 3: Living the Aftermath — How Ancient Conflicts Shape Modern Life
 
 **It's like someone designed us to be gods and then installed the software of slaves.**
 
