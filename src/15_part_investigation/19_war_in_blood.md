@@ -1,4 +1,4 @@
-# Chapter 9: A War in the Blood: The Hybridization Crisis
+# Chapter 12: A War in the Blood: The Hybridization Crisis
 
 *Dr. Rebecca Morrison stood before the genetic analysis displays, her face pale as she prepared to explain the most disturbing discovery of their investigation. The 17:1 reproductive bottleneck wasn't just a statistical anomaly—it was evidence of a biological catastrophe that had nearly destroyed the human species.*
 
@@ -29,6 +29,7 @@ Dr. Morrison's research revealed that there had been two distinct types of hybri
 "The crash survivors weren't a unified group," she explained. "The flight crew and the science crew had different approaches to their survival crisis, and this created two very different types of hybrid offspring."
 
 **The Wiros (The Nephilim)**: Offspring of the flight crew and human women
+
 - Enhanced physical capabilities and extended lifespans
 - Inherited sense of divine entitlement over humanity
 - Genetically unstable and temperamentally unpredictable
@@ -36,6 +37,7 @@ Dr. Morrison's research revealed that there had been two distinct types of hybri
 - Saw humans as resources to be exploited
 
 **The Alba (The Preservers)**: Offspring of the science crew and human women
+
 - Enhanced consciousness abilities and wisdom
 - Inherited knowledge of original consciousness technologies
 - Stable but reclusive, focused on preservation rather than proliferation
@@ -55,6 +57,7 @@ Dr. Vasquez studied the data. "You're talking about the invention of patriarchy?
 "Not just patriarchy," Morrison replied. "The systematic control of female reproduction to create the 17:1 bottleneck. For every 17 women who reproduced, only 1 man passed on his genes. This wasn't natural selection—it was artificial selection designed to concentrate the best pure-human genetics while excluding hybrid bloodlines."
 
 **The Biological Mathematics of Extinction:**
+
 - **Hybrid Advantage**: A single hybrid could live for centuries, mating with generations of human women across vast territories
 - **Human Disadvantage**: Human males lived and died in a single generation, unable to compete with beings who possessed enhanced life force
 - **The Inevitable Result**: Over centuries, human Y-chromosomes were being systematically bred out of existence by superior competitors

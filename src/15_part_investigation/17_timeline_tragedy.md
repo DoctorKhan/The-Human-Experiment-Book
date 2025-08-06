@@ -1,4 +1,4 @@
-# Chapter 7: The Timeline of a Tragedy
+# Chapter 10: The Timeline of a Tragedy
 
 *Dr. Tyra's eyes suddenly went wide as the pieces clicked into place. The team had been thinking about the intervention as a single event, but the evidence pointed to something far more complex—and far more tragic.*
 
@@ -27,12 +27,14 @@ Dr. Tyra moved to the timeline, her voice gaining urgency as the full picture em
 **The Catastrophic Timeline:**
 
 **12,800 years ago**: Cosmic impact event triggers Younger Dryas climate catastrophe
+
 - Mission crew forced to crash-land on Earth
 - Massive environmental disruption and species extinctions
 - Human populations scattered and traumatized
 - Original experiment infrastructure destroyed
 
 **12,000-10,000 years ago**: Emergency protocols activated
+
 - Surviving crew members activate dormant human programming
 - Rapid development of agriculture and civilization
 - Hierarchical control systems implemented

@@ -1,4 +1,4 @@
-# Chapter 12: The War on Magic
+# Chapter 15: The War on Magic
 
 *Dr. Chen stared at the historical timeline he had been constructing, his face growing pale as the pattern became clear. The systematic persecution of consciousness technologies wasn't random cultural evolution—it was a coordinated, multi-millennial campaign.*
 
@@ -11,6 +11,7 @@ Dr. Morrison's genetic research had revealed that the Alba bloodlines carried so
 "The Alba wielded what traumatized humanity would later call 'magic,'" she explained, "but these abilities were actually sophisticated consciousness technologies."
 
 **The Alba Capabilities:**
+
 - **Energy Healing**: Direct interface with the body's bio-electric and quantum fields
 - **Telepathy**: Natural resonance and information exchange between coherent consciousness fields
 - **Divination/Precognition**: Advanced pattern recognition and probability analysis conducted at levels of consciousness that transcend linear time
@@ -42,6 +43,7 @@ Dr. Chen's research revealed how the persecution was justified through systemati
 "The core myth was the heroic sky god slaying the great serpent," he explained, showing images of Thor and Jörmungandr, Indra and Vritra, Zeus and Typhon, Saint George and the Dragon.
 
 **The Mythological Pattern:**
+
 - **The Serpent**: Symbol of earth wisdom, consciousness technologies, the original teachers
 - **The Hero**: The authority figure, representing imposed order and control
 - **The Battle**: The ongoing suppression of consciousness technologies
@@ -72,6 +74,7 @@ Dr. Chen revealed how the persecution was carried out through human agents.
 "The Rulers didn't need to send armies," he explained. "They installed a social program into their most loyal human populations: the warrior band system. It was a self-replicating system for creating ideological shock troops."
 
 **The Warrior Band Programming:**
+
 - Young, landless men recruited into brotherhood organizations
 - Intensive ideological programming combining mythology and violence
 - Systematic targeting of consciousness-practicing communities
@@ -116,6 +119,7 @@ Despite the systematic persecution, Dr. Morrison's research revealed that the Al
 "They didn't just disappear," she explained. "They went underground, creating a global preservation network that maintained the consciousness technologies through hidden traditions."
 
 **Preservation Strategies:**
+
 - **Cultural Embedding**: Consciousness technologies preserved within acceptable cultural forms—art, music, storytelling, religious ritual
 - **Genetic Distribution**: Alba bloodlines integrated into major civilizations, carrying dormant abilities
 - **Mystery Schools**: Secret educational systems that preserved advanced knowledge
@@ -130,6 +134,7 @@ Dr. Chen's research revealed signs that the ancient suppression was beginning to
 "We're seeing unprecedented interest in consciousness technologies," he observed. "Meditation, energy healing, plant medicines, intuitive practices—all emerging from the underground into mainstream acceptance."
 
 **Signs of the Awakening:**
+
 - Scientific research validating consciousness phenomena
 - Medical institutions integrating alternative healing approaches
 - Educational systems incorporating mindfulness and emotional intelligence

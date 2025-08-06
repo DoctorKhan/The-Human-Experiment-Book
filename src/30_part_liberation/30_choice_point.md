@@ -2,7 +2,7 @@
 
 *Dr. Chen closed his research files and looked around the conference table at his colleagues. "We've traced the entire arc—from the original quarantine through the hybridization crisis, the Great Trauma, and the War on Magic. Now we face the same choice our ancestors faced, but with one crucial difference: we understand what we're choosing between."*
 
-*Dr. Tyra nodded. "The choice isn't between good and evil, or even between different political systems. It's between continuing to fear our own consciousness potential or finally embracing it. We're choosing whether to end the War on Magic or perpetuate it for another generation."*
+*Dr. Tyra nodded. "**The choice we now face is the culmination of our entire history. It is the choice to remain within the Rulers' trauma programming or to consciously activate the Gardeners' original blueprint for our evolution.**"*
 
 ## The Fundamental Choice: Fear or Integration
 

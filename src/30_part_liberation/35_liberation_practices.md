@@ -1,4 +1,4 @@
-# Chapter 15: The Liberation Practices
+# Chapter 18: The Liberation Practices
 
 *The investigation was complete. The team had uncovered the true history of human consciousness, identified the control systems that had shaped civilization, and revealed the dormant potential that lay waiting in human genetics. But knowledge alone was not enough.*
 
@@ -79,18 +79,21 @@ Dr. Chen had identified four essential areas where the ancient programming could
 Dr. Chen outlined a practical approach for individuals beginning this journey:
 
 **Phase 1: Foundation Building (Months 1-6)**
+
 - Daily meditation practice to develop observer consciousness
 - Regular nature connection to restore energetic balance
 - Emotional healing work to release trauma patterns
 - Study of consciousness technologies to understand the process
 
 **Phase 2: Ability Development (Months 6-24)**
+
 - Energy healing training to develop hands-on healing abilities
 - Intuitive development exercises to strengthen direct knowing
 - Community involvement to practice Family protocol dynamics
 - Advanced meditation techniques to access expanded states
 
 **Phase 3: Integration and Service (Years 2+)**
+
 - Teaching others the consciousness technologies you've developed
 - Creating or joining communities based on awakened principles
 - Using abilities for healing and service rather than personal power
