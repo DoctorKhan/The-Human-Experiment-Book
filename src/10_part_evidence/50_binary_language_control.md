@@ -10,6 +10,8 @@
 
 *Dr. Petrov felt a chill as she realized the deeper implication. "Thomas... I'm not studying the programming. I AM the programming. We both are. Every methodology we're using, every assumption we're making—what if it's all part of the same system we're trying to analyze?"*
 
+*She stared at her own brain scans on the monitor, seeing the same pre-conscious decision patterns, the same binary categorization impulses. The researcher had become the subject. The observer was the observed. For a moment, the lab felt less like a place of scientific discovery and more like a prison where the inmates were studying the bars.*
+
 #### Connecting the Investigation
 
 In *The Social Game*, we identified the external systems of control. In *Manual Override*, we introduced the concept of the "Autopilot"—the automated programming that runs within each person. We will now explore the evidence that this is not merely a useful psychological metaphor, but a literal description of our engineered nature.

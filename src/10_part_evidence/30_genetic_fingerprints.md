@@ -18,7 +18,7 @@ In most mammalian species, the reproductive ratio is much closer to 1:1. Even in
 
 "Look at the timeline," Dr. Tyra explained to her research team. "Before agriculture, human reproductive patterns were relatively normal. Then, around 10,000 years ago, this extreme bottleneck appears suddenly across multiple populations simultaneously."
 
-The implications were staggering. Someone or something had gained control over human reproduction on a global scale, determining which males could breed and which could not. This level of reproductive control seems almost inhuman, resonating with biblical tales of the **Nephilim**—divine beings who interbred with humanity and disrupted the natural order.
+The implications were staggering. Someone or something had gained control over human reproduction on a global scale, determining which males could breed and which could not. This level of reproductive control seems almost inhuman, resonating with biblical tales of the **Nephilim**—divine beings who interbred with humanity and disrupted the natural order. **This ancient bottleneck finds a strange echo in the digital age, where dating app algorithms often create a similar dynamic: a small percentage of profiles receive the vast majority of attention, leaving others in a state of intense competition.**
 
 But what if the genetic modifications weren't imposed from outside? What if they were woven into our very essence from the beginning, as part of a design so elegant and purposeful that we can barely comprehend it even now?
 

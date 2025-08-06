@@ -212,7 +212,7 @@ Dr. Petrov nodded grimly. "That's exactly what we see in the behavioral programm
 
 *Dr. Tyra's eyes suddenly went wide as the pieces clicked into place.*
 
-**Dr. Tyra**: "And then... you have to crash land. The Younger Dryas event wasn't **The Rulers** arriving to take over. It was **The Gardeners** themselves—or at least their mission crew—crash-landing in the middle of their own unprepared experiment."
+**Dr. Tyra**: "And then... you have to crash land. The Younger Dryas event wasn't a hostile takeover by an outside force. It was the mission crew—the Watchers and the Apkallu—crash-landing in the middle of their own unprepared experiment. They were the ones who would eventually become **The Rulers**, but at this moment, they were just survivors."
 
 *She moved to the timeline, her voice gaining urgency.*
 
@@ -248,13 +248,13 @@ Dr. Petrov nodded grimly. "That's exactly what we see in the behavioral programm
 
 *Her voice dropped to a whisper.*
 
-**Dr. Tyra**: "They're stranded, traumatized, and in command of a planet full of programmable biological robots. The mission is no longer about consciousness evolution. It's about survival. And that is when **The Gardeners** became **The Rulers**."
+**Dr. Tyra**: "They're stranded, traumatized, and in command of a planet full of programmable biological robots. The mission is no longer about consciousness evolution. It's about survival. And that is when the path was laid for the Guardians to become the Rulers."
 
 ## The Mesopotamian Memory: A Record of Trauma
 
 *Dr. Chen moved to his collection of ancient texts, his understanding now complete.*
 
-**Dr. Chen**: "The Mesopotamian myths aren't just historical records—they're trauma narratives. The story of the Igigi rebellion isn't about divine beings refusing to dig ditches. It's about a flight crew refusing to continue their original mission of guardianship."
+**Dr. Chen**: "The Mesopotamian myths aren't just historical records—they're trauma narratives. The story of the Igigi rebellion isn't about divine beings refusing to dig ditches. It's about a traumatized flight crew, the Watchers, eventually seizing control from the science crew, the Apkallu, and abandoning their original mission of guardianship."
 
 *He pulled up the relevant passages.*
 
@@ -265,6 +265,16 @@ Dr. Petrov nodded grimly. "That's exactly what we see in the behavioral programm
 ## The Implications: A Multi-Species Trauma
 
 *The room fell silent as the full implications sank in. They weren't just looking at human history—they were looking at the aftermath of a cosmic catastrophe that had traumatized multiple species.*
+
+*To clarify this new, tragic understanding, Dr. Chen sketched out the evolution of the factions on the whiteboard:*
+
+**A Visual Guide to the Factions' Transformation:**
+
+*   **The Gardeners (Werdh-anes)** -> *Remain the distant, original Architects of the experiment.*
+*   **The Watchers (Igigi) [Mission Crew]** -> **[CRASH]** -> **Traumatized Survivors** -> **[EMERGENCY DOMESTICATION & COUP]** -> **The Rulers (Reges)**
+*   **The Sages (Apkallu) [Mission Crew]** -> **[CRASH]** -> **Traumatized Survivors** -> **[SIDELINED BY COUP]** -> **The Underground Resistance (Preservers / Alba creators)**
+
+*Dr. Chen stepped back from the diagram. "This is the tragedy we've uncovered. The Rulers aren't external conquerors—they're what the benevolent guardians became after catastrophic trauma and desperate choices."*
 
 **Dr. Petrov**: "If this is accurate, it means the 'fall' wasn't evil conquering good. It was trauma overriding wisdom. The Managers aren't villains—they're survivors of a catastrophe, making desperate choices."
 

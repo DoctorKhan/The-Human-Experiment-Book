@@ -53,6 +53,7 @@ The apprentice shivered, not just from the cold but from the weight of the words
 But this isn't a conspiracy—it's a mystery. The wrongness isn't the result of deliberate deception, but of missing pieces in a puzzle so vast that no single discipline could see the whole picture. And that wrongness isn't just academic—it's the source of our current crisis. We feel lost because we've been given a story about ourselves that doesn't match our actual experience. We feel like strangers in our own world because we've forgotten who we really are and why we're here.
 
 The symptoms are everywhere:
+
 - **We feel disconnected** despite being more "connected" than ever
 - **We feel meaningless** despite having more opportunities than any generation in history
 - **We feel powerless** despite having unprecedented technological capabilities
@@ -85,6 +86,8 @@ The ultimate proof of this framework is not in convincing you of a new history, 
 
 To understand the purpose of this book, we must look to the wisdom of the Inuit, who have a profound understanding of how stories work. When teaching children essential life lessons, they tell stories. The crucial insight is this: **"The stories are not true, but if they believe them, everything important will be conveyed."**
 
+This "belief" is not a call for blind faith, but a willingness to engage with the story as a functional map—to hold it lightly, follow its logic, and see if it leads to a better understanding of the territory of your own life.
+
 This approach recognizes that literal truth and functional truth operate on different levels. A story’s power lies not in its factual accuracy, but in its ability to shape consciousness in beneficial ways. This book proposes that our most ancient myths were not primitive science, but sophisticated instruments for shaping consciousness, designed to do just that.
 
 The framework presented here is a modern extension of this ancient practice. It is a deliberately constructed mythology for our time, built from the scattered clues left behind by an ancient past.
@@ -95,7 +98,7 @@ Any new mythology must speak to the modern mind, which demands coherence and a b
 
 *   **The Complexity Paradox**: Critics may argue this framework is unnecessarily complex. But the evidence itself is complex. Science itself uses complex models (like quantum mechanics) when they have greater explanatory power. This framework’s complexity is its strength, allowing it to weave together disparate threads from genetics, archaeology, and consciousness studies into a single, coherent tapestry that simpler explanations leave fragmented. Our researchers chose complexity because the simple answers failed.
 
-*   **The Evidence Question**: This framework is also criticized for "cherry-picking" evidence. This misunderstands the methodology of our researchers. Their goal is **synthesis, not selective proof**. They focus on integrating anomalies that conventional models struggle to explain—the accelerated evolution of the HAR1 gene, the precision of ancient megalithic sites, the consistent patterns in global mythology—into a story that is both scientifically grounded and spiritually resonant. They didn't ignore the evidence that fit; they simply paid close attention to the pieces that *didn't* fit the standard picture.
+*   **The Evidence Question**: This framework is also criticized for "cherry-picking" evidence. This misunderstands the methodology of our researchers. Their goal is **synthesis, not selective proof**. They focus on integrating anomalies that conventional models struggle to explain—the accelerated evolution of the HAR1 gene, the precision of ancient megalithic sites, the consistent patterns in global mythology—into a story that is both scientifically grounded and spiritually resonant. They didn't ignore the evidence that fit; they simply paid close attention to the pieces that *didn't* fit the standard picture. After all, every great scientific revolution, from Einstein's relativity to quantum mechanics, began not by confirming the known, but by taking seriously the small pieces of evidence—the anomalies—that refused to fit the existing map of reality.
 
 The goal is not to win a scientific debate, but to build a functional, empowering, and evolutionarily useful story for humanity's next phase of development. It is the story that our researchers found hidden in the data, the stones, and the echoes of myth.
 
