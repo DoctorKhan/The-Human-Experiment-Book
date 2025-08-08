@@ -1,4 +1,4 @@
-# Chapter 12: The Engine vs. The Family
+# Chapter 17: The Engine vs. The Family
 
 *To understand how the ancient conflict continues to shape modern life, the team realized they needed to look beyond history to the very structures we inhabit every day. The schism between the two approaches to consciousness development had become the blueprint for the two ways humanity organizes itself: as an Engine, and as a Family.*
 

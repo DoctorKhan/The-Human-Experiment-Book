@@ -1,3 +1,3 @@
-# Part 2: The Investigation — Assembling the Puzzle
+# Part 2: Book II: The Book of the Fall — The Primordial Trauma
 
-*The crime scene has been reconstructed. The evidence has been presented. Now the real investigation begins. The team must find a single, coherent narrative that can account for every paradox. To do so, they turn to the most dismissed form of evidence: myth. What if the stories our ancestors told were not fantasies, but fragmented memories of a history we have forgotten?*
+Herein is the story of how paradise was lost. This is not a tale of human sin, but of cosmic tragedy. It is the memory of the great catastrophe, of the serpent's misunderstood gift, and of the quarantine that severed us from our divine birthright. This is the origin of our inner battlefield.

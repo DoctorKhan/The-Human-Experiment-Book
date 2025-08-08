@@ -1,4 +1,4 @@
-# Chapter 17: Conclusion: The Experiment is Over
+# Chapter 22: Conclusion: The Experiment is Over
 
 *The child stood in the ruins of the old world, her hand resting on the ancient stone. She could feel it humming with a frequency that resonated in her bones, in her blood, in the very core of her being. Around her, the new world was taking shape—not the sterile, technological future her parents had feared, but something organic, alive, connected.*
 

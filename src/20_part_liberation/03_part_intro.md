@@ -1,3 +1,3 @@
-# Part 4: The Liberation — Reclaiming Our Birthright
+# Part 4: Book IV: The Book of Whispers & Parables — The Awakening
 
-*The investigation is complete. The mystery has been solved. Humanity is not a random accident of evolution, but the product of an ancient experiment that was hijacked by trauma and control. We now understand both the systems that have shaped us and the technologies that can free us. The question is no longer what happened to us, but what we will choose to do about it.*
+Yet the original song was never truly lost. It was carried in secret bloodlines and whispered in hidden traditions. This is the book of the keepers of the flame, and of the great parables that contain the keys to our integration and healing. These are the teachings for the path home.

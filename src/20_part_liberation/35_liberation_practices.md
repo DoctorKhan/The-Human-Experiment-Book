@@ -1,4 +1,4 @@
-# Chapter 16: The Liberation Practices
+# Chapter 21: The Liberation Practices
 
 *The investigation was complete. The team had uncovered the true history of human consciousness, identified the control systems that had shaped civilization, and revealed the dormant potential that lay waiting in human genetics. But knowledge alone was not enough.*
 

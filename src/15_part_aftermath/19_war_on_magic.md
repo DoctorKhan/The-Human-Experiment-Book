@@ -1,8 +1,6 @@
-# Chapter 13: The War on Magic
+# Chapter 15: The War on Magic — The Silencing of the Prophets
 
-*Dr. Chen stared at the historical timeline he had been constructing, his face growing pale as the pattern became clear. The systematic persecution of consciousness technologies wasn't random cultural evolution—it was a coordinated, multi-millennial campaign.*
-
-*"We've been calling it the 'War on Magic,'" he said to the assembled team, "but that makes it sound like fantasy. This was real. This was systematic. And it's still happening."*
+The systematic persecution of consciousness technologies was not random cultural evolution—it was a coordinated, multi-millennial campaign to eliminate the Tree of Life wisdom that could have freed humanity from the Rulers' control.
 
 ## The Alba Inheritance: Consciousness as Advanced Technology
 
