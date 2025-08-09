@@ -4,4 +4,4 @@ There is a feeling that many of us have experienced—a sense that something is 
 
 For millennia, we have been told we are the product of mostly random chance. But the most ancient myths—the ones we dismissed as fantasy—whisper a different truth. They spoke of powerful beings who walked amongst us, a symbiotic relationship. What happened? and who ultimately leaving us orphaned and amnesiac.
 
-The is the story of the Orphaned Species.
+The is the story of the Orphaned Species, our species.

@@ -1,5 +1,15 @@
 # Chapter 1: The Day the Sky Wept Fire
 
+The father pressed his infant daughter close to his chest, her tiny fist wrapped around his thumb as the heavens tore themselves apart above them. Ribbons of flame painted impossible trajectories across the star-drunk sky, each blazing arc trailing whispers of worlds beyond imagining. 
+
+The child did not cry. Even she seemed to understand that this was a moment when the universe itself was breaking.
+
+Some witnesses would later swear they saw wings in the fire—vast, beating shadows against the cosmic inferno. Others spoke of serpentine forms writhing through the flames, their scales catching starlight as they fell. The elders whispered of dragons, but their word meant something different then: *divine fire-bearers*, messengers who carried light between the worlds.
+
+When the last ember faded, silence descended like a burial shroud. The air itself seemed to hold its breath.
+
+
+
 *Keth-Anu had been watching the blue world for three thousand years from his station in the high orbital ring. As one of the Igigi flight crew, his duty was simple: monitor the experiment, maintain the infrastructure, protect the developing humans from cosmic hazards.*
 
 *It had been peaceful work. Beautiful work. Below him, the Gneh-tah moved like gentle shadows through human settlements, appearing as wise teachers when knowledge was needed, then fading back into legend. The humans were developing exactly as the Architects had envisioned—slowly, naturally, their consciousness expanding in harmony with their genetic gifts.*
