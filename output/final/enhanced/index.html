@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Human Experiment - Enhanced Edition</title>
+    <title>The Human Experiment</title>
     <meta name="description" content="A comprehensive exploration of human origins, intervention theories, and our evolutionary destiny through the lens of functional mythology.">
     <meta name="author" content="Rez Khan">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
@@ -443,6 +443,23 @@
         font-size: 0.85rem;
         cursor: pointer;
         margin-left: 0.5rem;
+        transition: all 0.3s ease;
+    }
+
+    .toc-btn.primary {
+        background: var(--primary-color);
+        font-weight: 600;
+        padding: 0.7rem 1.5rem;
+        font-size: 0.9rem;
+    }
+
+    .toc-btn:hover {
+        background: var(--highlight-color);
+        transform: translateY(-1px);
+    }
+
+    .toc-btn.primary:hover {
+        background: #2563eb;
     }
 
     .toc-search input {
@@ -1122,7 +1139,7 @@
             <p class="book-author">Rez Khan</p>
             <p class="book-subtitle">Reclaiming Our Origins, Purpose, and Evolutionary Destiny</p>
             <div class="book-meta">
-                <span class="word-count">56,485 words</span>
+                <span class="word-count">56,490 words</span>
                 <span class="publication-info">Enhanced HTML Edition</span>
             </div>
         </div>
@@ -1133,16 +1150,16 @@
         <div class="toc-header">
             <h2>📚 Table of Contents</h2>
             <div class="toc-controls">
+                <button id="skip-to-content" class="toc-btn primary">📖 Skip to Content</button>
                 <button id="expand-all" class="toc-btn">Expand All</button>
                 <button id="collapse-all" class="toc-btn">Collapse All</button>
-                <button id="compact-view" class="toc-btn">Compact View</button>
             </div>
         </div>
         <div class="toc-search">
             <input type="text" id="toc-search" placeholder="🔍 Search chapters..." />
         </div>
         <div class="toc-summary">
-            <p>📖 <strong>0 parts</strong> • <strong>209 chapters</strong> • Click parts to expand</p>
+            <p>📖 <strong>0 parts</strong> • <strong>209 chapters</strong> • All sections collapsed by default</p>
         </div>
         <nav class="toc-nav">
     
@@ -2206,12 +2223,12 @@
     
             <h1 id="the-human-experiment"><a href="#the-human-experiment" class="heading-anchor" title="Link to this section">#</a>The Human Experiment</h1>
 <h2 id="reclaiming-our-origins-purpose-and-evolutionary-destiny"><a href="#reclaiming-our-origins-purpose-and-evolutionary-destiny" class="heading-anchor" title="Link to this section">#</a>Reclaiming Our Origins, Purpose, and Evolutionary Destiny</h2>
-<p><strong>Compiled</strong>: 2025-08-08 17:25:09</p>
+<p><strong>Compiled</strong>: 2025-08-08 17:36:07</p>
 <hr />
 <hr />
 <h1 id="a-testament-for-the-children-of-the-experiment"><a href="#a-testament-for-the-children-of-the-experiment" class="heading-anchor" title="Link to this section">#</a>A Testament for the Children of the Experiment</h1>
-<p>There is a feeling that many of us have experienced—a sense that something is fundamentally wrong with our understanding of the world. What if the story we've been told about our origins, our purpose, and our place in the cosmos is incomplete? What if there is a deeper, more profound truth about who we are just beginning to remember.</p>
-<p>For millennia, we have been told we are the product of random chance. But the most ancient myths—the ones we dismissed as fantasy—whisper a different truth. They spoke of beings who descended from the stars, who nurtured us and fought over the destiny of our species, ultimately leaving us orphaned and amnesiac.</p>
+<p>There is a feeling that many of us have experienced—a sense that something is fundamentally wrong with the stories we've been told about ourselves. What if the truth about our origins, our purpose, and our place in the cosmos is incomplete? What if there is a deeper, more profound truth that we are just beginning to reconstruct, a truth that has been hidden from us for aeons?</p>
+<p>For millennia, we have been told we are the product of mostly random chance. But the most ancient myths—the ones we dismissed as fantasy—whisper a different truth. They spoke of powerful beings who walked amongst us, a symbiotic relationship. What happened? and who ultimately leaving us orphaned and amnesiac.</p>
 <p>The is the story of the Orphaned Species.</p>
 <h2 id="the-day-the-sky-wept-fire"><a href="#the-day-the-sky-wept-fire" class="heading-anchor" title="Link to this section">#</a>The Day the Sky Wept Fire</h2>
 <p><em>Keth-Anu had been watching the blue world for three thousand years from his station in the high orbital ring. As one of the Igigi flight crew, his duty was simple: monitor the experiment, maintain the infrastructure, protect the developing humans from cosmic hazards.</em></p>
@@ -5007,6 +5024,39 @@ The security program that saved us from extinction now threatens our survival th
                 }
             });
         });
+
+        // Skip to content button
+        const skipBtn = document.getElementById('skip-to-content');
+        if (skipBtn) {
+            skipBtn.addEventListener('click', function() {
+                // Find the first heading that comes after the TOC in the DOM
+                const allHeadings = document.querySelectorAll('h1, h2, h3');
+                let foundTOC = false;
+
+                for (let heading of allHeadings) {
+                    // Skip until we get past the TOC
+                    if (heading.textContent.includes('Table of Contents') || heading.closest('.enhanced-toc')) {
+                        foundTOC = true;
+                        continue;
+                    }
+
+                    // Once we're past the TOC, take the first real content heading
+                    if (foundTOC) {
+                        heading.scrollIntoView({ behavior: 'smooth' });
+                        return;
+                    }
+                }
+
+                // Fallback: if no TOC found, just go to first heading that's not TOC-related
+                for (let heading of allHeadings) {
+                    if (!heading.textContent.includes('Table of Contents') &&
+                        !heading.closest('.enhanced-toc')) {
+                        heading.scrollIntoView({ behavior: 'smooth' });
+                        break;
+                    }
+                }
+            });
+        }
 
         // Expand/Collapse all buttons
         const expandBtn = document.getElementById('expand-all');
