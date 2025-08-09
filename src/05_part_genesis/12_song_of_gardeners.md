@@ -1,8 +1,6 @@
-# Chapter 1: The Song of the Gardeners
+# Chapter 4: The Song of the Gardeners
 
-In the beginning, there were the **Werdh-anes**—The Gardeners.
-
-Their name, preserved in the deepest linguistic roots of human language, means "to grow, to increase." They were architects of consciousness, patient cultivators working on timescales that spanned millions of years. Where others might impose change through force, they planted seeds and tended gardens.
+In the beginning, there were the **Werdh-anes**—The Gardeners. They were architects of consciousness, patient cultivators working on timescales that spanned millions of years. Where others might impose change through force, they planted seeds and tended gardens.
 
 The Human Experiment was their masterpiece—not a project of conquest or exploitation, but a sacred endeavor to nurture a new form of consciousness. They envisioned a species that could bridge the material and the spiritual, that could evolve beyond the limitations of purely biological existence while remaining grounded in the wisdom of embodied experience.
 

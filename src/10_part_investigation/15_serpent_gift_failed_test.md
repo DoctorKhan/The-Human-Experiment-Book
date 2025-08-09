@@ -1,4 +1,4 @@
-# Chapter 8: The Serpent's Gift & The Failed Test
+# Chapter 9: The Serpent's Gift & The Failed Test
 
 *In the aftermath of the great crash, as the dust still darkened the skies and the traumatized survivors established their emergency command centers, Marduk-Resh stood before the holographic display of the human settlements.*
 

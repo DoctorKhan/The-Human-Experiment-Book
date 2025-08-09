@@ -1,3 +1,3 @@
 # Part 1: Book I: The Genesis Arc — The Original Blueprint
 
-In the beginning, before the great forgetting, the design for humanity was one of love and boundless potential. This is the record of our sacred origin, of the divine fingerprints left in our very flesh, and of the two great paths of consciousness for which we were created.
+In the beginning, before the great forgetting, there was a song written in starlight and bone. This is the record of that first melody—the one that still echoes in our blood, though we have forgotten how to hear it. Here lie the clues to what we were meant to become, and the two divergent harmonies that shaped our becoming.

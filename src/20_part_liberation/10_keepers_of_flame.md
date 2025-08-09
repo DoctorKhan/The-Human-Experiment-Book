@@ -1,4 +1,4 @@
-# Chapter 19: The Keepers of the Flame
+# Chapter 20: The Keepers of the Flame
 
 *In the hidden sanctuary beneath Stonehenge, as the sounds of battle raged above and the smoke of burning settlements darkened the sky, Aeliana-Shar made the most difficult decision of her three-thousand-year existence.*
 

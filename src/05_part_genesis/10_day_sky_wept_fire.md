@@ -1,4 +1,4 @@
-# Chapter 6: The Day the Sky Wept Fire
+# Chapter 1: The Day the Sky Wept Fire
 
 *Keth-Anu had been watching the blue world for three thousand years from his station in the high orbital ring. As one of the Igigi flight crew, his duty was simple: monitor the experiment, maintain the infrastructure, protect the developing humans from cosmic hazards.*
 

@@ -1,4 +1,4 @@
-# Chapter 15: The War on Magic — The Silencing of the Prophets
+# Chapter 16: The War on Magic — The Silencing of the Prophets
 
 The systematic persecution of consciousness technologies was not random cultural evolution—it was a coordinated, multi-millennial campaign to eliminate the Tree of Life wisdom that could have freed humanity from the Rulers' control.
 

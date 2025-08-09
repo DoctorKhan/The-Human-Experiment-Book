@@ -1,4 +1,4 @@
-# Chapter 14: The War in the Blood — The Scar of Cain
+# Chapter 15: The War in the Blood — The Scar of Cain
 
 *In the war council chambers beneath Göbekli Tepe, five years after the great crash, Marduk-Resh faced a problem that threatened to unravel everything they had built.*
 

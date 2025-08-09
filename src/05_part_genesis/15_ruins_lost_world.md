@@ -1,4 +1,4 @@
-# Chapter 5: Ruins of a Lost World
+# Chapter 7: Ruins of a Lost World
 
 Beyond Göbekli Tepe, a global network of consciousness technology was built, the ruins of which still defy conventional explanation. These are the remnants of the Gardeners' world—the sophisticated consciousness development infrastructure that was systematically decommissioned and buried by the traumatized Rulers who feared what it represented: the possibility of human liberation from their control.
 
