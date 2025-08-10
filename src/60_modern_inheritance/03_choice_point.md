@@ -19,6 +19,7 @@ The control systems I've documented throughout this investigation are failing:
 As the control systems weaken, something unprecedented is happening: the genetic switches installed by the original titans are beginning to activate on their own.
 
 **I'm seeing evidence of:**
+
 - Spontaneous consciousness expansion experiences in ordinary people
 - Increased psychic and intuitive abilities across populations
 - Growing resistance to authority and institutional control
@@ -32,12 +33,14 @@ These aren't random cultural changes. They're the signs of a species beginning t
 Humanity now faces the same choice the crash survivors faced 12,800 years ago, but from the opposite direction. We can either:
 
 **Path 1: Complete the Original Experiment**
+
 - Activate the consciousness development systems installed by the original titans
 - Develop the advanced capabilities that were always our genetic inheritance
 - Transcend the domestication programming and become truly sovereign beings
 - Risk creating a species more advanced than anything that has existed on Earth
 
 **Path 2: Maintain the Management System**
+
 - Accept continued control by whatever forces have replaced the old managers
 - Remain a domesticated species seeking external authority and guidance
 - Suppress the spontaneous activations and maintain the status quo
@@ -48,6 +51,7 @@ Humanity now faces the same choice the crash survivors faced 12,800 years ago, b
 But there's a problem: the domestication programming runs so deep that many humans actively resist the first path. We've been bred to seek external authority, to fear our own power, to celebrate the elimination of enhanced individuals.
 
 **The programming manifests as:**
+
 - Fear of consciousness expansion and enhanced abilities
 - Preference for remaining "normal" rather than developing exceptional capabilities
 - Automatic submission to authority figures and institutional systems
@@ -85,6 +89,7 @@ These aren't new-age fantasies. They're practical methods for accessing capabili
 But here's the crucial point: this isn't just an individual choice. The original experiment was designed to develop human consciousness collectively, not just in isolated individuals.
 
 **The activation process requires:**
+
 - Communities of people supporting each other's development
 - Shared commitment to transcending the domestication programming
 - Collective resistance to the modern management systems
@@ -98,6 +103,7 @@ Individual awakening without collective support often leads to isolation, persec
 The window for this choice may be limited. The spontaneous activations are accelerating, but so are the efforts to suppress them. New control technologies are being developed that could make consciousness development much more difficult.
 
 **The modern management systems are implementing:**
+
 - Technological surveillance that monitors consciousness states
 - Pharmaceutical interventions that suppress psychic abilities
 - Educational programming that eliminates consciousness development from curricula

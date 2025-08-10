@@ -17,18 +17,22 @@ This is called neoteny - when a species retains juvenile characteristics into ad
 As I researched further, I realized human neoteny wasn't just unusual - it was the signature of systematic domestication. Compare any wild animal to its domestic counterpart:
 
 **Wolves vs. Dogs:**
+
 - Wild: Pointed ears, long snouts, lean bodies, aggressive behavior
 - Domestic: Floppy ears, shortened snouts, childlike proportions, submissive behavior
 
 **Wild Boars vs. Pigs:**
+
 - Wild: Lean, muscular, aggressive, independent
 - Domestic: Rounded, childlike features, docile, dependent on handlers
 
 **Wild Cats vs. House Cats:**
+
 - Wild: Lean, alert, solitary, self-sufficient
 - Domestic: Rounded features, playful into adulthood, seeks human approval
 
 **Humans show every characteristic of a domesticated species:**
+
 - Neotenic physical features (childlike proportions throughout life)
 - Extended dependency period (human children need care far longer than any other primate)
 - Reduced aggression compared to our closest relatives
@@ -79,18 +83,21 @@ The crash survivors created a species that would always need shepherds, always n
 The domestication program created a three-tier system:
 
 **Tier 1: The Managers** - Crash survivors and their direct hybrid offspring
+
 - Advanced consciousness capabilities
 - Long lifespans
 - Direct access to pre-crash knowledge and technology
 - Responsibility for guiding human development
 
 **Tier 2: The Intermediaries** - Human-hybrid crosses with enhanced capabilities
+
 - Enhanced physical and mental abilities
 - Extended lifespans (but not as long as pure managers)
 - Ability to interface between managers and pure humans
 - Served as god-kings, priests, and royal bloodlines
 
 **Tier 3: The Managed** - Pure humans bred for domestication
+
 - Neotenic features and extended dependency
 - Instinctive submission to authority
 - Limited lifespans to prevent accumulation of too much knowledge
@@ -111,18 +118,21 @@ The breeding program had created beings with enhanced capabilities but unstable 
 The domestication program was so successful that it continues to operate even without direct management. Modern humans still exhibit all the characteristics of a domesticated species:
 
 **We seek parental authority figures:**
+
 - Political leaders as substitute parents
 - Religious authorities as spiritual parents  
 - Expert classes as intellectual parents
 - Institutional systems as societal parents
 
 **We maintain childlike dependency:**
+
 - Expecting authorities to solve our problems
 - Looking for external validation and approval
 - Avoiding personal responsibility for our choices
 - Preferring to be told what to think rather than thinking independently
 
 **We exhibit neotenic behavior:**
+
 - Play and entertainment consumption throughout adulthood
 - Emotional reactions more appropriate to children than adults
 - Difficulty with delayed gratification and long-term planning
@@ -133,6 +143,7 @@ The domestication program was so successful that it continues to operate even wi
 But the most sophisticated aspect of the domestication program was the suppression of human consciousness capabilities. The crash survivors didn't just breed us for physical docility - they bred us for mental limitation.
 
 **Suppressed capabilities:**
+
 - Direct telepathic communication (reduced to "intuition")
 - Enhanced sensory perception (reduced to normal human ranges)
 - Extended lifespan potential (limited to prevent knowledge accumulation)

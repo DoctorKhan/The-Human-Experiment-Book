@@ -21,12 +21,14 @@ The coordination required for this level of systematic persecution was staggerin
 But the bloodline hunt wasn't limited to royal families. The new rulers also systematically targeted the mystery schools and wisdom traditions that had preserved knowledge about the old system.
 
 **Targeted for elimination:**
+
 - Schools that taught consciousness development techniques
 - Traditions that preserved technical knowledge about the god-king system
 - Bloodlines that maintained genetic memories of enhanced capabilities
 - Communities that practiced the old consciousness technologies
 
 **Preserved or co-opted:**
+
 - Religious traditions that emphasized human submission to divine authority
 - Mythological accounts that portrayed the old gods as distant and mysterious
 - Ritual systems that channeled human devotion toward invisible authorities
@@ -39,6 +41,7 @@ The pattern was clear: eliminate practical knowledge while preserving mythologic
 The most disturbing aspect of this persecution was its precision. The hunters knew exactly which bloodlines to target and which to spare. This required genetic intelligence that shouldn't have existed in the ancient world.
 
 **Evidence of genetic targeting:**
+
 - Specific family lines eliminated while closely related families were spared
 - Persecution patterns that followed genetic markers rather than political boundaries
 - Knowledge of bloodline connections across vast distances and time periods
@@ -51,6 +54,7 @@ Someone was providing the hunters with detailed genetic intelligence about their
 But not all the targeted bloodlines were eliminated. Some went underground, preserving their knowledge and capabilities in hidden communities.
 
 **Survival strategies:**
+
 - Intermarriage with non-targeted bloodlines to dilute genetic markers
 - Geographic dispersal to avoid concentrated persecution
 - Adoption of new identities and cultural practices

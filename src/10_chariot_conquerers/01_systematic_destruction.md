@@ -26,6 +26,7 @@ But here's what puzzled me: the chariot technology was too advanced for the peop
 As I studied site after site, I noticed something even more disturbing. The destroyers weren't eliminating everything - they were curating what survived.
 
 **What they destroyed:**
+
 - Administrative records and accounting systems
 - Technical knowledge about metallurgy and engineering  
 - Astronomical calculations and mathematical texts
@@ -33,6 +34,7 @@ As I studied site after site, I noticed something even more disturbing. The dest
 - Genealogical records of ruling families
 
 **What they preserved:**
+
 - Religious stories about gods and divine bloodlines
 - Flood myths and creation accounts
 - Tales of heroes fighting monsters and giants
@@ -45,6 +47,7 @@ They were conducting **memory warfare** - eliminating practical knowledge while 
 The scale of this destruction presents a massive coordination problem. How do you organize simultaneous attacks across thousands of miles of territory? How do you ensure that destroyers in Greece are following the same selective preservation protocols as destroyers in Anatolia?
 
 This level of coordination requires:
+
 - **Advanced communication networks** across vast distances
 - **Detailed intelligence** about each target civilization
 - **Standardized protocols** for what to destroy and what to preserve

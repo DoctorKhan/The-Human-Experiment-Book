@@ -2,7 +2,7 @@ title: "The Human Experiment"
 subtitle: "My Investigation into the Greatest Cover-Up in Human History"
 author: "Rez Khan"
 
-parts:
+structure:
   - type: part
     number: 0
     title: "Introduction: How I Discovered the Truth"

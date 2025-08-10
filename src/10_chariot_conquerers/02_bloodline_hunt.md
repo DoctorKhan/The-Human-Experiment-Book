@@ -15,12 +15,14 @@ This wasn't random violence or even typical conquest. Conquerors usually kill th
 I started mapping the genealogies of Bronze Age royal families, and a disturbing pattern emerged. The families that were eliminated weren't just any ruling families - they were specifically the ones that claimed divine descent.
 
 **Eliminated bloodlines:**
+
 - Hittite royal family (claimed descent from storm gods)
 - Mycenaean royal houses (claimed descent from Zeus and other Olympians)  
 - Mesopotamian god-kings (claimed direct divine parentage)
 - Egyptian pharaohs of certain dynasties (claimed to be living gods)
 
 **Preserved bloodlines:**
+
 - Tribal leaders who claimed divine appointment, not divine descent
 - Priestly families who served gods but didn't claim to be descended from them
 - Merchant families with no claims to divine heritage
@@ -53,18 +55,21 @@ These weren't just tall people. These were individuals with genetic characterist
 As I compiled the evidence, I realized the Bronze Age royal bloodlines showed consistent patterns of what I can only call hybrid characteristics:
 
 **Physical traits:**
+
 - Exceptional size and strength
 - Unusual longevity (recorded reigns of 60-100 years)
 - Distinctive facial features (elongated skulls, prominent brow ridges)
 - Enhanced sensory capabilities (recorded in various texts)
 
 **Mental traits:**
+
 - Advanced mathematical and astronomical knowledge
 - Sophisticated understanding of metallurgy and engineering
 - Complex linguistic abilities (multilingual royal courts)
 - Strategic thinking capabilities (complex military and political planning)
 
 **Social traits:**
+
 - Natural leadership abilities that inspired devotion
 - Charismatic presence that commanded respect
 - Ability to maintain complex administrative systems

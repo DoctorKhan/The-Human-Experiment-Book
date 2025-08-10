@@ -13,6 +13,7 @@ As I analyzed the hero myths that emerged after the Bronze Age destruction, I di
 **Theseus and the Minotaur:** Hero eliminates hybrid creature in labyrinthine system
 
 **The consistent pattern:**
+
 1. A "normal" human hero faces a "monster" or "giant"
 2. The monster represents the old order (often explicitly divine or semi-divine)
 3. The hero uses cunning or divine assistance to defeat superior physical power
@@ -51,18 +52,21 @@ The archaeological evidence supports these accounts. Skeletal remains from the B
 The hero myths also served to codify what characteristics made someone a "monster" worthy of elimination:
 
 **Physical markers:**
+
 - Exceptional size or strength
 - Unusual physical features (multiple heads, serpentine characteristics, etc.)
 - Enhanced sensory capabilities
 - Longevity beyond normal human ranges
 
 **Mental markers:**
+
 - Advanced knowledge or wisdom
 - Consciousness capabilities beyond normal human range
 - Direct communication with non-physical entities
 - Ability to influence others through non-physical means
 
 **Social markers:**
+
 - Claims to divine descent or hybrid nature
 - Possession of ancient knowledge or technologies
 - Leadership of communities that didn't submit to the new order
@@ -75,6 +79,7 @@ Anyone displaying these characteristics was coded as a "monster" worthy of elimi
 But the most sophisticated aspect of the hero mythology was the savior programming. Humans were taught that they needed heroes to save them from monsters, but these heroes always served the new divine order.
 
 **The savior pattern:**
+
 - Humans are helpless against monsters/giants/hybrids
 - Only special heroes chosen by the new gods can defeat them
 - Heroes succeed through divine assistance, not independent power
@@ -88,18 +93,21 @@ This programming created a population that would always look for external savior
 The hero mythology programming is still operating today. Modern humans still exhibit the same patterns:
 
 **We celebrate the elimination of exceptional individuals:**
+
 - "Tall poppy syndrome" - cutting down those who rise above the norm
 - Suspicion of anyone claiming enhanced capabilities
 - Systematic elimination of individuals who don't fit standard parameters
 - Hero worship of those who "defeat" exceptional individuals
 
 **We seek external saviors:**
+
 - Political leaders who promise to solve our problems
 - Religious figures who claim to represent divine authority
 - Expert classes who tell us what to think and do
 - Institutional systems that promise to take care of us
 
 **We fear our own enhancement:**
+
 - Resistance to consciousness development practices
 - Suspicion of technologies that might enhance human capabilities
 - Preference for remaining "normal" rather than developing exceptional abilities
