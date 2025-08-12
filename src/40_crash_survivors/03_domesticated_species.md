@@ -77,16 +77,19 @@ But the domestication goes deeper than physical appearance. Human brains show th
 But the most disturbing aspect of human neoteny isn't just its extent—it's the speed at which it developed. When I started researching the timeline of human development, I discovered something that conventional evolutionary theory struggles to explain.
 
 **The Evidence:**
+
 - Modern human skull proportions appear suddenly in the archaeological record
 - The transition from archaic to modern human features happens too quickly for normal evolutionary processes
 - The changes are too dramatic and too coordinated to result from random mutation and natural selection
 
 **The Timeline Issues:**
+
 - Normal evolutionary changes of this magnitude should take millions of years
 - Human neoteny appears to have developed in tens of thousands of years
 - The changes coincide suspiciously with the arrival of "advanced civilizations" in human mythology
 
 **The Selection Pressure Problem:**
+
 - Most environments favor physical maturity and independence, not permanent childishness
 - Extended dependency periods are typically evolutionary disadvantages
 - The traits that make humans "domesticated" would normally be selected against in wild populations
