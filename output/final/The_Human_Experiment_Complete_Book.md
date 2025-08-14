@@ -1,7 +1,7 @@
 # The Human Experiment
 ## Reclaiming Our Origins, Purpose, and Evolutionary Destiny
 
-*Compiled August 12, 2025 at 10:36 PM*
+*Compiled August 13, 2025 at 11:35 PM*
 
 ---
 
@@ -2277,6 +2277,8 @@ The experiment operated on a time scale that dwarfs human civilization. Each pha
 - Enhancement of neural plasticity and learning ability
 - Introduction of non-terrestrial genetic sequences
 
+Note (fossil signal): Finds attributed to Homo antecessor (~1.2–0.8 Ma) at Atapuerca exhibit a modern-like midface. In mainstream terms this reflects mosaic evolution; in this model it reads as an early craniofacial testbed later stabilized in sapiens.
+
 **Phase 2: Consciousness Processing** (800,000 years ago)
 
 - Development of advanced consciousness processing capabilities
@@ -2926,6 +2928,12 @@ This timeline summarizes the key events in the million-year experiment that crea
 - Integration of all modifications into modern human form
 - Preparation for consciousness activation phase
 - Installation of genetic switches for advanced capabilities
+
+### Related fossil signal (contextual): Homo antecessor (~1.2–0.8 million years ago)
+
+- Atapuerca (Gran Dolina TD6) fossils show a modern-like midface prototype (reduced prognathism, canine fossa)
+- Placement relative to Homo heidelbergensis remains debated (possible sister/early branch)
+- Interpretable as mosaic evolution/paedomorphosis in mainstream models; here framed as an early craniofacial module later stabilized in Homo sapiens
 
 ## Phase 2: The Cosmic Conflict (200,000-50,000 BCE)
 
