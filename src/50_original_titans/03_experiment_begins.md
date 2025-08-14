@@ -39,6 +39,8 @@ The experiment operated on a time scale that dwarfs human civilization. Each pha
 - Enhancement of neural plasticity and learning ability
 - Introduction of non-terrestrial genetic sequences
 
+Note (fossil signal): Finds attributed to Homo antecessor (~1.2–0.8 Ma) at Atapuerca exhibit a modern-like midface. In mainstream terms this reflects mosaic evolution; in this model it reads as an early craniofacial testbed later stabilized in sapiens.
+
 **Phase 2: Consciousness Processing** (800,000 years ago)
 
 - Development of advanced consciousness processing capabilities

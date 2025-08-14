@@ -74,6 +74,14 @@ This was not random evolution. This was the Gardeners' co-evolutionary engine in
 
 The genetic evidence shows none of the incompatibility, reduced fertility, or gradual integration typical of natural population mergers. Instead, we see the signature of conscious design—a perfect fusion that created the biological foundation for the consciousness experiment that would follow.
 
+### Case Study: Homo antecessor and the modern-face prototype
+
+Finds from Atapuerca’s Gran Dolina (TD6; ~1.2–0.8 million years ago) identify Homo antecessor, an early human showing surprisingly modern-like midfacial anatomy (including a canine fossa and reduced midfacial projection). Its exact place in our family tree remains debated—either a sister lineage to, or an early branch near, Homo heidelbergensis—but the facial architecture matters: it foreshadows the flatter, retracted face that stabilizes much later in Homo sapiens.
+
+Within this framework, Antecessor reads like an early testbed. Developmental programs that reduce prognathism and reconfigure the midface appear, recede, and later re-emerge in sapiens. In conventional terms, this is consistent with mosaic evolution and paedomorphosis (retaining juvenile craniofacial proportions into adulthood); in this narrative, it also functions as an iterative design module that later integrates with Heidelbergensis-era populations and the MIS 6 refinement. The sapiens “flat face” overlaps with domestication signatures—see The Domesticated Species for broader context.
+
+Note: Mainstream paleoanthropology does not posit directed design; we’re using shared anatomical facts to illustrate how a managed program could iterate traits across lineages and time.
+
 ## The Seven Pairs Discovery
 
 *Three weeks later, Dr. Morrison made another discovery that left the entire team questioning everything they thought they understood about human population genetics.*

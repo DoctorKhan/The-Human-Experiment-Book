@@ -34,6 +34,12 @@ This timeline summarizes the key events in the million-year experiment that crea
 - Preparation for consciousness activation phase
 - Installation of genetic switches for advanced capabilities
 
+### Related fossil signal (contextual): Homo antecessor (~1.2–0.8 million years ago)
+
+- Atapuerca (Gran Dolina TD6) fossils show a modern-like midface prototype (reduced prognathism, canine fossa)
+- Placement relative to Homo heidelbergensis remains debated (possible sister/early branch)
+- Interpretable as mosaic evolution/paedomorphosis in mainstream models; here framed as an early craniofacial module later stabilized in Homo sapiens
+
 ## Phase 2: The Cosmic Conflict (200,000-50,000 BCE)
 
 **~100,000 years ago - The Titan War**
