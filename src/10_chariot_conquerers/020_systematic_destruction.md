@@ -1,4 +1,18 @@
-# Chapter 1: The Systematic Destruction
+# Chapter 1: Chariots from Nowhere
+
+Ancient Indian texts sing of chariots thundering across the plains, noble horses harnessed to gleaming cars, kings and heroes defined by their mastery of the wheel. There’s only one problem: neither true chariots nor horses are native to India.
+
+The horse (Equus ferus caballus) appears suddenly on the subcontinent in the second millennium BCE, and the spoked-wheel war chariot—the precision, the metallurgy, the horse-training package—arrives with it. The Vedas remember a world already running on this technology, as if the blueprint came from elsewhere all at once.
+
+That’s the first tell. When the same technological bundle erupts across distant regions in a tight window, it’s not an invention—it’s a delivery.
+
+Anchor points (for orientation, not footnotes):
+
+- Horse domestication centers on the Eurasian steppe (e.g., Botai ~3500–3000 BCE, later Western steppe lineages tied to modern domestic horses), not in India; local wild equids in South Asia are onagers/asses, not true horses. [steppe archaeology]
+- Earliest spoked-wheel war chariots cluster in the Sintashta horizon (~2000 BCE) with cheekpieces and chariot burials; the integrated “horse + spoked wheel + harness” package is already mature. [Sintashta]
+- Diffusion is fast: Near East and Egypt by ~1600 BCE; South Asia in the second millennium BCE via steppe-to-Iranian corridors; textual memory (Vedas) and later iconography reflect the bundle rather than a slow local invention. [diffusion timeline]
+
+## The Systematic Destruction
 
 The first clue that something was wrong came when I was studying the destruction of Hattusa, the capital of the Hittite Empire. The city wasn't just conquered - it was systematically dismantled. But not randomly. Whoever destroyed it knew exactly what they were looking for.
 

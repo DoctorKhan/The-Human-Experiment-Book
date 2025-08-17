@@ -5,23 +5,23 @@ author: "Rez Khan"
 series: "The Orphaned Species"
 
 structure:
-  - type: part
-    number: 0
-    title: "Introduction: How I Discovered the Truth"
-    chapters:
-      - title: "The Mystery That Changed Everything"
-        file: "00_introduction/01_the_mystery.md"
+  - type: introduction
+    title: "How to Use This Series: A Reader's Guide"
+    file: "00_introduction/000_introduction.md"
 
+structure:
   - type: part
     number: 1
     title: "The Chariot Conquerers (2000-1200 BCE)"
     chapters:
+      - title: "The Mystery That Changed Everything"
+        file: "10_chariot_conquerers/010_the_mystery.md"
       - title: "The Systematic Destruction"
-        file: "10_chariot_conquerers/01_systematic_destruction.md"
+        file: "10_chariot_conquerers/020_systematic_destruction.md"
       - title: "The Bloodline Hunt"
-        file: "10_chariot_conquerers/02_bloodline_hunt.md"
+        file: "10_chariot_conquerers/030_bloodline_hunt.md"
       - title: "The Memory War"
-        file: "10_chariot_conquerers/03_memory_war.md"
+        file: "10_chariot_conquerers/040_memory_war.md"
 
   - type: part
     number: 2
@@ -44,6 +44,8 @@ structure:
         file: "30_pre_flood/02_hybrid_crisis.md"
       - title: "The Great Reset"
         file: "30_pre_flood/03_great_reset.md"
+      - title: "The Mystery at 4.2 Ka"
+        file: "30_pre_flood/04_four_point_two_kiloyear_event.md"
 
   - type: part
     number: 4
@@ -89,3 +91,9 @@ structure:
         file: "90_appendix/03_archaeological_anomalies.md"
       - title: "Mythological Cross-References"
         file: "90_appendix/04_mythological_references.md"
+      - title: "Nephilim Passages — Genesis 6:4 and Numbers 13:33 (Hebrew Etymology)"
+        file: "90_appendix/05_genesis_6_4_hebrew_etymology.md"
+      - title: "Genesis 6:4 — Hebrew Etymology"
+        file: "90_appendix/05_genesis_6_4_hebrew_etymology.md"
+      - title: "Method: Braiding Myth and Science"
+        file: "90_appendix/06_method_braiding_myth_and_science.md"
