@@ -3472,7 +3472,7 @@ Dr. Vasquez studied her archaeological data with new understanding. "The conques
 
 *Dr. Vasquez studied the archaeological evidence. "And that's when we see the systematic burial of the megalithic sites. The flood wasn't just biological—it was cultural. They were erasing all evidence of the pre-flood world."*
 
-*"Exactly," Morrison confirmed. "The flood marked the end of the Age of Heroes and the beginning of something new—a more controlled, more manageable human population."*
+*"Exactly," Morrison confirmed. "The flood marked the end of the Age of legends and the beginning of something new—a more controlled, more manageable human population."*
 
 ## The Administrative Lockdown: Apkallu to Umannu
 
@@ -3799,7 +3799,7 @@ The inner battlefield could become a garden once again.
 
 ### Chapter 19: The Dawn of the Age of Kings
 
-*The Age of Heroes was over. The great deluge had washed away the old world, and with it, the visible presence of the gods. A vacuum of power remained, but the **Reges'** operating system—their ideology of conquest and control—was left fully installed in the minds of their most devoted human followers. This was not an end, but a handover.*
+*The Age of legends was over. The great deluge had washed away the old world, and with it, the visible presence of the gods. A vacuum of power remained, but the **Reges'** operating system—their ideology of conquest and control—was left fully installed in the minds of their most devoted human followers. This was not an end, but a handover.*
 
 *Thus began the **Age of Kings**.*
 
@@ -3963,7 +3963,7 @@ He didn't need to finish the thought. The implications hung heavy in the air.
 
 *"What we're looking at isn't just ancient conquest," she said. "It's the birth of a new form of power—the **Age of Kings**. The genius of the **Reges** wasn't just in creating the ideology, but in transferring it to human hands."*
 
-*Dr. Chen nodded. "The Age of Heroes required direct divine presence. But the Age of Kings is self-sustaining. Human rulers now compete to prove their divine mandate through conquest and control. The system runs itself."*
+*Dr. Chen nodded. "The Age of legends required direct divine presence. But the Age of Kings is self-sustaining. Human rulers now compete to prove their divine mandate through conquest and control. The system runs itself."*
 
 *"And that's why it's lasted 4,000 years," Dr. Morrison added. "Every generation of kings has to prove their legitimacy by outdoing their predecessors. The ideology doesn't just survive—it evolves and intensifies."*
 
@@ -5725,7 +5725,7 @@ Dr. Anya Petrov's research into human behavioral patterns revealed evidence of t
 
 ##### The Great Social Restructuring: From Matrilineal to Patrilineal
 
-Dr. Chen's analysis revealed one of the most significant changes implemented during the Igigi takeover: the systematic shift from matrilineal to patrilineal social organization during what mythologies call the "age of heroes."
+Dr. Chen's analysis revealed one of the most significant changes implemented during the Igigi takeover: the systematic shift from matrilineal to patrilineal social organization during what mythologies call the "age of legends."
 
 **The Original Matrilineal System (Anunnaki Period):**
 
@@ -5747,9 +5747,9 @@ Dr. Chen's analysis revealed one of the most significant changes implemented dur
 
 "This wasn't just a cultural evolution," Dr. Chen observed. "The mythological evidence suggests this was a deliberate restructuring implemented by the Igigi to break the traditional wisdom-keeping systems."
 
-**The Age of Heroes as Transition Period:**
+**The Age of legends as Transition Period:**
 
-The mythological "age of heroes"—found in Greek, Mesopotamian, Celtic, and other traditions—appears to document this transition period when individual male heroes began displacing the older matrilineal wisdom traditions.
+The mythological "age of legends"—found in Greek, Mesopotamian, Celtic, and other traditions—appears to document this transition period when individual male heroes began displacing the older matrilineal wisdom traditions.
 
 **Characteristics of the Hero Age:**
 
@@ -6936,7 +6936,7 @@ We feel an intuitive sense that the Earth is a living being, yet our science and
 
 ## The Unbroken Chain: From Heroes to Pharaohs
 
-After the age of heroes, the pharaohs and some of the others still attempted to trace their lineage to the gods. To this day, the Nephilim continue their quest to suppress the Alba.
+After the age of legends, the pharaohs and some of the others still attempted to trace their lineage to the gods. To this day, the Nephilim continue their quest to suppress the Alba.
 
 The assassination of Humbaba was not an isolated incident—it was the opening move in a campaign that has never ended. Gilgamesh established the template: identify the guardians of the old consciousness, eliminate them, then rewrite the story to make their destruction seem heroic. This pattern would be repeated across millennia, evolving in sophistication but never changing in essence.
 
@@ -8275,7 +8275,7 @@ Ask these key questions:
 
 **Political Engagement**: Instead of automatically supporting "your side," ask: "What if both sides are being manipulated by a third party that benefits from the conflict?"
 
-The Age of Heroes (~3,500-1,200 years ago) established patterns that continue today in evolved forms, though the modern versions serve multiple functions beyond simple control. The Roman Colosseum has parallels with the modern sports stadium, and the epic tales of demigods like Hercules and Achilles share characteristics with 24-hour news cycles and celebrity culture. While these modern forms can serve to capture psychic and emotional energy and channel it into predictable patterns, they also fulfill legitimate human needs for community, meaning, and shared narrative.
+The Age of legends (~3,500-1,200 years ago) established patterns that continue today in evolved forms, though the modern versions serve multiple functions beyond simple control. The Roman Colosseum has parallels with the modern sports stadium, and the epic tales of demigods like Hercules and Achilles share characteristics with 24-hour news cycles and celebrity culture. While these modern forms can serve to capture psychic and emotional energy and channel it into predictable patterns, they also fulfill legitimate human needs for community, meaning, and shared narrative.
 
 The challenge is discernment: the tribal loyalty felt for a sports team can build genuine community bonds while also training unconditional loyalty to symbols. Political engagement can address real injustices while also perpetuating binary thinking. Celebrity culture can inspire creativity and aspiration while also creating parasitic emotional relationships with distant figures.
 
@@ -10897,7 +10897,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 - Moral commandments function as internal control mechanisms
 - Promise of future reward maintains compliance across generations
 
-#### Phase IX: The Age of Heroes (~3,500-1,200 Years Ago)
+#### Phase IX: The Age of legends (~3,500-1,200 Years Ago)
 
 **The Bronze Age Heroic Period**: This era represents the final phase of direct divine-human interaction before complete withdrawal:
 
@@ -11017,7 +11017,7 @@ The technological escalation using divine hardware upgrades:
 - **Bell Beaker Expansion (*koryos Period)** (~4,800-4,100 years ago): **The Reges** deploy self-replicating warrior bands across Western Europe, achieving up to 90% population replacement
 - **Sintashta Revolution (Chariot Period)** (~4,100-3,800 years ago): Technology transfer provides elite **\*koryos** bands with war chariots, enabling rapid conquest of Eurasia
 - **Alba Global Preservation Network** (~3,500-2,000 years ago): **Alba** refugees implement worldwide cultural seeding strategy, preserving consciousness technologies through integration and ritualization
-- **Age of Heroes** (~3,500-1,200 years ago): Bronze Age period of legendary figures and divine-human interactions
+- **Age of legends** (~3,500-1,200 years ago): Bronze Age period of legendary figures and divine-human interactions
 - **Albian Retreat to Albion** (~3,000-2,000 years ago): Last **Werdh-anes** descendants establish final stronghold in Britain
 - **Roman Conquest of Albion** (~2,000-1,500 years ago): Systematic destruction of final **Werdh-anes** consciousness technologies and bloodlines
 
@@ -11084,7 +11084,7 @@ The question facing each individual - and humanity as a whole - is whether we wi
 
 **Albians** - The final survivors carrying significant Titan genetic heritage, displaying hybrid characteristics similar to tigons and ligers. They established their stronghold in Albion (Britain), preserving Titan consciousness technologies through stone circle networks (Stonehenge, Avebury) and matrifocal social structures. Systematically eliminated during the Bell Beaker expansion (~4,500-3,500 years ago), which brought up to 90% population replacement to the British Isles. Archaeological evidence shows violent conquest by Indo-European warrior cultures, though Albian knowledge was encoded into surviving megalithic structures and later Celtic traditions.
 
-**Age of Heroes** - The Bronze Age period (~3,500-1,200 years ago) representing the final era of direct divine-human interaction. Heroes like Gilgamesh, Hercules, and Achilles represent the last generation of human-divine hybrids with enhanced capabilities.
+**Age of legends** - The Bronze Age period (~3,500-1,200 years ago) representing the final era of direct divine-human interaction. Heroes like Gilgamesh, Hercules, and Achilles represent the last generation of human-divine hybrids with enhanced capabilities.
 **Anunnaki** - Mesopotamian cultural echo of **The Werdh-anes**, the primordial architects who initiated the original human experiment. They operated on geological timescales with patient, evolutionary approach designed to eventually produce independent conscious beings. Overthrown by **The Reges** (remembered as the Igigi) during the Younger Dryas catastrophe.
 
 **Apkallu** - Ancient Mesopotamian cultural echo of **The Gneh-tah**, the "seven sages" or divine beings who brought civilization to humanity. In this framework, they represent the scientist-class agents who managed human development and preserved the original **Werdh-anes** plan even after **The Reges** coup.

@@ -99,7 +99,7 @@ She pulled up global flood mythology data. "Every culture preserves the same sto
 
 Dr. Vasquez studied the archaeological evidence. "And that's when we see the systematic burial of the megalithic sites. The flood wasn't just biological—it was cultural. They were erasing all evidence of the pre-flood world."
 
-"The flood marked the end of the Age of Heroes and the beginning of something new—a more controlled, more manageable human population," Morrison confirmed.
+"The flood marked the end of the Age of legends and the beginning of something new—a more controlled, more manageable human population," Morrison confirmed.
 
 ## The Domesticated Species: Evidence of Systematic Breeding
 

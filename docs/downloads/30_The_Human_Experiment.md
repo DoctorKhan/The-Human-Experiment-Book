@@ -2985,7 +2985,7 @@ Ask these key questions:
 
 **Political Engagement**: Instead of automatically supporting "your side," ask: "What if both sides are being manipulated by a third party that benefits from the conflict?"
 
-The Age of Heroes (~3,500-1,200 years ago) established patterns that continue today in evolved forms, though the modern versions serve multiple functions beyond simple control. The Roman Colosseum has parallels with the modern sports stadium, and the epic tales of demigods like Hercules and Achilles share characteristics with 24-hour news cycles and celebrity culture. While these modern forms can serve to capture psychic and emotional energy and channel it into predictable patterns, they also fulfill legitimate human needs for community, meaning, and shared narrative.
+The Age of legends (~3,500-1,200 years ago) established patterns that continue today in evolved forms, though the modern versions serve multiple functions beyond simple control. The Roman Colosseum has parallels with the modern sports stadium, and the epic tales of demigods like Hercules and Achilles share characteristics with 24-hour news cycles and celebrity culture. While these modern forms can serve to capture psychic and emotional energy and channel it into predictable patterns, they also fulfill legitimate human needs for community, meaning, and shared narrative.
 
 The challenge is discernment: the tribal loyalty felt for a sports team can build genuine community bonds while also training unconditional loyalty to symbols. Political engagement can address real injustices while also perpetuating binary thinking. Celebrity culture can inspire creativity and aspiration while also creating parasitic emotional relationships with distant figures.
 
@@ -4715,7 +4715,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 - Moral commandments function as internal control mechanisms
 - Promise of future reward maintains compliance across generations
 
-## Phase IX: The Age of Heroes (~3,500-1,200 Years Ago)
+## Phase IX: The Age of legends (~3,500-1,200 Years Ago)
 
 **The Bronze Age Heroic Period**: This era represents the final phase of direct divine-human interaction before complete withdrawal:
 - Legendary figures like Gilgamesh, Hercules, Achilles, and other heroes emerge
@@ -4815,7 +4815,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 - **The Abandonment** (6,000 years ago): Control systems continue operating without active management
 - **The Biblical Deluge** (4,200 years ago): Climate catastrophe during Bronze Age collapse, preserved in flood narratives
 - **Abraham's Calling** (~4,000 years ago): Establishment of monotheistic covenant system as post-abandonment control mechanism
-- **Age of Heroes** (~3,500-1,200 years ago): Bronze Age period of legendary figures and divine-human interactions
+- **Age of legends** (~3,500-1,200 years ago): Bronze Age period of legendary figures and divine-human interactions
 - **Albian Retreat to Albion** (~3,000-2,000 years ago): Last Titan descendants establish final stronghold in Britain
 - **Roman Conquest of Albion** (~2,000-1,500 years ago): Systematic destruction of final Titan consciousness technologies and bloodlines
 
@@ -4846,7 +4846,7 @@ The question facing each individual - and humanity as a whole - is whether we wi
 
 **Albians** - The final survivors carrying significant Titan genetic heritage, displaying hybrid characteristics similar to tigons and ligers. They established their stronghold in Albion (Britain), preserving Titan consciousness technologies through stone circle networks (Stonehenge, Avebury) and matrifocal social structures. Systematically eliminated during the Bell Beaker expansion (~4,500-3,500 years ago), which brought up to 90% population replacement to the British Isles. Archaeological evidence shows violent conquest by Indo-European warrior cultures, though Albian knowledge was encoded into surviving megalithic structures and later Celtic traditions.
 
-**Age of Heroes** - The Bronze Age period (~3,500-1,200 years ago) representing the final era of direct divine-human interaction. Heroes like Gilgamesh, Hercules, and Achilles represent the last generation of human-divine hybrids with enhanced capabilities.
+**Age of legends** - The Bronze Age period (~3,500-1,200 years ago) representing the final era of direct divine-human interaction. Heroes like Gilgamesh, Hercules, and Achilles represent the last generation of human-divine hybrids with enhanced capabilities.
 **Anunnaki** - The older generation of beings (Tiamat, Abzu, Lahmu/Lahamu, Anshar/Kishar) who initiated the original human experiment. They operated on geological timescales with patient, evolutionary approach designed to eventually produce independent conscious beings. Overthrown by the younger Igigi generation during the Younger Dryas catastrophe.
 
 **Apkallu** - Ancient Mesopotamian term for the "seven sages" or divine beings who brought civilization to humanity. In this framework, they represent the Anunnaki overseers who managed human development during the Domestication Period.

@@ -1173,7 +1173,7 @@ This was not a battle for genetic dominance, but a targeted execution of a speci
 
 As the hybridization crisis reached its peak, the situation became unsustainable. The **Wiros** were genetically unstable—powerful but unpredictable, brilliant but destructive. The **Alba** were being systematically eliminated. Pure humans were barely surviving through increasingly brutal control systems.
 
-This mythological "Age of Heroes"—the turbulent era of the Hybridization Crisis, the rise of the human warrior clans, and the great genetic purge—is not a timeless fantasy. The scientific evidence from genetics and archaeology places these events squarely within the **Neolithic and early Chalcolithic periods, between roughly 5,000 and 3,000 BCE**. This was the age of the great stone monuments, but it was also the age of the great massacres. The megalithic tombs that rose across the landscape can be seen as the monuments of the victorious human patrilineages that survived this brutal war, built to glorify the very ancestors who led the fight for humanity's genetic survival.
+This mythological "Age of legends"—the turbulent era of the Hybridization Crisis, the rise of the human warrior clans, and the great genetic purge—is not a timeless fantasy. The scientific evidence from genetics and archaeology places these events squarely within the **Neolithic and early Chalcolithic periods, between roughly 5,000 and 3,000 BCE**. This was the age of the great stone monuments, but it was also the age of the great massacres. The megalithic tombs that rose across the landscape can be seen as the monuments of the victorious human patrilineages that survived this brutal war, built to glorify the very ancestors who led the fight for humanity's genetic survival.
 
 Something had to give.
 
@@ -1187,7 +1187,7 @@ The flood wasn't divine punishment for moral wickedness. It was the eventual sol
 
 The flood wasn't just biological—it was cultural. This is when we see the systematic burial of the megalithic sites, the erasure of pre-flood knowledge, and the establishment of new civilizations with carefully controlled mythologies.
 
-The flood marked the end of the Age of Heroes and the beginning of something new—a more controlled, more manageable human population running on the emergency protocols that had been activated after the crash.
+The flood marked the end of the Age of legends and the beginning of something new—a more controlled, more manageable human population running on the emergency protocols that had been activated after the crash.
 
 ---
 

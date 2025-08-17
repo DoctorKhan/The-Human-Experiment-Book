@@ -282,7 +282,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 - Moral commandments function as internal control mechanisms
 - Promise of future reward maintains compliance across generations
 
-#### Phase IX: The Age of Heroes (~3,500-1,200 Years Ago)
+#### Phase IX: The Age of legends (~3,500-1,200 Years Ago)
 
 **The Bronze Age Heroic Period**: This era represents the final phase of direct divine-human interaction before complete withdrawal:
 
@@ -402,7 +402,7 @@ The technological escalation using divine hardware upgrades:
 - **Bell Beaker Expansion (*koryos Period)** (~4,800-4,100 years ago): **The Reges** deploy self-replicating warrior bands across Western Europe, achieving up to 90% population replacement
 - **Sintashta Revolution (Chariot Period)** (~4,100-3,800 years ago): Technology transfer provides elite **\*koryos** bands with war chariots, enabling rapid conquest of Eurasia
 - **Alba Global Preservation Network** (~3,500-2,000 years ago): **Alba** refugees implement worldwide cultural seeding strategy, preserving consciousness technologies through integration and ritualization
-- **Age of Heroes** (~3,500-1,200 years ago): Bronze Age period of legendary figures and divine-human interactions
+- **Age of legends** (~3,500-1,200 years ago): Bronze Age period of legendary figures and divine-human interactions
 - **Albian Retreat to Albion** (~3,000-2,000 years ago): Last **Werdh-anes** descendants establish final stronghold in Britain
 - **Roman Conquest of Albion** (~2,000-1,500 years ago): Systematic destruction of final **Werdh-anes** consciousness technologies and bloodlines
 

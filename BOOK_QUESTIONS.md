@@ -14,7 +14,7 @@ This document consolidates the clarifying questions needed to write chapters tha
 - Which specific ancient structures (e.g., Göbekli Tepe, Puma Punku, the Pyramids) and artifacts are most central to the book's argument?
 - Which specific intervention narratives (e.g., Anunnaki, Apkallu) should be treated as the primary source material for the "fragmented memories" of our creation?
     - **Answer:** The **Titans** (original creators) are the source of the **Apkallu** legends of ancient sages. The **"younger gods"** (the conquerors) are the source of the **Anunnaki** legends of sky-gods who ruled humanity and interbred with them.
-- Regarding the Nephilim and the "Age of Heroes":
+- Regarding the Nephilim and the "Age of legends":
     - How should the offspring of gods and humans be understood?
         - **Answer:** They were hybrids, analogous to ligers or tigons, with inherent genetic instabilities that prevented them from forming a stable, continuing species.
     - What were the two types of these hybrids?
@@ -32,7 +32,7 @@ This document consolidates the clarifying questions needed to write chapters tha
     - What is the consequence of this persistence today?
         - **Answer:** The latent psychic abilities inherited from the Albian lineage are beginning to re-emerge genetically in the modern population, creating new psychic potential and conflict.
     - Was the 17:1 female-to-male ratio a deliberate design by the creators to control genetic propagation?
-    - Was the "Age of Heroes" a golden age of wisdom and guidance, or a dark age of conflict and tyranny?
+    - Was the "Age of legends" a golden age of wisdom and guidance, or a dark age of conflict and tyranny?
 
 ### **Chapter 6: Myth as Memory & The Bronze Age Conflict**
 - What was the purpose of the stone circles (e.g., Stonehenge) built by the Albians?
