@@ -45,6 +45,7 @@ What remains uncertain is the mix of causes and the timing of each region’s fa
 
 
 #### Sources (selected)
+
 - Walker, M. et al. (2018). Formal subdivision of the Holocene and ratification of the Meghalayan Stage tied to the 4.2 ka event. Episodes (IUGS).
 - Weiss, H. et al. (1993). Abrupt climate change and the collapse of the Akkadian empire. Nature.
 - Giosan, L. et al. (2012). Fluvial landscapes of the Harappan civilization. PNAS.

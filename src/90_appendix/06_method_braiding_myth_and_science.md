@@ -3,6 +3,7 @@
 This method treats myth as structured cultural memory and science as the testing and measurement lens. Use both without forcing either to become the other.
 
 ## Principles
+
 - Two lenses: Myth suggests patterns; science tests them.
 - Shared anchors: Translate motifs to neutral terms (e.g., “Deluge” → abrupt aridification and sociopolitical reset).
 - Independent convergence: Require at least two unrelated evidence families to support any major alignment.
@@ -18,6 +19,7 @@ This method treats myth as structured cultural memory and science as the testing
 6) Confidence + Open Questions + Next Test
 
 ## Provenance Grading (Legend)
+
 - Myth-Primary (M1): Core mythic motif
 - Myth-Parallel (M2): Similar motif in another tradition
 - Proxy-Strong (P1): Multiple, dated datasets concur
@@ -25,6 +27,7 @@ This method treats myth as structured cultural memory and science as the testing
 - Proxy-Weak (P3): Suggestive or preliminary
 
 ## Mini-Example
+
 - Motif: “Giants before the Flood” (M1)
 - Anchor: Outlier stature & elite burials (neutral)
 - Claims: (i) Outlier skeletal metrics cluster in pre-reset layers; (ii) Discontinuous elite mortuary traditions across reset horizon.
