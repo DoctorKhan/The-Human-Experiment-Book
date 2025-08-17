@@ -96,6 +96,11 @@ But the most disturbing aspect of human neoteny isn't just its extent—it's the
 
 Standing in that lab, holding those skulls, I realized I might be looking at evidence of the most sophisticated genetic engineering project in Earth's history—one that had created a species designed to serve as consciousness vehicles for beings far more advanced than anything we could imagine.
 
+
+> Inset: Activation vs. Domestication
+>
+> The Younger Dryas crisis created a branching path. One path would have completed the original consciousness-development program; the other installed a domestication architecture that optimized for manageability over sovereignty. Everything that follows in this chapter should be read in light of that fork: the same latent upgrades that made us capable of advanced consciousness (from the Original Architects) were leveraged to keep us childlike and compliant (by the Crash Survivors). See Appendix F: Mytho-Scientific Chronology (Phases 5–8) for the larger frame.
+
 ## The Breeding Program
 
 The crash survivors faced a choice when they arrived on Earth 12,800 years ago: die on a primitive planet, or gradually develop the local species into something capable of supporting their civilization.
@@ -103,7 +108,7 @@ The crash survivors faced a choice when they arrived on Earth 12,800 years ago: 
 They chose the long game. Over thousands of years, they systematically bred humans for specific traits:
 
 **Docility**: Reduced aggression to make us manageable
-**Teachability**: Extended learning capacity to make us trainable  
+**Teachability**: Extended learning capacity to make us trainable
 **Dependency**: Prolonged childhood to make us seek authority
 **Neoteny**: Childlike features to trigger caretaking responses
 **Social bonding**: Strong attachment to make us loyal to handlers
@@ -162,7 +167,7 @@ The domestication program was so successful that it continues to operate even wi
 **We seek parental authority figures:**
 
 - Political leaders as substitute parents
-- Religious authorities as spiritual parents  
+- Religious authorities as spiritual parents
 - Expert classes as intellectual parents
 - Institutional systems as societal parents
 

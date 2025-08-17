@@ -16,7 +16,7 @@
 
 **Abraham's Covenant** - The establishment of monotheistic covenant system around 4,000 years ago as a sophisticated evolution of control technology. Replaced polytheistic confusion with single authority, created chosen people concept, and introduced moral law as internalized control mechanism.
 
-**Adamu** - The first earth-born chimeras created by the Anunnaki through genetic modification of early hominids. Ancient texts describe seven pairs (fourteen individuals) being created as different experimental approaches to human enhancement. Multiple variants were created, but only one line (the Umannu) proved successful in the long term. The name derives from ancient Mesopotamian texts referring to the first humans. The Hindu tradition of fourteen Manus provides parallel evidence for this systematic creation protocol.
+**Adamu** - Foundational human stock forged during the ~930,000–813,000 years ago bottleneck (effective population ≈1,280) that consolidated the lineage for modern humans. Later cultural memories encode this as "seven pairs" of Adamu (early experimental protocols). See Appendix F: Mytho-Scientific Chronology and Genetic Evidence: Bottlenecks for cross-links. The name appears in Mesopotamian sources as the earliest humans; parallel echoes include the Hindu fourteen Manus.
 
 **Asherah** - Archaeological evidence from the "Yahweh and his Asherah" inscription suggests this functioned as a title for a divine consort or sacred object rather than a fixed personal name. This supports the interpretation that many ancient divine names represent roles or functions rather than individual identities.
 

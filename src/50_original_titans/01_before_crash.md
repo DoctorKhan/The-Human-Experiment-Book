@@ -9,7 +9,7 @@ Modern genetic analysis has revealed something that shouldn't exist: traces of n
 **The genetic markers show:**
 
 - Systematic modifications to brain development genes
-- Enhancements to consciousness processing capabilities  
+- Enhancements to consciousness processing capabilities
 - Alterations to lifespan and aging mechanisms
 - Changes to reproductive and social bonding systems
 - Insertions of genetic sequences not found in any terrestrial species
@@ -57,6 +57,11 @@ The original intervention operated on a time scale almost impossible for humans 
 **Phase 5 (200,000 years ago):** Final modifications creating modern human consciousness capacity
 
 Each phase built on the previous ones, gradually creating a species capable of supporting the kind of consciousness that the original titans represented.
+
+> Inset: The Forging of Adamu (≈930–813 kya)
+>
+> A severe, long-duration bottleneck (~117,000 years; effective population ≈1,280) appears to have forged the foundational human stock later remembered as “Adamu.” In this reading, the bottleneck consolidated key modules for future activation. For a dual myth/science treatment, see Appendix F: Mytho-Scientific Chronology (Phase 1) and Genetic Evidence: Bottlenecks.
+
 
 ## The Consciousness Infrastructure
 

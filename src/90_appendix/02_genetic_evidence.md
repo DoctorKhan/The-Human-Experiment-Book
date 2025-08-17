@@ -27,6 +27,24 @@ This appendix summarizes the key genetic evidence that supports the conclusions 
 - Wild cats vs. house cats: same retention of juvenile characteristics
 - Humans show all classic signs of a domesticated species
 
+## The 930–813 kya Bottleneck (The Forging of “Adamu”)
+
+**Signal:**
+
+- Long-duration effective population ~1,280 over ~117,000 years
+- Consolidation of founding lineage consistent with extreme, protracted constraint
+
+**Interpretation:**
+
+- The “Adamu” foundational stock—later remembered mythically as “pairs” or “first humans”—maps to this severe bottleneck. This phase likely consolidated modules that were later “activated.”
+
+**Cross-links:**
+
+- Appendix F: Mytho-Scientific Chronology (Phase 1)
+- Glossary: Adamu
+
+
+
 ## The 17:1 Reproductive Bottleneck
 
 **Genetic Evidence:**
