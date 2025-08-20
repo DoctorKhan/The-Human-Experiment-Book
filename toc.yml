@@ -6,76 +6,59 @@ series: "The Orphaned Species"
 
 structure:
   - type: introduction
-    title: "How to Use This Series: A Reader's Guide"
+    title: "Introduction: The Anomaly"
     file: "00_introduction/000_introduction.md"
 
-structure:
   - type: part
     number: 1
-    title: "The Chariot Conquerers (2000-1200 BCE)"
+    title: "The Original Design — The Unfinished Experiment"
     chapters:
-      - title: "The Mystery That Changed Everything"
-        file: "10_chariot_conquerers/010_the_mystery.md"
-      - title: "The Systematic Destruction"
-        file: "10_chariot_conquerers/020_systematic_destruction.md"
-      - title: "The Bloodline Hunt"
-        file: "10_chariot_conquerers/030_bloodline_hunt.md"
-      - title: "The Memory War"
-        file: "10_chariot_conquerers/040_memory_war.md"
+      - title: "The Neoteny Puzzle"
+        file: "30_pre_flood/00_neoteny_puzzle.md"
+      - title: "When Gods Walked Among Us"
+        file: "30_pre_flood/01_gods_among_us.md"
+      - title: "The Experiment Begins"
+        file: "50_original_titans/03_experiment_begins.md"
+      - title: "Tiamat and Apsu"
+        file: "50_original_titans/02_tiamat_apsu.md"
 
   - type: part
     number: 2
-    title: "The New Order (1200-500 BCE)"
+    title: "The Takeover — The Domestication Program"
     chapters:
-      - title: "The Replacement Kings"
-        file: "20_new_order/01_replacement_kings.md"
+      - title: "The Day the Sky Fell"
+        file: "40_crash_survivors/01_sky_fell.md"
+      - title: "The Domesticated Species"
+        file: "40_crash_survivors/03_domesticated_species.md"
+      - title: "The Hybrid Crisis"
+        file: "30_pre_flood/02_hybrid_crisis.md"
+
+  - type: part
+    number: 3
+    title: "The Control System — Resets and Memory Warfare"
+    chapters:
+      - title: "The First Reset: The Great Flood"
+        file: "30_pre_flood/03_great_reset.md"
+      - title: "The Mystery at 4.2 Ka"
+        file: "30_pre_flood/04_four_point_two_kiloyear_event.md"
+      - title: "The Second Reset: The Chariot Conquest"
+        file: "10_chariot_conquerers/020_systematic_destruction.md"
+      - title: "The Memory War"
+        file: "10_chariot_conquerers/040_memory_war.md"
       - title: "Hunting the Survivors"
         file: "20_new_order/02_hunting_survivors.md"
+      - title: "The Replacement Kings"
+        file: "20_new_order/01_replacement_kings.md"
       - title: "The Hero Mythology"
         file: "20_new_order/03_hero_mythology.md"
 
   - type: part
-    number: 3
-    title: "The World Before the Flood (Pre-2350 BCE)"
-    chapters:
-      - title: "When Gods Walked Among Us"
-        file: "30_pre_flood/01_gods_among_us.md"
-      - title: "The Hybrid Crisis"
-        file: "30_pre_flood/02_hybrid_crisis.md"
-      - title: "The Great Reset"
-        file: "30_pre_flood/03_great_reset.md"
-      - title: "The Mystery at 4.2 Ka"
-        file: "30_pre_flood/04_four_point_two_kiloyear_event.md"
-
-  - type: part
     number: 4
-    title: "The Crash Survivors (12,800 BCE - The Younger Dryas)"
-    chapters:
-      - title: "The Sky Fell"
-        file: "40_crash_survivors/01_sky_fell.md"
-      - title: "The Long Game"
-        file: "40_crash_survivors/02_long_game.md"
-      - title: "The Domesticated Species"
-        file: "40_crash_survivors/03_domesticated_species.md"
-
-  - type: part
-    number: 5
-    title: "The Original Titans (1,000,000+ BCE)"
-    chapters:
-      - title: "Before the Crash"
-        file: "50_original_titans/01_before_crash.md"
-      - title: "Tiamat and Apsu"
-        file: "50_original_titans/02_tiamat_apsu.md"
-      - title: "The Experiment Begins"
-        file: "50_original_titans/03_experiment_begins.md"
-
-  - type: part
-    number: 6
-    title: "The Modern Inheritance"
+    title: "The Modern Inheritance — The Choice Point"
     chapters:
       - title: "The System Today"
         file: "60_modern_inheritance/01_system_today.md"
-      - title: "Breaking Free"
+      - title: "The Ghost in the Machine"
         file: "60_modern_inheritance/02_breaking_free.md"
       - title: "The Choice Point"
         file: "60_modern_inheritance/03_choice_point.md"
@@ -84,7 +67,9 @@ structure:
     title: "Appendices"
     chapters:
       - title: "Timeline of Human Management"
-        file: "90_appendix/01_timeline.md"
+        file: "90_appendix/10_timeline.md"
+      - title: "Glossary"
+        file: "90_appendix/20_glossary.md"
       - title: "Genetic Evidence Summary"
         file: "90_appendix/02_genetic_evidence.md"
       - title: "Archaeological Anomalies"
@@ -97,7 +82,3 @@ structure:
         file: "90_appendix/06_mytho_scientific_chronology.md"
       - title: "Method: Braiding Myth and Science"
         file: "90_appendix/07_method_braiding_myth_and_science.md"
-      - title: "Genesis 6:4 — Hebrew Etymology"
-        file: "90_appendix/05_genesis_6_4_hebrew_etymology.md"
-      - title: "Method: Braiding Myth and Science"
-        file: "90_appendix/06_method_braiding_myth_and_science.md"

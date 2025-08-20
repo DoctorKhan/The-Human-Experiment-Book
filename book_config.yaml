@@ -4,9 +4,9 @@ book:
   author: "Rez Khan"
   description: "A comprehensive exploration of human origins, intervention theories, and our evolutionary destiny through the lens of functional mythology."
 
-# Gap-based structure configuration
-structure_type: "gap_based"
-gap_increment: 10
+# Use YAML TOC for explicit structure
+structure_type: "toc"
+toc_file: "toc.yml"
 
 # Auto-scanning will find all numbered directories and files
 # No need to manually list structure - it's built automatically from:
