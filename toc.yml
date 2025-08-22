@@ -6,14 +6,14 @@ series: "The Orphaned Species"
 
 structure:
   - type: introduction
-    title: "Introduction: The Anomaly"
+    title: "Introduction: A Tale of Two Skulls"
     file: "00_introduction/000_introduction.md"
 
   - type: part
     number: 1
     title: "The Case File: The Information Enigma"
     chapters:
-      - title: "The Software Paradox"
+      - title: "The Ghost in the Code"
         file: "10_case_file/010_software_paradox.md"
       - title: "Cosmic Fingerprints"
         file: "10_case_file/020_cosmic_fingerprints.md"
