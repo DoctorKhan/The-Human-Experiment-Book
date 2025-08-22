@@ -1,4 +1,8 @@
 ## The Four-Part Investigation
+## The Information Problem: Why This Book Changed Direction
+
+In early drafts, this investigation led with anomalies—odd gaps and mysterious artifacts. With new evidence and better framing, the central question has sharpened: life looks like layered software running on chemistry. The unsolved part is not just how parts formed, but how the instructions—the information—arose and propagated. Part 1 now focuses on this enigma directly, presenting mainstream models fairly and adding preemptive rebuttals where they fall short. Only after the case file is complete do we propose a unifying mythic hypothesis and test its explanatory power.
+
 
 - **Book 1: *The Social Game*** — Gather the evidence
 - **Book 2: *Manual Override*** — Learn the tools

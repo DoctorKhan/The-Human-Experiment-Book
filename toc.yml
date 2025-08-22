@@ -11,16 +11,16 @@ structure:
 
   - type: part
     number: 1
-    title: "The Original Design — The Unfinished Experiment"
+    title: "The Case File: The Information Enigma"
     chapters:
-      - title: "The Neoteny Puzzle"
-        file: "30_pre_flood/00_neoteny_puzzle.md"
-      - title: "When Gods Walked Among Us"
-        file: "30_pre_flood/01_gods_among_us.md"
-      - title: "The Experiment Begins"
-        file: "50_original_titans/03_experiment_begins.md"
-      - title: "Tiamat and Apsu"
-        file: "50_original_titans/02_tiamat_apsu.md"
+      - title: "The Software Paradox"
+        file: "10_case_file/010_software_paradox.md"
+      - title: "Cosmic Fingerprints"
+        file: "10_case_file/020_cosmic_fingerprints.md"
+      - title: "The Rhythm of Creation"
+        file: "10_case_file/030_rhythm_of_creation.md"
+      - title: "The Anthropic Question"
+        file: "10_case_file/040_anthropic_question.md"
 
   - type: part
     number: 2
@@ -82,3 +82,5 @@ structure:
         file: "90_appendix/06_mytho_scientific_chronology.md"
       - title: "Method: Braiding Myth and Science"
         file: "90_appendix/07_method_braiding_myth_and_science.md"
+      - title: "Panspermia Hypothesis: Evidence and Framing"
+        file: "90_appendix/40_panspermia_hypothesis.md"
