@@ -29,15 +29,16 @@ For definitions, see the Glossary. This chronology uses normalized phase numbers
 
 ## Phase 1: The Forging of Adamu (≈930,000–813,000 years ago)
 
-- Myth lens: Foundational stock “Adamu” forged under existential constraint; latent capacities installed for long-horizon development.
-- Science lens: Severe long-duration population bottleneck with effective population ≈1,280 for ~117k years; consolidation of a founding lineage.
-- Cross-links: Genetic Evidence → Bottlenecks; Timeline → Phase 1; Glossary → Adamu.
+- Myth Lens: Foundational stock "Adamu" forged under existential constraint; latent capacities installed for long-horizon development.
+- Science Lens: A severe, long-duration population bottleneck with an effective population of just 1,280 individuals for 117,000 years. The cause was the Mid-Pleistocene Transition, which shifted Earth's climate to brutal 100,000-year ice ages. The most severe phase, Marine Isotope Stage 22, led to widespread environmental collapse and fragmentation of human populations.
+- Cross-links: This is the period when humans were truly domesticated as Adamu, then mixed with another robust human species—probably Homo erectus—hiding most of the domestication traits. Mythically, this is the time when Prometheus gave humans fire. Genetic Evidence → The 930–813 kya Bottleneck, admixture signals; Glossary → Adamu, Mid-Pleistocene Transition, Marine Isotope Stage 22, Homo erectus, Prometheus.
 
 ## Phase 2: The Awakening of Potential (≈650,000–300,000 years ago)
 
 - Myth lens: Rise of Ummānu/Umannu—the artisan/specialist potential emerges.
 - Science lens: Emergence of Homo heidelbergensis; cranial capacity expansion; increasing technological complexity trending toward Mode 3.
 - Cross-links: Archaeological Anomalies → technology transitions; Glossary → Umannu.
+- The Recovery: Around 813,000 years ago, humanity began a 20-fold demographic recovery, with the population growing to approximately 30,000 individuals. This rapid expansion was fueled by climate improvement and the mastery of controlled fire, with definitive evidence around 790,000 years ago.
 
 ## Phase 3: The Specialist Divergence (≈80,000–40,000 years ago)
 

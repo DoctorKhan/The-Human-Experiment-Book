@@ -14,6 +14,16 @@ The choice point humanity faces is not about technology, politics, or economics�
 
 **What Makes This Choice Point Different**: For the first time in human history, we have both the external technology to understand consciousness abilities and the internal technology to overcome our fear of them. We are the first generation capable of making this choice consciously rather than reactively.
 
+### The Bio-Energetic Choice
+
+Framed through Gaia-Resonance, the decision is stark:
+
+- Remain dissonant batteries for a parasitic system, generating low-coherence emotional charge to feed extractive architectures; or
+- Reclaim our role as the resonant nervous system of a living planet, restoring human–Gaia coupling so the Gardener potentials epigenetically reactivate.
+
+Every practice—breath, grounding, community coherence—has planetary implications. Liberation is not only personal; it is ecological and civilizational.
+
+
 ## A Day in 2035: Two Possible Futures
 
 ##### Timeline A: The Awakened Path

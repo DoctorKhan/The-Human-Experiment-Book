@@ -20,6 +20,9 @@ As I analyzed the hero myths that emerged after the Bronze Age destruction, I di
 4. The victory represents the triumph of the new order over the old
 5. The hero is celebrated as a savior of humanity
 
+> Interpretive Lens: In the Gaia-Resonance framework, the “serpent” is not chaos but Earth’s own telluric current—the kundalini of the planet flowing through the ley network. Dragon-slaying epics celebrate the suppression of that living current and the triumph of a counter-grid of rigid, artificial order. The War on Magic was, at its root, a war against Gaian consciousness expressed through human beings.
+
+
 These stories weren't preserving ancient wisdom - they were programming humans to celebrate the elimination of their former rulers.
 
 ## The Psychological Programming

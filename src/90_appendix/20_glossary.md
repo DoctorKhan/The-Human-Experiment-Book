@@ -102,3 +102,8 @@
 ---
 
 *Note: These terms are presented within the context of the functional mythology outlined in this book. They represent symbolic and narrative frameworks for understanding human consciousness and development, not literal historical or scientific claims.*
+
+
+**Marine Isotope Stage 22** - A geological period around 875,000 years ago that marked the peak of the environmental collapse during the Mid-Pleistocene Transition. It led to widespread desertification and a dramatic drop in African lake levels, correlating with humanity's near extinction.
+
+**Mid-Pleistocene Transition** - A dramatic climate transformation around 900,000 years ago that shifted Earth's climate from relatively mild 40,000-year glacial cycles to more severe 100,000-year cycles, contributing to the human population bottleneck.

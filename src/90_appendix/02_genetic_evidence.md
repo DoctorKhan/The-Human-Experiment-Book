@@ -29,19 +29,21 @@ This appendix summarizes the key genetic evidence that supports the conclusions 
 
 ## The 930–813 kya Bottleneck (The Forging of “Adamu”)
 
-**Signal:**
+**Scientific Evidence:**
 
-- Long-duration effective population ~1,280 over ~117,000 years
-- Consolidation of founding lineage consistent with extreme, protracted constraint
+- A new genomic analysis technique called FitCoal (Fast Infinitesimal Time Coalescent) was applied to the DNA of over 3,150 modern humans to trace coalescent patterns. The signal shows an extreme genetic traffic jam, where nearly all lineages funnel through a tiny group of survivors.
+- Between approximately 930,000 and 813,000 years ago, the human population crashed by an estimated 98.7%.
+- Our ancestors plummeted from around 100,000 individuals to roughly 1,280 breeding humans, and remained at that level for about 117,000 years—smaller than many critically endangered species today.
+- The bottleneck helps explain why human genetic diversity is low compared to other great apes.
+- The timing provides a compelling context for the fusion of two ancestral ape chromosomes into human chromosome 2; in such a small population a new chromosomal arrangement could spread through the entire lineage. Today, every person carries this fused chromosome—effectively a molecular fossil of the bottleneck.
+
+[^fitcoal]: The bottleneck signal and estimates cited here are consistent with analyses using the FitCoal (Fast Infinitesimal Time Coalescent) framework applied to large modern human datasets; see population genetics literature for methodological details.
+
 
 **Interpretation:**
 
-- The “Adamu” foundational stock—later remembered mythically as “pairs” or “first humans”—maps to this severe bottleneck. This phase likely consolidated modules that were later “activated.”
-
-**Cross-links:**
-
-- Appendix F: Mytho-Scientific Chronology (Phase 1)
-- Glossary: Adamu
+- This catastrophic event, corresponding to the mythic forging of “Adamu,” consolidated the foundational genetic stock for all subsequent human evolution.
+- The extreme selective pressure may have accelerated evolution in ways that shaped our species’ trajectory, including aspects of our unique brain development.
 
 
 
