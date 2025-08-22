@@ -43,6 +43,10 @@ Dr. Morrison's research revealed that there had been two distinct types of hybri
 - Stable but reclusive, focused on preservation rather than proliferation
 - Limited reproduction, maintaining genetic purity
 - Saw humans as beings to be protected and guided
+In response to the creation of the Wiros, the **Gneh-tah** initiated their own careful hybrid program as a counter-move, designed to preserve the original knowledge and a connection to the **Tree of Life**.
+
+
+These beings were the direct result of the Reges' transgression and became the primary tool of their new control system.
 
 "It's like two different species were conducting two different experiments," Dr. Morrison observed. "One focused on dominance and control, the other on preservation and wisdom."
 

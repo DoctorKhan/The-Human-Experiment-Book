@@ -114,6 +114,8 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 
 **The Palace Coup**: What mythology remembers as the "war in heaven" is actually a civil war between the older and younger generations of gods. This is not external invasion but internal revolution.
 
+**The Great Transgression and Punishment:** The Reges interbreed with humans, creating the Wiros. For this violation, they are cut off from the **Tree of Life**, triggering their desperation and motivating their subsequent takeover.
+
 **The Planned Return Mission**:
 
 - *Anunnaki*: Return to Earth with specialized crews to check on experiment progress
