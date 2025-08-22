@@ -23,13 +23,13 @@ As I analyzed the hero myths that emerged after the Bronze Age destruction, I di
 > Interpretive Lens: In the Gaia-Resonance framework, the “serpent” is not chaos but Earth’s own telluric current—the kundalini of the planet flowing through the ley network. Dragon-slaying epics celebrate the suppression of that living current and the triumph of a counter-grid of rigid, artificial order. The War on Magic was, at its root, a war against Gaian consciousness expressed through human beings.
 
 
-These stories weren't preserving ancient wisdom - they were programming humans to celebrate the elimination of their former rulers.
+These stories weren't preserving ancient wisdom - they were programming humans to celebrate the elimination of their former Reges.
 
 ## The Psychological Programming
 
 The hero myths served multiple psychological functions:
 
-**Justification:** The old rulers were portrayed as "monsters" who deserved destruction
+**Justification:** The old Reges were portrayed as "monsters" who deserved destruction
 **Celebration:** The elimination of enhanced beings was framed as heroic victory
 **Normalization:** Being "normal" human was portrayed as superior to being enhanced
 **Submission:** Heroes succeeded through divine assistance, not independent power

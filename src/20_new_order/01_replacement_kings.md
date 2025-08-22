@@ -6,21 +6,21 @@ This wasn't just a change in rhetoric. It represented a fundamental shift in the
 
 ## The End of Divine Bloodlines
 
-As I traced the genealogies of post-conquest rulers, the pattern became clear. The new kings weren't claiming descent from the old god-kings - they were explicitly rejecting those bloodlines.
+As I traced the genealogies of post-conquest Reges, the pattern became clear. The new kings weren't claiming descent from the old god-kings - they were explicitly rejecting those bloodlines.
 
 **Before the conquest:**
 
 - Egyptian pharaohs claimed to be living gods
 - Mesopotamian kings claimed divine parentage
-- Hittite rulers claimed descent from storm gods
+- Hittite Reges claimed descent from storm gods
 - Mycenaean kings claimed descent from Zeus and other Olympians
 
 **After the conquest:**
 
-- New rulers claimed divine appointment, not divine descent
+- New Reges claimed divine appointment, not divine descent
 - Emphasis on being "chosen" by distant, invisible gods
 - Systematic rejection of claims to divine bloodlines
-- Installation of human intermediaries rather than hybrid rulers
+- Installation of human intermediaries rather than hybrid Reges
 
 The conquerers hadn't just eliminated the hybrid bloodlines - they had replaced the entire system of divine kingship with something completely different.
 
@@ -31,12 +31,12 @@ The new system was sophisticated in its simplicity. Instead of god-kings who rul
 **Key characteristics of the new system:**
 
 - Authority came from invisible, distant gods rather than present, physical ones
-- Rulers were temporary appointees rather than permanent divine beings
+- Reges were temporary appointees rather than permanent divine beings
 - Power could be transferred or withdrawn by the appointing authority
 - Human intermediaries (priests) interpreted divine will
 - Complex bureaucracies replaced direct divine administration
 
-This system was much more controllable than the old god-king system. Appointed rulers could be replaced if they became problematic. Divine authority remained distant and unverifiable.
+This system was much more controllable than the old god-king system. Appointed Reges could be replaced if they became problematic. Divine authority remained distant and unverifiable.
 
 ## The Invisible Commanders
 

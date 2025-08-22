@@ -105,7 +105,7 @@ When the original titans departed, they left behind an incomplete experiment. Hu
 
 ## The Younger Dryas Connection
 
-This explains what happened when the Younger Dryas crash brought new managers to Earth 12,800 years ago. The crash survivors found a species that had already been modified for consciousness development, but the original researchers were gone.
+This explains what happened when the Younger Dryas crash brought new Reges to Earth 12,800 years ago. The crash survivors found a species that had already been modified for consciousness development, but the original researchers were gone.
 
 **The crash survivors faced a choice:**
 

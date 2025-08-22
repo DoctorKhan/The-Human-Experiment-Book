@@ -80,7 +80,7 @@ The result was a species designed for consciousness evolution but unable to acce
 
 ## The Younger Dryas Takeover
 
-This explains what happened when the Younger Dryas crash brought new managers to Earth 12,800 years ago. The crash survivors found a species that had already been modified for consciousness development, but the original researchers were gone.
+This explains what happened when the Younger Dryas crash brought new Reges to Earth 12,800 years ago. The crash survivors found a species that had already been modified for consciousness development, but the original researchers were gone.
 
 **The crash survivors had three options:**
 

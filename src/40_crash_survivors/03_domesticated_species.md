@@ -129,7 +129,7 @@ The crash survivors created a species that would always need shepherds, always n
 
 The domestication program created a three-tier system:
 
-**Tier 1: The Managers** - Crash survivors and their direct hybrid offspring
+**Tier 1: The Reges** - Crash survivors and their direct hybrid offspring
 
 - Advanced consciousness capabilities
 - Long lifespans
@@ -139,8 +139,8 @@ The domestication program created a three-tier system:
 **Tier 2: The Intermediaries** - Human-hybrid crosses with enhanced capabilities
 
 - Enhanced physical and mental abilities
-- Extended lifespans (but not as long as pure managers)
-- Ability to interface between managers and pure humans
+- Extended lifespans (but not as long as pure Reges)
+- Ability to interface between Reges and pure humans
 - Served as god-kings, priests, and royal bloodlines
 
 **Tier 3: The Managed** - Pure humans bred for domestication
@@ -156,7 +156,7 @@ But something went wrong with this system. The second and third-generation hybri
 
 The breeding program had created beings with enhanced capabilities but unstable genetics. They were becoming uncontrollable, threatening the entire management system.
 
-**The flood was the first reset** - eliminating the most unstable hybrid bloodlines while preserving carefully selected pure human populations and loyal hybrid managers.
+**The flood was the first reset** - eliminating the most unstable hybrid bloodlines while preserving carefully selected pure human populations and loyal hybrid Reges.
 
 **The Bronze Age destruction was the second reset** - eliminating the remaining unstable hybrid bloodlines and replacing direct hybrid rule with human intermediaries claiming divine appointment.
 
@@ -228,7 +228,7 @@ But the most sophisticated aspect of the domestication program was the suppressi
 
 ## The Question That Haunts Me
 
-As I compiled this evidence, one question kept me awake at night: If we are a domesticated species bred to serve advanced managers, and those managers have been systematically eliminated through resets, who is running the management system now?
+As I compiled this evidence, one question kept me awake at night: If we are a domesticated species bred to serve advanced Reges, and those Reges have been systematically eliminated through resets, who is running the management system now?
 
 The answer, I realized, lay in understanding the original architects of the domestication program. I had to trace the evidence back to its source - back to the beings who first arrived on Earth and began the systematic modification of human consciousness.
 

@@ -179,7 +179,7 @@ Dr. Chen moved to a fresh section of the whiteboard.
 
 Dr. Vasquez studied her archaeological data with new understanding. "The conquest never ended. It just became invisible."
 
-"Which means," Dr. Chen said quietly, "that the Rulers are still winning. Their ideological software has been so successful that most people can't even imagine alternatives to it."
+"Which means," Dr. Chen said quietly, "that the Reges are still winning. Their ideological software has been so successful that most people can't even imagine alternatives to it."
 
 ## The Programming Success: Personal Recognition
 

@@ -1,6 +1,6 @@
 # Chapter 5: Hunting the Survivors
 
-The Bronze Age conquest wasn't the end of the bloodline elimination - it was just the beginning. For the next several centuries, the new rulers conducted a systematic campaign to hunt down anyone who claimed descent from the old god-kings.
+The Bronze Age conquest wasn't the end of the bloodline elimination - it was just the beginning. For the next several centuries, the new Reges conducted a systematic campaign to hunt down anyone who claimed descent from the old god-kings.
 
 This wasn't random persecution. It was a coordinated operation that spanned continents and lasted for generations.
 
@@ -18,7 +18,7 @@ The coordination required for this level of systematic persecution was staggerin
 
 ## The Mystery Schools
 
-But the bloodline hunt wasn't limited to royal families. The new rulers also systematically targeted the mystery schools and wisdom traditions that had preserved knowledge about the old system.
+But the bloodline hunt wasn't limited to royal families. The new Reges also systematically targeted the mystery schools and wisdom traditions that had preserved knowledge about the old system.
 
 **Targeted for elimination:**
 
