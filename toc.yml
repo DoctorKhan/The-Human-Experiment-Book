@@ -6,7 +6,7 @@ series: "The Orphaned Species"
 
 structure:
   - type: introduction
-    title: "Introduction: A Tale of Two Skulls"
+    title: "The Orphaned Species Series"
     file: "00_introduction/000_introduction.md"
 
   - type: part
