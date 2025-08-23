@@ -68,6 +68,21 @@ We realize we already do this:
 
 “It’s imperfect,” Sera says. “That’s why we keep the interfaces clean. The state never certifies private revelation. The soul never erases public justice.”
 
+
+Ravi: “And if someone isn’t going to sit on a cushion?”
+
+Tyra: “Then start outside‑in. Make your behavior carry the weight while the interior catches up.”
+
+Sera: “Four checks everyone can see: consistency under pressure; fruits that reconcile and help people flourish; humility—service without status‑seeking; and reputations that accrue across seasons.”
+
+Mia: “That path is how communities discover Moral Advisors—people we trust to bridge Soul and State because their lives, not their slogans, prove it.”
+
+Ravi: “With one warning label.”
+
+Tyra: “Charisma is not a credential.”
+
+Moderator: “Treat charisma as a red flag to test, not a reason to follow.”
+
 ---
 
 ## Where to place the bridge in the Four Spheres
