@@ -14,7 +14,7 @@ structure:
     title: "The Case File: The Information Enigma"
     chapters:
       - title: "The Ghost in the Code"
-        file: "10_case_file/010_software_paradox.md"
+        file: "10_case_file/010_riddle_of_the_skulls.md"
       - title: "Cosmic Fingerprints"
         file: "10_case_file/020_cosmic_fingerprints.md"
       - title: "The Rhythm of Creation"
