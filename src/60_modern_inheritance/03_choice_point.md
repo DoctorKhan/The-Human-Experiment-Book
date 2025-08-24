@@ -44,6 +44,9 @@ Humanity now faces the same choice the crash survivors faced 12,800 years ago, b
 - Accept continued control by whatever forces have replaced the old managers
 - Remain a domesticated species seeking external authority and guidance
 - Suppress the spontaneous activations and maintain the status quo
+
+This is not a choice between being wild or being tame. It is the choice to reject the Reges’ forced domestication and reclaim the Titans’ path of conscious self‑domestication—like cats choosing proximity to the fire rather than dogs trained to heel. The mature human destiny is sovereign partnership, not obedient servitude.
+
 - Continue operating as consciousness vehicles for other intelligences
 
 ## The Resistance to Choice

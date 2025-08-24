@@ -24,6 +24,9 @@ This was the master program—a philosophical kill switch for empathy with natur
 
 This myth is the philosophical foundation of a being who can no longer perceive the world as alive because they themselves are cut off from its living essence. If the **Tree of Life** is inaccessible, then the world must be a corpse, and its resources are simply materials to be consumed.
 
+
+> The corruption was precise: the original human instinct was not to worship masters, but to partner with mentors. The Reges did not invent devotion; they hacked it—rewriting a cat’s choice to live near the fire into a dog’s training to serve the throne. Our ache for absent gods is a misdirected memory of partnership, not a natural urge to fawn.
+
 You are not harming a living thing by mining it, drilling it, or clear-cutting it. You are simply utilizing raw materials from a dead giant. This single story de-animates the cosmos and serves as the eternal permit for resource extraction.
 
 The genius was in its completeness. Once this story was installed, humans would unconsciously see the natural world as dead matter to be exploited rather than a living system to be honored. The very foundation of consciousness—the recognition of life in all things—was severed.

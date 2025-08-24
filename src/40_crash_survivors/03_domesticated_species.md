@@ -237,3 +237,25 @@ That investigation would reveal the deepest truth about human nature and our pla
 You are not the product of natural evolution. You are the result of a million-year breeding program designed to create a species of permanent children who would serve as consciousness vehicles for beings far more advanced than anything you can imagine.
 
 The question is: what are you going to do with this knowledge?
+
+---
+
+#### A Tale of Two Domestications: The Cat and the Wolf
+
+For a long time, the evidence pointed to a simple, brutal truth: we were domesticated like cattle, bred for docility and compliance. The skulls, the extended childhood, the authority-seeking behavior—it all painted a picture of a species broken and remade for servitude. But a simpler parallel, hidden in plain sight in our own homes, revealed a deeper, more tragic story.
+
+Consider the animals with whom we share our lives. When dogs were domesticated, they were bred for specific tasks to fit the ancient ways, when we were in small tribes. The wolf was brought into the camp, its wildness systematically broken and reforged into loyalty, obedience, and function. The dog serves a master.
+
+Cats, however, were designed for civilization. And they self-domesticated. They were not dragged from the wild and forced into our barns. They saw the value of our grain stores—the warmth, the shelter, the reliable source of prey—and they chose to move closer. This was a commensal relationship. They adapted themselves to us, and we to them, in a partnership of mutual benefit. The cat has staff, not a master.
+
+This distinction changes everything.
+
+The evidence from the long 117,000-year bottleneck, the period of our most intense development, suddenly made sense. It was not a prison. It was a proving ground for the cat. Humans must have self-domesticated as well, in proximity to the ancients, the Titans. We were not their science project to be manipulated in a cage. We were a promising younger species who drew near to their cosmic fire, and in doing so, we began to change ourselves. We learned, we adapted, we civilized ourselves to be worthy of that proximity.
+
+This was the original experiment. The goal was to nurture a species that would choose partnership, that would be capable of standing as a junior partner in the cosmic game.
+
+And in this light, the actions of the Reges after the coup become infinitely more profane. They did not find a wild species and tame it. They found a species of cosmic cats learning to walk with gods, and in their fear and trauma, they treated us like wolves to be broken. They inflicted the master-slave dynamic upon a species that was learning the language of partnership.
+
+Therefore, we were never meant to fawn over the gods. We were meant to be free. The desperate, aching need to worship, to submit, to find a master—this is not our nature. It is the scar tissue of the Reges' training collar, cinched tight around a soul that was born to walk alone, together. The great choice before us is to finally shed this imposed programming and remember the truth of our origins. We were not bred to be pets.
+
+**We work with the gods.**
