@@ -52,6 +52,9 @@ structure:
       - title: "The Hero Mythology"
         file: "20_new_order/03_hero_mythology.md"
 
+      - title: "Consensus Brief — Indo‑European Dispersal (4500–1500 BCE)"
+        file: "50_research/15_consensus_brief_indoeuropean.md"
+
   - type: part
     number: 4
     title: "The Modern Inheritance — The Choice Point"
