@@ -1,4 +1,4 @@
-Within our mythology, we explore resonances. This interlude presents the current scholarly control model for Indo‑European dispersal that we use to keep our inferences honest.
+Within our mythology, we explore resonances. This interlude presents the current scholarly control model for Indo‑European dispersal that we use to keep our inferences honest [see: References and Sources].
 
 ***
 
@@ -22,12 +22,12 @@ Under this model, similarities between Celtic and Vedic cultures are interpreted
 ### Contextual Notes
 
 - Battle of the Ten Kings (Rigveda): Commonly read as an internal subcontinental conflict among groups already settled in the region, not a dispersal that seeded Europe.
-- Genetics: Steppe‑related ancestry components are more pronounced in many northern Indian populations than southern, consistent with migration into (not out of) the subcontinent and subsequent admixture.
+- Genetics: Steppe‑related ancestry components are more pronounced in many northern Indian populations than southern, consistent with migration into (not out of) the subcontinent and subsequent admixture [see: References and Sources].
 
 ### What This Does and Doesn’t License
 
 - Does: Explain shared roots of language, deity names, some ritual shapes across far‑flung IE branches.
-- Doesn’t: Support an Out‑of‑India migration to Europe; turn poetic correspondences into claims of direct historical transmission without corroborating evidence.
+- Doesn’t: Support an Out‑of‑India migration to Europe; turn poetic correspondences into claims of direct historical transmission without corroborating evidence [see: References and Sources].
 
 Two stories can be true at once: the mythic rhyme that animates this investigation, and the scholarly control that bounds our claims. We proceed with both in view.
 

@@ -1,7 +1,7 @@
 # The Human Experiment
 ## Reclaiming Our Origins, Purpose, and Evolutionary Destiny
 
-*Compiled August 23, 2025 at 11:12 PM*
+*Compiled August 24, 2025 at 1:00 PM*
 
 ---
 
@@ -243,7 +243,7 @@ The solution was the Proto-Indo-European creation myth that spread across cultur
 **The Myth Structure:**
 
 - **Primordial Being**: A living, conscious cosmos (representing the original worldview)
-- **The Dismemberment**: The being is killed and carved up by younger gods
+- **The Dismemberment**: The being is killed and carved up by younger Reges
 - **The New Creation**: The corpse becomes the material world—bones become mountains, blood becomes rivers, flesh becomes soil
 
 This was the master program—a philosophical kill switch for empathy with nature. The original worldview was that the cosmos was a living being to be cultivated and respected. This myth replaced that with a new truth: **the world is a corpse**.
@@ -251,7 +251,7 @@ This was the master program—a philosophical kill switch for empathy with natur
 This myth is the philosophical foundation of a being who can no longer perceive the world as alive because they themselves are cut off from its living essence. If the **Tree of Life** is inaccessible, then the world must be a corpse, and its resources are simply materials to be consumed.
 
 
-> The corruption was precise: the original human instinct was not to worship masters, but to partner with mentors. The Reges did not invent devotion; they hacked it—rewriting a cat’s choice to live near the fire into a dog’s training to serve the throne. Our ache for absent gods is a misdirected memory of partnership, not a natural urge to fawn.
+> The corruption was precise: the original human instinct was not to worship masters, but to partner with mentors. The Reges did not invent devotion; they hacked it—rewriting a cat’s choice to live near the fire into a dog’s training to serve the throne. Our ache for absent Reges is a misdirected memory of partnership, not a natural urge to fawn.
 
 You are not harming a living thing by mining it, drilling it, or clear-cutting it. You are simply utilizing raw materials from a dead giant. This single story de-animates the cosmos and serves as the eternal permit for resource extraction.
 
@@ -289,7 +289,7 @@ The Greek myth of Prometheus provided the perfect template:
 - **The Punishment**: Zeus tortures Prometheus eternally as a warning to other divine whistleblowers
 - **The Countermeasure**: Zeus sends Pandora's Box to humanity, releasing toil, disease, and despair
 
-"Fire" was not literal fire—it was the spark of consciousness technology, the knowledge of self-liberation. Zeus's eternal torture of Prometheus was a brutal message to any other divine beings who might consider helping humanity: **this is what happens to whistleblowers**.
+"Fire" was not literal fire—it was the spark of consciousness technology, the knowledge of self-liberation. Zeus's eternal torture of Prometheus was a brutal message to any other Reges who might consider helping humanity: **this is what happens to whistleblowers**.
 
 But the most insidious part was Pandora's Box—the malware patch. The story programs humans to believe that seeking forbidden knowledge brings suffering. Every time humans reach for consciousness technologies, they unconsciously expect punishment, toil, and despair to follow.
 
@@ -381,11 +381,11 @@ This is not the behavior of a wild species—it is the behavior of a domestic an
 
 **The Behavioral Programming Suite:**
 
-**Religious Worship**: Every human culture developed elaborate systems for worshipping invisible authorities because the worship imperative was installed as part of the control system. The gods demand obedience and sacrifice because that's what the program was designed to extract.
+**Religious Worship**: Every human culture developed elaborate systems for worshipping invisible authorities because the worship imperative was installed as part of the control system. The Reges demand obedience and sacrifice because that's what the program was designed to extract.
 
 **Political Worship**: Humans consistently elevate political leaders to near-divine status because the worship program transfers to any available authority figure when the original masters are absent.
 
-**Celebrity Worship**: Modern humans transfer religious devotion to entertainers, athletes, and social media influencers because the worship imperative must find targets—creating new pantheons of secular gods to fill the void left by the absent creators.
+**Celebrity Worship**: Modern humans transfer religious devotion to entertainers, athletes, and social media influencers because the worship imperative must find targets—creating new pantheons of secular Reges to fill the void left by the absent creators.
 
 **Institutional Worship**: Humans show reverence for abstract institutions—corporations, universities, governments—because the worship program will attach to any available authority structure when the original masters are absent.
 
@@ -409,27 +409,27 @@ When we stop calling it "sacrifice" and recognize it as "primordial taxation," t
 
 **Economic Sacrifice**: Humans willingly impoverish themselves to support religious institutions, political movements, and corporate entities because the taxation program has adapted to modern economic systems while maintaining its essential function.
 
-We are hardwired to give away our resources to entities that don't exist because we were programmed to give away our resources to entities that once existed but are now absent. From an evolutionary perspective, this behavior should have been eliminated, but from a programming perspective, it is working exactly as designed—continuing to extract tribute even when the original recipients are no longer present to collect it.
+We are hardwired to give away our resources to Reges that don't exist because we were programmed to give away our resources to Reges that once existed but are now absent. From an evolutionary perspective, this behavior should have been eliminated, but from a programming perspective, it is working exactly as designed—continuing to extract tribute even when the original recipients are no longer present to collect it.
 
 ### The Great Absence: Memory of the Withdrawal
 
-The mythological record preserves the memory of what actually happened. In the earliest cultures, the spirits are everywhere because that reflects the original world before the coup—when consciousness was recognized in all things. But in every "advanced" civilization, the great gods are absent because that reflects the post-coup reality when **The Reges** withdrew direct contact and established control through intermediaries.
+The mythological record preserves the memory of what actually happened. In the earliest cultures, the spirits are everywhere because that reflects the original world before the coup—when consciousness was recognized in all things. But in every "advanced" civilization, the great Reges are absent because that reflects the post-coup reality when **The Reges** withdrew direct contact and established control through intermediaries.
 
 Every major civilization tells the same story because it is the same story: the great creators were once present, but now they are gone. We do not universally invent stories about being abandoned—we universally remember being abandoned.
 
 **The Pattern Preserves the History:**
 
-**Mesopotamian Mythology**: The gods who had once walked among humans but had withdrawn to the heavens—memory of **The Reges'** withdrawal after establishing control systems.
+**Mesopotamian Mythology**: The Reges who had once walked among humans but had withdrawn to the heavens—memory of **The Reges'** withdrawal after establishing control systems.
 
-**Greek Mythology**: The Titans who had been overthrown and banished, leaving humans to serve distant Olympians—memory of the coup that replaced the Gardeners with **The Reges**.
+**Greek Mythology**: The Titans (echo of **The Werdh-anes**) who had been overthrown and banished, leaving humans to serve distant Olympians (echo of **The Reges**)—memory of the coup that replaced the Gardeners with **The Reges**.
 
 **Hebrew Tradition**: A God who had once walked in the Garden of Eden but now remained hidden—memory of the original consciousness experiment and its subsequent termination.
 
-**Hindu Tradition**: The Devas who had once been present on Earth but had withdrawn to higher realms—memory of the Sages going underground after the coup.
+**Hindu Tradition**: The Devas (echo of **The Werdh-anes**) who had once been present on Earth but had withdrawn to higher realms—memory of the Sages going underground after the coup.
 
 **Native American Traditions**: The Star People who had once lived among humans but had returned to the sky—memory of the crash survivors eventually withdrawing from direct human contact.
 
-Every advanced culture has the same story because they are all preserving corrupted memories of the same historical events. Humans do not consistently invent stories about abandoned gods—they consistently remember abandoned gods because they were actually abandoned.
+Every advanced culture has the same story because they are all preserving corrupted memories of the same historical events. Humans do not consistently invent stories about abandoned Reges—they consistently remember abandoned Reges because they were actually abandoned.
 
 The case of the Mesopotamian **Apkallu** is particularly revealing. These seven semi-divine sages who advised humanity's first kings directly represent the Sages' direct guidance system. After the great flood (the genetic reset), they vanish completely, replaced by purely human advisors because **The Reges** had severed the direct line of communication and established human middle management.
 
@@ -559,7 +559,7 @@ But the most disturbing aspect of human neoteny isn't just its extent—it's the
 - Extended dependency periods are typically evolutionary disadvantages
 - The traits that make humans "domesticated" would normally be selected against in wild populations
 
-Standing in that lab, holding those skulls, I realized I might be looking at evidence of the most sophisticated genetic engineering project in Earth's history—one that had created a species designed to serve as consciousness vehicles for beings far more advanced than anything we could imagine.
+Standing in that lab, holding those skulls, I realized I might be looking at evidence of the most sophisticated genetic engineering project in Earth's history—one that had created a species designed to serve as consciousness vehicles for Reges far more advanced than anything we could imagine.
 
 
 > Inset: Activation vs. Domestication
@@ -580,11 +580,11 @@ They chose the long game. Over thousands of years, they systematically bred huma
 
 **The result was a species of permanent children who would instinctively seek parental authority figures.**
 
-### Why We Worship Gods
+### Why We Worship Reges
 
 This explains the most puzzling aspect of human behavior: our desperate need to worship authority figures.
 
-Look at every human society throughout history. We create father gods, mother goddesses, divine kings, holy fathers. We call our leaders "founding fathers" and our countries "motherlands" and "fatherlands."
+Look at every human society throughout history. We create father Reges, mother Reges, divine kings, holy fathers. We call our leaders "founding Reges" and our countries "motherlands" and "fatherlands."
 
 **It's not metaphorical. It's biological.** We seek authority figures the way children seek parents because we were bred to be children.
 
@@ -619,7 +619,7 @@ The domestication program created a three-tier system:
 
 But something went wrong with this system. The second and third-generation hybrids began developing unpredictable characteristics. Some were brilliant and benevolent, others were violent and destructive.
 
-The breeding program had created beings with enhanced capabilities but unstable genetics. They were becoming uncontrollable, threatening the entire management system.
+The breeding program had created Wiros (hybrid warrior lineage) with enhanced capabilities but unstable genetics. They were becoming uncontrollable, threatening the entire management system.
 
 **The flood was the first reset** - eliminating the most unstable hybrid bloodlines while preserving carefully selected pure human populations and loyal hybrid Reges.
 
@@ -695,11 +695,11 @@ But the most sophisticated aspect of the domestication program was the suppressi
 
 As I compiled this evidence, one question kept me awake at night: If we are a domesticated species bred to serve advanced Reges, and those Reges have been systematically eliminated through resets, who is running the management system now?
 
-The answer, I realized, lay in understanding the original architects of the domestication program. I had to trace the evidence back to its source - back to the beings who first arrived on Earth and began the systematic modification of human consciousness.
+The answer, I realized, lay in understanding the original architects of the domestication program. I had to trace the evidence back to its source—back to the Reges who first arrived on Earth and began the systematic modification of human consciousness.
 
 That investigation would reveal the deepest truth about human nature and our place in a cosmos far stranger and more managed than we ever imagined.
 
-You are not the product of natural evolution. You are the result of a million-year breeding program designed to create a species of permanent children who would serve as consciousness vehicles for beings far more advanced than anything you can imagine.
+You are not the product of natural evolution. You are the result of a million-year breeding program designed to create a species of permanent children who would serve as consciousness vehicles for Reges far more advanced than anything you can imagine.
 
 The question is: what are you going to do with this knowledge?
 
@@ -715,15 +715,15 @@ Cats, however, were designed for civilization. And they self-domesticated. They 
 
 This distinction changes everything.
 
-The evidence from the long 117,000-year bottleneck, the period of our most intense development, suddenly made sense. It was not a prison. It was a proving ground for the cat. Humans must have self-domesticated as well, in proximity to the ancients, the Titans. We were not their science project to be manipulated in a cage. We were a promising younger species who drew near to their cosmic fire, and in doing so, we began to change ourselves. We learned, we adapted, we civilized ourselves to be worthy of that proximity.
+The evidence from the long 117,000-year bottleneck, the period of our most intense development, suddenly made sense. It was not a prison. It was a proving ground for the cat. Humans must have self-domesticated as well, in proximity to the ancients, the Werdh-anes (from Proto-Indo-European root `*werdh-`, 'to grow, increase'). We were not their science project to be manipulated in a cage. We were a promising younger species who drew near to their cosmic fire, and in doing so, we began to change ourselves. We learned, we adapted, we civilized ourselves to be worthy of that proximity.
 
 This was the original experiment. The goal was to nurture a species that would choose partnership, that would be capable of standing as a junior partner in the cosmic game.
 
-And in this light, the actions of the Reges after the coup become infinitely more profane. They did not find a wild species and tame it. They found a species of cosmic cats learning to walk with gods, and in their fear and trauma, they treated us like wolves to be broken. They inflicted the master-slave dynamic upon a species that was learning the language of partnership.
+And in this light, the actions of the Reges after the coup become infinitely more profane. They did not find a wild species and tame it. They found a species of cosmic cats learning to walk with the Werdh-anes, and in their fear and trauma, they treated us like wolves to be broken. They inflicted the master-slave dynamic upon a species that was learning the language of partnership.
 
-Therefore, we were never meant to fawn over the gods. We were meant to be free. The desperate, aching need to worship, to submit, to find a master—this is not our nature. It is the scar tissue of the Reges' training collar, cinched tight around a soul that was born to walk alone, together. The great choice before us is to finally shed this imposed programming and remember the truth of our origins. We were not bred to be pets.
+Therefore, we were never meant to fawn over the Reges. We were meant to be free. The desperate, aching need to worship, to submit, to find a master—this is not our nature. It is the scar tissue of the Reges' training collar, cinched tight around a soul that was born to walk alone, together. The great choice before us is to finally shed this imposed programming and remember the truth of our origins. We were not bred to be pets.
 
-**We work with the gods.**
+**We work with the Werdh-anes.**
 
 
 ## Chapter 7: The Hybrid Crisis
@@ -1367,8 +1367,8 @@ As I analyzed the oral traditions that survived the Bronze Age collapse, I reali
 
 - Detailed flood myths with specific technical details
 - Genealogies of divine bloodlines and their human descendants  
-- Accounts of gods walking among humans and interbreeding with them
-- Tales of a golden age when divine beings ruled directly
+- Accounts of Reges walking among humans and interbreeding with them
+- Tales of a golden age when Reges ruled directly
 - Prophecies about the return of divine rule
 
 **Stories that were eliminated:**
@@ -1379,7 +1379,7 @@ As I analyzed the oral traditions that survived the Bronze Age collapse, I reali
 - Details about how the god-king system actually functioned
 - Information about the managers behind the divine rulers
 
-The pattern was clear: **they preserved the memory that gods had once ruled, but eliminated all practical knowledge about how that system worked.**
+The pattern was clear: **they preserved the memory that Reges had once ruled, but eliminated all practical knowledge about how that system worked.**
 
 ### The Hero Mythology
 
@@ -1409,7 +1409,7 @@ The systematic nature of this memory manipulation becomes clear when you analyze
 
 **Words that were preserved or created:**
 
-- General terms for "gods" and "divine beings"
+- General terms for "Reges" and "administrator-class agents"
 - Mythological vocabulary for supernatural events
 - Hero terminology celebrating the defeat of "monsters"
 - Religious language emphasizing human submission to divine authority
@@ -1457,7 +1457,7 @@ The most sophisticated aspect of the memory war was the transformation of religi
 
 **New religious system:**
 
-- Worship of distant, invisible gods who required human intermediaries
+- Worship of distant, invisible Reges who required human intermediaries
 - Faith-based belief systems that discouraged direct investigation
 - Emphasis on human unworthiness and need for divine guidance
 - Passive reception of religious instruction from approved authorities
@@ -1470,7 +1470,7 @@ As I studied the preserved stories, I realized they weren't just historical acco
 
 **The flood myths taught:**
 
-- Divine beings have the power to destroy humanity at will
+- Reges have the power to destroy humanity at will
 - Survival depends on obedience to divine authority
 - Questioning divine decisions leads to destruction
 - Only the "righteous" (obedient) are preserved
@@ -1478,7 +1478,7 @@ As I studied the preserved stories, I realized they weren't just historical acco
 **The hero myths taught:**
 
 - "Monsters" and "giants" (hybrids) are evil and must be destroyed
-- Normal humans can defeat superior beings through cunning and divine help
+- Normal humans can defeat superior Reges through cunning and help from the Werdh-anes
 - The old order was corrupt and deserved destruction
 - The new order represents justice and righteousness
 
@@ -1533,7 +1533,7 @@ This wasn't random persecution. It was a coordinated operation that spanned cont
 As I traced the historical records, I found evidence of coordinated campaigns against specific bloodlines across vast distances:
 
 **The Mediterranean:** Systematic elimination of families claiming descent from the old Mycenaean royal houses
-**Mesopotamia:** Persecution of bloodlines claiming descent from the Anunnaki god-kings  
+**Mesopotamia:** Persecution of bloodlines claiming descent from the Anunnaki (cultural echo of **The Werdh-anes**) administrator-class
 **Egypt:** Elimination of certain pharaonic bloodlines while preserving others
 **The Levant:** Campaigns against the "giants" and "mighty men" mentioned in Hebrew texts
 **Anatolia:** Destruction of Hittite royal bloodlines and their supporters
@@ -1554,7 +1554,7 @@ But the bloodline hunt wasn't limited to royal families. The new Reges also syst
 **Preserved or co-opted:**
 
 - Religious traditions that emphasized human submission to divine authority
-- Mythological accounts that portrayed the old gods as distant and mysterious
+- Mythological accounts that portrayed the old Reges as distant and mysterious
 - Ritual systems that channeled human devotion toward invisible authorities
 - Priestly classes that served as intermediaries for the new system
 
@@ -1603,15 +1603,15 @@ As I traced the genealogies of post-conquest Reges, the pattern became clear. Th
 
 **Before the conquest:**
 
-- Egyptian pharaohs claimed to be living gods
+- Egyptian pharaohs claimed to be living Reges (echoes of the administrator-class, **The Reges**)
 - Mesopotamian kings claimed divine parentage
-- Hittite Reges claimed descent from storm gods
-- Mycenaean kings claimed descent from Zeus and other Olympians
+- Hittite Reges claimed descent from storm Reges (echoes of **The Reges**)
+- Mycenaean kings claimed descent from Zeus and other Olympians (cultural echoes of **The Reges**)
 
 **After the conquest:**
 
 - New Reges claimed divine appointment, not divine descent
-- Emphasis on being "chosen" by distant, invisible gods
+- Emphasis on being "chosen" by distant, invisible Reges
 - Systematic rejection of claims to divine bloodlines
 - Installation of human intermediaries rather than hybrid Reges
 
@@ -1623,8 +1623,8 @@ The new system was sophisticated in its simplicity. Instead of god-kings who rul
 
 **Key characteristics of the new system:**
 
-- Authority came from invisible, distant gods rather than present, physical ones
-- Reges were temporary appointees rather than permanent divine beings
+- Authority came from invisible, distant Reges rather than present, physical ones
+- Reges were temporary appointees rather than permanent administrator-class agents
 - Power could be transferred or withdrawn by the appointing authority
 - Human intermediaries (priests) interpreted divine will
 - Complex bureaucracies replaced direct divine administration
@@ -1635,7 +1635,7 @@ This system was much more controllable than the old god-king system. Appointed R
 
 But this raised the question that had been haunting my investigation: who was doing the appointing?
 
-The new kings claimed to be chosen by gods, but these gods were notably absent from direct involvement in human affairs. Unlike the old god-kings who were physically present and actively ruling, the new divine authorities remained invisible and communicated only through human intermediaries.
+The new kings claimed to be chosen by Reges, but these Reges were notably absent from direct involvement in human affairs. Unlike the old Reges who were physically present and actively ruling, the new authorities remained invisible and communicated only through human intermediaries.
 
 **Someone was still running the system, but they had moved into the shadows.**
 
@@ -1676,7 +1676,7 @@ These stories weren't preserving ancient wisdom - they were programming humans t
 The hero myths served multiple psychological functions:
 
 **Justification:** The old Reges were portrayed as "monsters" who deserved destruction
-**Celebration:** The elimination of enhanced beings was framed as heroic victory
+**Celebration:** The elimination of enhanced Wiros (hybrid warrior lineage) was framed as heroic victory
 **Normalization:** Being "normal" human was portrayed as superior to being enhanced
 **Submission:** Heroes succeeded through divine assistance, not independent power
 **Identification:** Humans were encouraged to identify with the "normal" heroes rather than the "monstrous" hybrids
@@ -1687,9 +1687,9 @@ The result was a population that celebrated the destruction of their own genetic
 
 One of the most consistent themes in post-conquest mythology is the systematic elimination of "giants." These weren't mythological creatures - they were the physical remnants of the hybrid bloodlines.
 
-**Biblical accounts:** The Nephilim and their descendants eliminated by Hebrew heroes
-**Greek mythology:** The Titans and Giants defeated by the Olympians and human heroes
-**Norse traditions:** The Jotuns systematically eliminated by gods and heroes
+**Biblical accounts:** The Nephilim (echo of **The Wiros**) and their descendants eliminated by Hebrew heroes
+**Greek mythology:** The Titans (echo of **The Werdh-anes**) and Giants (echo of **The Wiros**) defeated by the Olympians (echo of **The Reges**) and human heroes
+**Norse traditions:** The Jotuns (echo of **The Werdh-anes**) systematically eliminated by Reges and heroes
 **Celtic stories:** The Fomorians defeated and driven from the land
 
 The archaeological evidence supports these accounts. Skeletal remains from the Bronze Age show individuals of exceptional size and robust bone structure who disappear from the record after the conquest period.
@@ -1711,7 +1711,7 @@ The hero myths also served to codify what characteristics made someone a "monste
 
 - Advanced knowledge or wisdom
 - Consciousness capabilities beyond normal human range
-- Direct communication with non-physical entities
+- Direct communication with non-physical Reges
 - Ability to influence others through non-physical means
 
 **Social markers:**
@@ -1730,7 +1730,7 @@ But the most sophisticated aspect of the hero mythology was the savior programmi
 **The savior pattern:**
 
 - Humans are helpless against monsters/giants/hybrids
-- Only special heroes chosen by the new gods can defeat them
+- Only special heroes chosen by the new Reges can defeat them
 - Heroes succeed through divine assistance, not independent power
 - Victory requires submission to and cooperation with the new divine authorities
 - Salvation comes from above, not from human development or enhancement
@@ -1771,7 +1771,7 @@ The hero mythology succeeded in creating a population that would actively resist
 
 ## Chapter 15: Consensus Brief — Indo‑European Dispersal (4500–1500 BCE)
 
-Within our mythology, we explore resonances. This interlude presents the current scholarly control model for Indo‑European dispersal that we use to keep our inferences honest.
+Within our mythology, we explore resonances. This interlude presents the current scholarly control model for Indo‑European dispersal that we use to keep our inferences honest [see: References and Sources].
 
 ***
 
@@ -1795,12 +1795,12 @@ Under this model, similarities between Celtic and Vedic cultures are interpreted
 #### Contextual Notes
 
 - Battle of the Ten Kings (Rigveda): Commonly read as an internal subcontinental conflict among groups already settled in the region, not a dispersal that seeded Europe.
-- Genetics: Steppe‑related ancestry components are more pronounced in many northern Indian populations than southern, consistent with migration into (not out of) the subcontinent and subsequent admixture.
+- Genetics: Steppe‑related ancestry components are more pronounced in many northern Indian populations than southern, consistent with migration into (not out of) the subcontinent and subsequent admixture [see: References and Sources].
 
 #### What This Does and Doesn’t License
 
 - Does: Explain shared roots of language, deity names, some ritual shapes across far‑flung IE branches.
-- Doesn’t: Support an Out‑of‑India migration to Europe; turn poetic correspondences into claims of direct historical transmission without corroborating evidence.
+- Doesn’t: Support an Out‑of‑India migration to Europe; turn poetic correspondences into claims of direct historical transmission without corroborating evidence [see: References and Sources].
 
 Two stories can be true at once: the mythic rhyme that animates this investigation, and the scholarly control that bounds our claims. We proceed with both in view.
 
@@ -2308,6 +2308,26 @@ But the original titans who designed your consciousness capabilities are also pr
 The choice is yours. But choose consciously, because the future of human consciousness - and possibly consciousness itself - depends on what enough humans choose in this crucial moment.
 
 The experiment that began over a million years ago is entering its final phase. What happens next is up to you.
+
+
+## Chapter 19: References and Sources
+
+This appendix consolidates key references cited or implied in the narrative. It is not exhaustive, but provides representative sources for further study.
+
+### Indo‑European Dispersal (Consensus Brief)
+
+- J. P. Mallory (1989). In Search of the Indo‑Europeans: Language, Archaeology and Myth. Thames & Hudson.
+- David W. Anthony (2007). The Horse, the Wheel, and Language: How Bronze‑Age Riders from the Eurasian Steppes Shaped the Modern World. Princeton University Press.
+- Haak, W., et al. (2015). Massive migration from the steppe was a source for Indo‑European languages in Europe. Nature 522, 207–211.
+- Allentoft, M. E., et al. (2015). Population genomics of Bronze Age Eurasia. Nature 522, 167–172.
+- Reich, D. (2018). Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past. Pantheon.
+- Parpola, A. (2015). The Roots of Hinduism: The Early Aryans and the Indus Civilization. Oxford University Press.
+- Mallory & Adams (eds.) (2006/2009). Encyclopedia of Indo‑European Culture; Oxford Introduction to Proto‑Indo‑European and the Proto‑Indo‑European World.
+
+Notes:
+
+- These sources align with a Pontic‑Caspian steppe homeland (c. 4500–2500 BCE) and subsequent dispersals, with Indo‑Aryan movements into the subcontinent (~1500 BCE). They support inherited similarities across branches rather than an Out‑of‑India migration to Europe.
+
 
 
 ## Timeline of Human Management

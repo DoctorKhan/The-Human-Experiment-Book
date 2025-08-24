@@ -9,7 +9,7 @@ This wasn't random persecution. It was a coordinated operation that spanned cont
 As I traced the historical records, I found evidence of coordinated campaigns against specific bloodlines across vast distances:
 
 **The Mediterranean:** Systematic elimination of families claiming descent from the old Mycenaean royal houses
-**Mesopotamia:** Persecution of bloodlines claiming descent from the Anunnaki god-kings  
+**Mesopotamia:** Persecution of bloodlines claiming descent from the Anunnaki (cultural echo of **The Werdh-anes**) administrator-class
 **Egypt:** Elimination of certain pharaonic bloodlines while preserving others
 **The Levant:** Campaigns against the "giants" and "mighty men" mentioned in Hebrew texts
 **Anatolia:** Destruction of Hittite royal bloodlines and their supporters
@@ -30,7 +30,7 @@ But the bloodline hunt wasn't limited to royal families. The new Reges also syst
 **Preserved or co-opted:**
 
 - Religious traditions that emphasized human submission to divine authority
-- Mythological accounts that portrayed the old gods as distant and mysterious
+- Mythological accounts that portrayed the old Reges as distant and mysterious
 - Ritual systems that channeled human devotion toward invisible authorities
 - Priestly classes that served as intermediaries for the new system
 

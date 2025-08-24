@@ -94,7 +94,7 @@ But the most disturbing aspect of human neoteny isn't just its extent—it's the
 - Extended dependency periods are typically evolutionary disadvantages
 - The traits that make humans "domesticated" would normally be selected against in wild populations
 
-Standing in that lab, holding those skulls, I realized I might be looking at evidence of the most sophisticated genetic engineering project in Earth's history—one that had created a species designed to serve as consciousness vehicles for beings far more advanced than anything we could imagine.
+Standing in that lab, holding those skulls, I realized I might be looking at evidence of the most sophisticated genetic engineering project in Earth's history—one that had created a species designed to serve as consciousness vehicles for Reges far more advanced than anything we could imagine.
 
 
 > Inset: Activation vs. Domestication
@@ -115,11 +115,11 @@ They chose the long game. Over thousands of years, they systematically bred huma
 
 **The result was a species of permanent children who would instinctively seek parental authority figures.**
 
-## Why We Worship Gods
+## Why We Worship Reges
 
 This explains the most puzzling aspect of human behavior: our desperate need to worship authority figures.
 
-Look at every human society throughout history. We create father gods, mother goddesses, divine kings, holy fathers. We call our leaders "founding fathers" and our countries "motherlands" and "fatherlands."
+Look at every human society throughout history. We create father Reges, mother Reges, divine kings, holy fathers. We call our leaders "founding Reges" and our countries "motherlands" and "fatherlands."
 
 **It's not metaphorical. It's biological.** We seek authority figures the way children seek parents because we were bred to be children.
 
@@ -154,7 +154,7 @@ The domestication program created a three-tier system:
 
 But something went wrong with this system. The second and third-generation hybrids began developing unpredictable characteristics. Some were brilliant and benevolent, others were violent and destructive.
 
-The breeding program had created beings with enhanced capabilities but unstable genetics. They were becoming uncontrollable, threatening the entire management system.
+The breeding program had created Wiros (hybrid warrior lineage) with enhanced capabilities but unstable genetics. They were becoming uncontrollable, threatening the entire management system.
 
 **The flood was the first reset** - eliminating the most unstable hybrid bloodlines while preserving carefully selected pure human populations and loyal hybrid Reges.
 
@@ -230,11 +230,11 @@ But the most sophisticated aspect of the domestication program was the suppressi
 
 As I compiled this evidence, one question kept me awake at night: If we are a domesticated species bred to serve advanced Reges, and those Reges have been systematically eliminated through resets, who is running the management system now?
 
-The answer, I realized, lay in understanding the original architects of the domestication program. I had to trace the evidence back to its source - back to the beings who first arrived on Earth and began the systematic modification of human consciousness.
+The answer, I realized, lay in understanding the original architects of the domestication program. I had to trace the evidence back to its source—back to the Reges who first arrived on Earth and began the systematic modification of human consciousness.
 
 That investigation would reveal the deepest truth about human nature and our place in a cosmos far stranger and more managed than we ever imagined.
 
-You are not the product of natural evolution. You are the result of a million-year breeding program designed to create a species of permanent children who would serve as consciousness vehicles for beings far more advanced than anything you can imagine.
+You are not the product of natural evolution. You are the result of a million-year breeding program designed to create a species of permanent children who would serve as consciousness vehicles for Reges far more advanced than anything you can imagine.
 
 The question is: what are you going to do with this knowledge?
 
@@ -250,12 +250,12 @@ Cats, however, were designed for civilization. And they self-domesticated. They 
 
 This distinction changes everything.
 
-The evidence from the long 117,000-year bottleneck, the period of our most intense development, suddenly made sense. It was not a prison. It was a proving ground for the cat. Humans must have self-domesticated as well, in proximity to the ancients, the Titans. We were not their science project to be manipulated in a cage. We were a promising younger species who drew near to their cosmic fire, and in doing so, we began to change ourselves. We learned, we adapted, we civilized ourselves to be worthy of that proximity.
+The evidence from the long 117,000-year bottleneck, the period of our most intense development, suddenly made sense. It was not a prison. It was a proving ground for the cat. Humans must have self-domesticated as well, in proximity to the ancients, the Werdh-anes (from Proto-Indo-European root `*werdh-`, 'to grow, increase'). We were not their science project to be manipulated in a cage. We were a promising younger species who drew near to their cosmic fire, and in doing so, we began to change ourselves. We learned, we adapted, we civilized ourselves to be worthy of that proximity.
 
 This was the original experiment. The goal was to nurture a species that would choose partnership, that would be capable of standing as a junior partner in the cosmic game.
 
-And in this light, the actions of the Reges after the coup become infinitely more profane. They did not find a wild species and tame it. They found a species of cosmic cats learning to walk with gods, and in their fear and trauma, they treated us like wolves to be broken. They inflicted the master-slave dynamic upon a species that was learning the language of partnership.
+And in this light, the actions of the Reges after the coup become infinitely more profane. They did not find a wild species and tame it. They found a species of cosmic cats learning to walk with the Werdh-anes, and in their fear and trauma, they treated us like wolves to be broken. They inflicted the master-slave dynamic upon a species that was learning the language of partnership.
 
-Therefore, we were never meant to fawn over the gods. We were meant to be free. The desperate, aching need to worship, to submit, to find a master—this is not our nature. It is the scar tissue of the Reges' training collar, cinched tight around a soul that was born to walk alone, together. The great choice before us is to finally shed this imposed programming and remember the truth of our origins. We were not bred to be pets.
+Therefore, we were never meant to fawn over the Reges. We were meant to be free. The desperate, aching need to worship, to submit, to find a master—this is not our nature. It is the scar tissue of the Reges' training collar, cinched tight around a soul that was born to walk alone, together. The great choice before us is to finally shed this imposed programming and remember the truth of our origins. We were not bred to be pets.
 
-**We work with the gods.**
+**We work with the Werdh-anes.**

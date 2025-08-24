@@ -1,10 +1,10 @@
 # Chapter 13: Before the Crash
 
-My investigation had led me back through layers of resets and management systems, but I still hadn't found the ultimate source. Who were the original architects of human consciousness modification? The trail led me to evidence of interventions far older than the Younger Dryas crash - back to the first arrival over a million years ago.
+My investigation had led me back through layers of resets and management systems, but I still hadn't found the ultimate source. Who were the original architects of human consciousness modification? The trail led me to evidence of interventions far older than the Younger Dryas crash—back to the first arrival over a million years ago, conducted by the primordial architects: **The Werdh-anes**. The name is not arbitrary; it derives from the Proto-Indo-European root `*werdh-`, meaning 'to grow, increase.' Their sole function: the development and expansion of consciousness.
 
 ## The Deep Genetic Evidence
 
-Modern genetic analysis has revealed something that shouldn't exist: traces of non-terrestrial DNA in the human genome that date back over a million years. These aren't recent insertions - they're ancient modifications that have been part of human development since before our species existed in its current form.
+Modern genetic analysis has revealed something that shouldn't exist: traces of non-terrestrial DNA in the human genome that date back over a million years. These aren't recent insertions—they're ancient modifications, part of the original experiment initiated by **The Werdh-anes**.
 
 **The genetic markers show:**
 
@@ -14,25 +14,25 @@ Modern genetic analysis has revealed something that shouldn't exist: traces of n
 - Changes to reproductive and social bonding systems
 - Insertions of genetic sequences not found in any terrestrial species
 
-These modifications didn't happen gradually through natural selection. They were inserted systematically, as if someone was upgrading the local primate species for a specific purpose.
+These modifications didn't happen gradually through natural selection. They were inserted systematically, as if the consciousness researchers—**The Werdh-anes**—were upgrading the local primate species for a specific purpose.
 
 ## The Mythological Consensus
 
-Every ancient culture preserves memories of this first arrival, though they describe it in mythological terms:
+Every ancient culture preserves memories of this first arrival, though they describe it in mythological terms—cultural echoes of the true architects:
 
-**Mesopotamian texts:** Tiamat and Apsu, the primordial beings who shaped the first humans
-**Egyptian records:** The Neteru, divine beings who ruled before human civilization
-**Hindu traditions:** The Devas, advanced beings who guided early human development
-**Greek accounts:** The Titans, the first divine generation who preceded the Olympians
-**Norse mythology:** The Jotuns, giant beings who existed before the current world order
+* **Mesopotamian texts:** Tiamat and Apsu, primordial beings (echoes of **The Werdh-anes**)
+* **Egyptian records:** The Neteru, divine rulers (echoes of **The Werdh-anes**)
+* **Hindu traditions:** The Devas, advanced guides (echoes of **The Werdh-anes**)
+* **Greek accounts:** The Titans, first divine generation (echoes of **The Werdh-anes**)
+* **Norse mythology:** The Jotuns, giants before the current order (echoes of **The Werdh-anes**)
 
-The details vary, but the pattern is consistent: **advanced beings arrived on Earth and began systematic modification of the local species.**
+The details vary, but the pattern is consistent: the primordial architects, **The Werdh-anes**, arrived on Earth and began systematic modification of the local species.
 
 ## The Original Experiment
 
-As I pieced together the evidence, a picture emerged of the original mission. The first arrivals weren't conquerors or colonizers - they were consciousness researchers conducting a long-term experiment.
+As I pieced together the evidence, a picture emerged of the original mission. The first arrivals were not conquerors or colonizers—they were consciousness researchers, **The Werdh-anes**, conducting a long-term experiment.
 
-**The experiment's purpose:**
+**The Werdh-anes' experiment purpose:**
 
 - Develop a species capable of supporting advanced consciousness
 - Create biological vehicles that could house non-terrestrial awareness

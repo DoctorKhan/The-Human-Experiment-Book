@@ -1,12 +1,12 @@
 # Chapter 15: The Experiment Begins
 
-As I reached the deepest layer of my investigation, I finally understood the true scope of what had been done to humanity. We are not the product of natural evolution. We are not even the result of a single intervention. We are the outcome of a million-year experiment in consciousness development that began when the first titans arrived on Earth.
+As I reached the deepest layer of my investigation, I finally understood the true scope of what had been done to humanity. We are not the product of natural evolution. We are not even the result of a single intervention. We are the outcome of a million-year experiment in consciousness development that began when the primordial architects, **The Werdh-anes** (from Proto-Indo-European root `*werdh-`, 'to grow, increase'), arrived on Earth.
 
 ## The Original Design
 
-The evidence I uncovered reveals that Tiamat and Apsu didn't come to Earth as conquerors or colonizers. They came as consciousness researchers, and Earth was their laboratory.
+The evidence I uncovered reveals that Tiamat and Apsu—cultural echoes of **The Werdh-anes**—didn't come to Earth as conquerors or colonizers. They came as consciousness researchers, and Earth was their laboratory.
 
-**Their mission was unprecedented:**
+**The Werdh-anes' mission was unprecedented:**
 
 - Create a biological species capable of housing advanced consciousness
 - Develop vehicles that could support non-terrestrial awareness in physical form
@@ -17,7 +17,7 @@ The scale of this experiment is almost impossible to comprehend. Over hundreds o
 
 ## The Consciousness Vehicles
 
-But here's what I found most disturbing: humans weren't designed to be independent beings. We were designed to be consciousness vehicles - biological bodies that could house and support non-terrestrial awareness.
+But here's what I found most disturbing: humans weren't designed to be independent beings. We were designed to be consciousness vehicles—biological bodies that could house and support non-terrestrial awareness, as intended by **The Werdh-anes**.
 
 **The modifications included:**
 

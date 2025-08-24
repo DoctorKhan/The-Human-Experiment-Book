@@ -17,7 +17,7 @@ The solution was the Proto-Indo-European creation myth that spread across cultur
 **The Myth Structure:**
 
 - **Primordial Being**: A living, conscious cosmos (representing the original worldview)
-- **The Dismemberment**: The being is killed and carved up by younger gods
+- **The Dismemberment**: The being is killed and carved up by younger Reges
 - **The New Creation**: The corpse becomes the material world—bones become mountains, blood becomes rivers, flesh becomes soil
 
 This was the master program—a philosophical kill switch for empathy with nature. The original worldview was that the cosmos was a living being to be cultivated and respected. This myth replaced that with a new truth: **the world is a corpse**.
@@ -25,7 +25,7 @@ This was the master program—a philosophical kill switch for empathy with natur
 This myth is the philosophical foundation of a being who can no longer perceive the world as alive because they themselves are cut off from its living essence. If the **Tree of Life** is inaccessible, then the world must be a corpse, and its resources are simply materials to be consumed.
 
 
-> The corruption was precise: the original human instinct was not to worship masters, but to partner with mentors. The Reges did not invent devotion; they hacked it—rewriting a cat’s choice to live near the fire into a dog’s training to serve the throne. Our ache for absent gods is a misdirected memory of partnership, not a natural urge to fawn.
+> The corruption was precise: the original human instinct was not to worship masters, but to partner with mentors. The Reges did not invent devotion; they hacked it—rewriting a cat’s choice to live near the fire into a dog’s training to serve the throne. Our ache for absent Reges is a misdirected memory of partnership, not a natural urge to fawn.
 
 You are not harming a living thing by mining it, drilling it, or clear-cutting it. You are simply utilizing raw materials from a dead giant. This single story de-animates the cosmos and serves as the eternal permit for resource extraction.
 
@@ -63,7 +63,7 @@ The Greek myth of Prometheus provided the perfect template:
 - **The Punishment**: Zeus tortures Prometheus eternally as a warning to other divine whistleblowers
 - **The Countermeasure**: Zeus sends Pandora's Box to humanity, releasing toil, disease, and despair
 
-"Fire" was not literal fire—it was the spark of consciousness technology, the knowledge of self-liberation. Zeus's eternal torture of Prometheus was a brutal message to any other divine beings who might consider helping humanity: **this is what happens to whistleblowers**.
+"Fire" was not literal fire—it was the spark of consciousness technology, the knowledge of self-liberation. Zeus's eternal torture of Prometheus was a brutal message to any other Reges who might consider helping humanity: **this is what happens to whistleblowers**.
 
 But the most insidious part was Pandora's Box—the malware patch. The story programs humans to believe that seeking forbidden knowledge brings suffering. Every time humans reach for consciousness technologies, they unconsciously expect punishment, toil, and despair to follow.
 
@@ -155,11 +155,11 @@ This is not the behavior of a wild species—it is the behavior of a domestic an
 
 **The Behavioral Programming Suite:**
 
-**Religious Worship**: Every human culture developed elaborate systems for worshipping invisible authorities because the worship imperative was installed as part of the control system. The gods demand obedience and sacrifice because that's what the program was designed to extract.
+**Religious Worship**: Every human culture developed elaborate systems for worshipping invisible authorities because the worship imperative was installed as part of the control system. The Reges demand obedience and sacrifice because that's what the program was designed to extract.
 
 **Political Worship**: Humans consistently elevate political leaders to near-divine status because the worship program transfers to any available authority figure when the original masters are absent.
 
-**Celebrity Worship**: Modern humans transfer religious devotion to entertainers, athletes, and social media influencers because the worship imperative must find targets—creating new pantheons of secular gods to fill the void left by the absent creators.
+**Celebrity Worship**: Modern humans transfer religious devotion to entertainers, athletes, and social media influencers because the worship imperative must find targets—creating new pantheons of secular Reges to fill the void left by the absent creators.
 
 **Institutional Worship**: Humans show reverence for abstract institutions—corporations, universities, governments—because the worship program will attach to any available authority structure when the original masters are absent.
 
@@ -183,27 +183,27 @@ When we stop calling it "sacrifice" and recognize it as "primordial taxation," t
 
 **Economic Sacrifice**: Humans willingly impoverish themselves to support religious institutions, political movements, and corporate entities because the taxation program has adapted to modern economic systems while maintaining its essential function.
 
-We are hardwired to give away our resources to entities that don't exist because we were programmed to give away our resources to entities that once existed but are now absent. From an evolutionary perspective, this behavior should have been eliminated, but from a programming perspective, it is working exactly as designed—continuing to extract tribute even when the original recipients are no longer present to collect it.
+We are hardwired to give away our resources to Reges that don't exist because we were programmed to give away our resources to Reges that once existed but are now absent. From an evolutionary perspective, this behavior should have been eliminated, but from a programming perspective, it is working exactly as designed—continuing to extract tribute even when the original recipients are no longer present to collect it.
 
 ## The Great Absence: Memory of the Withdrawal
 
-The mythological record preserves the memory of what actually happened. In the earliest cultures, the spirits are everywhere because that reflects the original world before the coup—when consciousness was recognized in all things. But in every "advanced" civilization, the great gods are absent because that reflects the post-coup reality when **The Reges** withdrew direct contact and established control through intermediaries.
+The mythological record preserves the memory of what actually happened. In the earliest cultures, the spirits are everywhere because that reflects the original world before the coup—when consciousness was recognized in all things. But in every "advanced" civilization, the great Reges are absent because that reflects the post-coup reality when **The Reges** withdrew direct contact and established control through intermediaries.
 
 Every major civilization tells the same story because it is the same story: the great creators were once present, but now they are gone. We do not universally invent stories about being abandoned—we universally remember being abandoned.
 
 **The Pattern Preserves the History:**
 
-**Mesopotamian Mythology**: The gods who had once walked among humans but had withdrawn to the heavens—memory of **The Reges'** withdrawal after establishing control systems.
+**Mesopotamian Mythology**: The Reges who had once walked among humans but had withdrawn to the heavens—memory of **The Reges'** withdrawal after establishing control systems.
 
-**Greek Mythology**: The Titans who had been overthrown and banished, leaving humans to serve distant Olympians—memory of the coup that replaced the Gardeners with **The Reges**.
+**Greek Mythology**: The Titans (echo of **The Werdh-anes**) who had been overthrown and banished, leaving humans to serve distant Olympians (echo of **The Reges**)—memory of the coup that replaced the Gardeners with **The Reges**.
 
 **Hebrew Tradition**: A God who had once walked in the Garden of Eden but now remained hidden—memory of the original consciousness experiment and its subsequent termination.
 
-**Hindu Tradition**: The Devas who had once been present on Earth but had withdrawn to higher realms—memory of the Sages going underground after the coup.
+**Hindu Tradition**: The Devas (echo of **The Werdh-anes**) who had once been present on Earth but had withdrawn to higher realms—memory of the Sages going underground after the coup.
 
 **Native American Traditions**: The Star People who had once lived among humans but had returned to the sky—memory of the crash survivors eventually withdrawing from direct human contact.
 
-Every advanced culture has the same story because they are all preserving corrupted memories of the same historical events. Humans do not consistently invent stories about abandoned gods—they consistently remember abandoned gods because they were actually abandoned.
+Every advanced culture has the same story because they are all preserving corrupted memories of the same historical events. Humans do not consistently invent stories about abandoned Reges—they consistently remember abandoned Reges because they were actually abandoned.
 
 The case of the Mesopotamian **Apkallu** is particularly revealing. These seven semi-divine sages who advised humanity's first kings directly represent the Sages' direct guidance system. After the great flood (the genetic reset), they vanish completely, replaced by purely human advisors because **The Reges** had severed the direct line of communication and established human middle management.
 

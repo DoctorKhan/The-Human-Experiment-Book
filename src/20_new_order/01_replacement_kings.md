@@ -10,15 +10,15 @@ As I traced the genealogies of post-conquest Reges, the pattern became clear. Th
 
 **Before the conquest:**
 
-- Egyptian pharaohs claimed to be living gods
+- Egyptian pharaohs claimed to be living Reges (echoes of the administrator-class, **The Reges**)
 - Mesopotamian kings claimed divine parentage
-- Hittite Reges claimed descent from storm gods
-- Mycenaean kings claimed descent from Zeus and other Olympians
+- Hittite Reges claimed descent from storm Reges (echoes of **The Reges**)
+- Mycenaean kings claimed descent from Zeus and other Olympians (cultural echoes of **The Reges**)
 
 **After the conquest:**
 
 - New Reges claimed divine appointment, not divine descent
-- Emphasis on being "chosen" by distant, invisible gods
+- Emphasis on being "chosen" by distant, invisible Reges
 - Systematic rejection of claims to divine bloodlines
 - Installation of human intermediaries rather than hybrid Reges
 
@@ -30,8 +30,8 @@ The new system was sophisticated in its simplicity. Instead of god-kings who rul
 
 **Key characteristics of the new system:**
 
-- Authority came from invisible, distant gods rather than present, physical ones
-- Reges were temporary appointees rather than permanent divine beings
+- Authority came from invisible, distant Reges rather than present, physical ones
+- Reges were temporary appointees rather than permanent administrator-class agents
 - Power could be transferred or withdrawn by the appointing authority
 - Human intermediaries (priests) interpreted divine will
 - Complex bureaucracies replaced direct divine administration
@@ -42,7 +42,7 @@ This system was much more controllable than the old god-king system. Appointed R
 
 But this raised the question that had been haunting my investigation: who was doing the appointing?
 
-The new kings claimed to be chosen by gods, but these gods were notably absent from direct involvement in human affairs. Unlike the old god-kings who were physically present and actively ruling, the new divine authorities remained invisible and communicated only through human intermediaries.
+The new kings claimed to be chosen by Reges, but these Reges were notably absent from direct involvement in human affairs. Unlike the old Reges who were physically present and actively ruling, the new authorities remained invisible and communicated only through human intermediaries.
 
 **Someone was still running the system, but they had moved into the shadows.**
 

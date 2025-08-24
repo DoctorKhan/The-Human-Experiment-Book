@@ -10,8 +10,8 @@ As I analyzed the oral traditions that survived the Bronze Age collapse, I reali
 
 - Detailed flood myths with specific technical details
 - Genealogies of divine bloodlines and their human descendants  
-- Accounts of gods walking among humans and interbreeding with them
-- Tales of a golden age when divine beings ruled directly
+- Accounts of Reges walking among humans and interbreeding with them
+- Tales of a golden age when Reges ruled directly
 - Prophecies about the return of divine rule
 
 **Stories that were eliminated:**
@@ -22,7 +22,7 @@ As I analyzed the oral traditions that survived the Bronze Age collapse, I reali
 - Details about how the god-king system actually functioned
 - Information about the managers behind the divine rulers
 
-The pattern was clear: **they preserved the memory that gods had once ruled, but eliminated all practical knowledge about how that system worked.**
+The pattern was clear: **they preserved the memory that Reges had once ruled, but eliminated all practical knowledge about how that system worked.**
 
 ## The Hero Mythology
 
@@ -52,7 +52,7 @@ The systematic nature of this memory manipulation becomes clear when you analyze
 
 **Words that were preserved or created:**
 
-- General terms for "gods" and "divine beings"
+- General terms for "Reges" and "administrator-class agents"
 - Mythological vocabulary for supernatural events
 - Hero terminology celebrating the defeat of "monsters"
 - Religious language emphasizing human submission to divine authority
@@ -100,7 +100,7 @@ The most sophisticated aspect of the memory war was the transformation of religi
 
 **New religious system:**
 
-- Worship of distant, invisible gods who required human intermediaries
+- Worship of distant, invisible Reges who required human intermediaries
 - Faith-based belief systems that discouraged direct investigation
 - Emphasis on human unworthiness and need for divine guidance
 - Passive reception of religious instruction from approved authorities
@@ -113,7 +113,7 @@ As I studied the preserved stories, I realized they weren't just historical acco
 
 **The flood myths taught:**
 
-- Divine beings have the power to destroy humanity at will
+- Reges have the power to destroy humanity at will
 - Survival depends on obedience to divine authority
 - Questioning divine decisions leads to destruction
 - Only the "righteous" (obedient) are preserved
@@ -121,7 +121,7 @@ As I studied the preserved stories, I realized they weren't just historical acco
 **The hero myths taught:**
 
 - "Monsters" and "giants" (hybrids) are evil and must be destroyed
-- Normal humans can defeat superior beings through cunning and divine help
+- Normal humans can defeat superior Reges through cunning and help from the Werdh-anes
 - The old order was corrupt and deserved destruction
 - The new order represents justice and righteousness
 

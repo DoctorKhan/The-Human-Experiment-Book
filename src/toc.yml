@@ -66,6 +66,9 @@ structure:
       - title: "The Choice Point"
         file: "60_modern_inheritance/03_choice_point.md"
 
+      - title: "References and Sources"
+        file: "90_appendix/00_references.md"
+
   - type: appendix
     title: "Appendices"
     chapters:

@@ -30,7 +30,7 @@ These stories weren't preserving ancient wisdom - they were programming humans t
 The hero myths served multiple psychological functions:
 
 **Justification:** The old Reges were portrayed as "monsters" who deserved destruction
-**Celebration:** The elimination of enhanced beings was framed as heroic victory
+**Celebration:** The elimination of enhanced Wiros (hybrid warrior lineage) was framed as heroic victory
 **Normalization:** Being "normal" human was portrayed as superior to being enhanced
 **Submission:** Heroes succeeded through divine assistance, not independent power
 **Identification:** Humans were encouraged to identify with the "normal" heroes rather than the "monstrous" hybrids
@@ -41,9 +41,9 @@ The result was a population that celebrated the destruction of their own genetic
 
 One of the most consistent themes in post-conquest mythology is the systematic elimination of "giants." These weren't mythological creatures - they were the physical remnants of the hybrid bloodlines.
 
-**Biblical accounts:** The Nephilim and their descendants eliminated by Hebrew heroes
-**Greek mythology:** The Titans and Giants defeated by the Olympians and human heroes
-**Norse traditions:** The Jotuns systematically eliminated by gods and heroes
+**Biblical accounts:** The Nephilim (echo of **The Wiros**) and their descendants eliminated by Hebrew heroes
+**Greek mythology:** The Titans (echo of **The Werdh-anes**) and Giants (echo of **The Wiros**) defeated by the Olympians (echo of **The Reges**) and human heroes
+**Norse traditions:** The Jotuns (echo of **The Werdh-anes**) systematically eliminated by Reges and heroes
 **Celtic stories:** The Fomorians defeated and driven from the land
 
 The archaeological evidence supports these accounts. Skeletal remains from the Bronze Age show individuals of exceptional size and robust bone structure who disappear from the record after the conquest period.
@@ -65,7 +65,7 @@ The hero myths also served to codify what characteristics made someone a "monste
 
 - Advanced knowledge or wisdom
 - Consciousness capabilities beyond normal human range
-- Direct communication with non-physical entities
+- Direct communication with non-physical Reges
 - Ability to influence others through non-physical means
 
 **Social markers:**
@@ -84,7 +84,7 @@ But the most sophisticated aspect of the hero mythology was the savior programmi
 **The savior pattern:**
 
 - Humans are helpless against monsters/giants/hybrids
-- Only special heroes chosen by the new gods can defeat them
+- Only special heroes chosen by the new Reges can defeat them
 - Heroes succeed through divine assistance, not independent power
 - Victory requires submission to and cooperation with the new divine authorities
 - Salvation comes from above, not from human development or enhancement

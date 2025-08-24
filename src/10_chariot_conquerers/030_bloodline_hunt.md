@@ -1,6 +1,6 @@
 # Chapter 2: The Bloodline Hunt
 
-The more I researched the Bronze Age destruction, the more I realized the chariot conquerers weren't just destroying cities - they were hunting people. Specific people. Families who claimed descent from the old gods.
+The more I researched the Bronze Age destruction, the more I realized the chariot conquerers weren't just destroying cities—they were hunting people. Specific people. Families who claimed descent from the old Reges (administrator-class agents).
 
 ## The Genetic Targeting
 
@@ -16,22 +16,22 @@ I started mapping the genealogies of Bronze Age royal families, and a disturbing
 
 **Eliminated bloodlines:**
 
-- Hittite royal family (claimed descent from storm gods)
-- Mycenaean royal houses (claimed descent from Zeus and other Olympians)  
+- Hittite royal family (claimed descent from storm Reges)
+- Mycenaean royal houses (claimed descent from Zeus and other Olympians, cultural echoes of **The Reges**)  
 - Mesopotamian god-kings (claimed direct divine parentage)
-- Egyptian pharaohs of certain dynasties (claimed to be living gods)
+- Egyptian pharaohs of certain dynasties (claimed to be living Reges)
 
 **Preserved bloodlines:**
 
 - Tribal leaders who claimed divine appointment, not divine descent
-- Priestly families who served gods but didn't claim to be descended from them
+- Priestly families who served Reges but didn't claim to be descended from them
 - Merchant families with no claims to divine heritage
 
-The pattern was clear: **families claiming to be descended from gods were systematically eliminated, while families claiming to serve gods were preserved.**
+The pattern was clear: **families claiming to be descended from Reges were systematically eliminated, while families claiming to serve Reges were preserved.**
 
 ## The Nephilim Connection
 
-As I studied the preserved oral traditions, I kept encountering references to "giants" and "mighty men of old" who had ruled before the flood. The Hebrew texts called them Nephilim - the offspring of "sons of God" and "daughters of men."
+As I studied the preserved oral traditions, I kept encountering references to "giants" and "mighty men of old" who had ruled before the flood. The Hebrew texts called them Nephilim—hybrid warrior lineage, echo of **The Wiros**—the offspring of "sons of Reges" and "daughters of men."
 
 These weren't mythological figures. They were the genetic lineages that the Bronze Age royal families claimed descent from. The families that were being systematically hunted and eliminated.
 
@@ -95,7 +95,7 @@ Compare wolves to dogs, wild boars to pigs, wild cats to house cats. Domesticate
 
 This explains something that had always puzzled me about human behavior: our desperate need for authority figures.
 
-Look at every human society throughout history. We create father gods, mother goddesses, divine kings, holy fathers. We call our leaders "founding fathers" and our countries "motherlands" and "fatherlands." We seek authority figures the way children seek parents.
+Look at every human society throughout history. We create father Reges, mother Reges, divine kings, holy fathers. We call our leaders "founding Reges" and our countries "motherlands" and "fatherlands." We seek authority figures the way children seek parents.
 
 **It's not metaphorical. It's biological.** We were bred to be dependent children who would always need shepherds, always need to be managed, always need to be told what to do by our betters.
 
@@ -109,7 +109,7 @@ But something had gone wrong with the system. The second and third-generation hy
 
 ## The New Management
 
-After the Bronze Age destruction, a new type of ruler emerged. Instead of claiming "I am descended from gods," they claimed "God chose me to rule."
+After the Bronze Age destruction, a new type of ruler emerged. Instead of claiming "I am descended from Reges," they claimed "Reges chose me to rule."
 
 This was a completely different system. Instead of hybrid god-kings managing humans directly, there were now human rulers who claimed to represent divine authority.
 
@@ -119,6 +119,6 @@ This was a completely different system. Instead of hybrid god-kings managing hum
 
 As I compiled this evidence, one question kept me awake at night: If humans were domesticated by hybrid god-kings, and those god-kings were eliminated in systematic resets, who was running the management system now?
 
-The answer, I realized, lay in understanding the original source of the hybrid bloodlines. I had to trace them back to their origins - back to the world before the flood, when gods supposedly walked among humans.
+The answer, I realized, lay in understanding the original source of the hybrid bloodlines. I had to trace them back to their origins—back to the world before the flood, when Reges supposedly walked among humans.
 
 That investigation would reveal the true architects of human domestication and the ongoing management system that shapes our world today.
