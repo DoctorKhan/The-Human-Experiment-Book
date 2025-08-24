@@ -10,7 +10,7 @@
 
 *She gestured to the data, then to herself, then to each of them.*
 
-*"The schism between the Gardeners' consciousness development approach and the Rulers' control system—it became the blueprint for the two ways humanity organizes itself: as an Engine, and as a Family."*
+*"The schism between **The Werdh-anes'** consciousness development approach and **The Reges'** control system—it became the blueprint for the two ways humanity organizes itself: as an Engine, and as a Family."*
 
 *Dr. Morrison felt a chill of recognition. "You're saying we can see the ancient conflict in... everything?"*
 

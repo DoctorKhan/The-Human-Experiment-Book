@@ -4,6 +4,9 @@ As I traced the bloodlines backward through time, I discovered something that ch
 
 The pre-flood world wasn't a primitive society struggling for survival. It was an advanced civilization ruled by hybrid lineages created by the primordial architects, **The Werdh-anes** (from Proto-Indo-European root `*werdh-`, 'to grow, increase'), whose sole function was the development and expansion of consciousness.
 
+In this investigation, we will use the precise functional designation **The Werdh‑anes** for the primordial architects (PIE `*werdh-`, “to grow, increase”). This replaces culture‑bound names except when quoting or describing cultural echoes.
+
+
 ## The Werdh-anes System
 
 The evidence for direct rule by the consciousness researchers, **The Werdh-anes**, in the pre-flood world is overwhelming once you know what to look for:
@@ -22,8 +25,8 @@ Every ancient culture preserves detailed accounts of a time when the primordial 
 **Mesopotamian records:** The Anunnaki (echo of **The Werdh-anes**) who ruled before the flood
 **Egyptian texts:** The Neteru (echo of **The Werdh-anes**) who governed during the "First Time"
 **Hindu traditions:** The Devas (echo of **The Werdh-anes**) who ruled during the golden ages
-**Greek accounts:** The age when gods (echo of **The Werdh-anes**) walked among mortals
-**Hebrew texts:** The time when "sons of The Werdh-anes" took human wives
+**Greek accounts:** The age when **The Werdh-anes** walked among mortals
+**Hebrew texts:** The time when "sons of **The Werdh-anes**" took human wives
 **Chinese records:** The divine emperors (echo of **The Werdh-anes**) who ruled in the earliest dynasties
 
 The details vary, but the core elements are consistent:
@@ -47,20 +50,20 @@ The pre-flood Werdh-anes weren't just ruling over humans—they were creating hy
 - Development of unusual sensory capabilities
 - Creation of bloodlines with characteristics intermediate between human and divine
 
-These weren't random genetic mutations. They were systematic enhancements designed to create beings capable of bridging the gap between human and divine consciousness.
+These weren't random genetic mutations. They were systematic enhancements designed to create beings capable of bridging the gap between human and Werdhan consciousness.
 
 ## The Management System
 
 The pre-flood world operated on a three-tier management system:
 
-**Tier 1: The Divine Rulers** - Pure divine beings with full consciousness capabilities
+**Tier 1: The Werdhan Rulers** - Pure **Werdh-anes** with full consciousness capabilities
 
 - Direct access to advanced knowledge and technology
 - Extremely long lifespans (thousands of years)
 - Advanced consciousness abilities (telepathy, remote viewing, etc.)
 - Responsibility for overall guidance of human development
 
-**Tier 2: The Hybrid God-Kings** - Divine-human crosses with enhanced capabilities
+**Tier 2: The Hybrid God-Kings** - Werdhan-human crosses with enhanced capabilities
 
 - Enhanced physical and mental abilities
 - Extended lifespans (hundreds of years)
@@ -101,7 +104,7 @@ The pre-flood hybrid bloodlines possessed capabilities that seem impossible by m
 - Interface with non-physical dimensions of reality
 - Ability to influence matter and energy through consciousness
 
-These weren't mythological abilities - they were the genetic inheritance of beings designed to bridge human and divine consciousness.
+These weren't mythological abilities - they were the genetic inheritance of beings designed to bridge human and Werdhan consciousness.
 
 ## The Technological Infrastructure
 

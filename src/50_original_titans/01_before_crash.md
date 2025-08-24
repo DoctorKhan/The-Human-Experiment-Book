@@ -2,6 +2,9 @@
 
 My investigation had led me back through layers of resets and management systems, but I still hadn't found the ultimate source. Who were the original architects of human consciousness modification? The trail led me to evidence of interventions far older than the Younger Dryas crash—back to the first arrival over a million years ago, conducted by the primordial architects: **The Werdh-anes**. The name is not arbitrary; it derives from the Proto-Indo-European root `*werdh-`, meaning 'to grow, increase.' Their sole function: the development and expansion of consciousness.
 
+For the primordial architects, we will use their correct operational title: **The Werdh‑anes** — from the Proto‑Indo‑European root `*werdh-`, “to grow, increase.” This is a functional designation for the original gardeners/architects whose mission was the development and expansion of consciousness. Cultural echoes include Anunnaki, Titans, Vanir, and Devas.
+
+
 ## The Deep Genetic Evidence
 
 Modern genetic analysis has revealed something that shouldn't exist: traces of non-terrestrial DNA in the human genome that date back over a million years. These aren't recent insertions—they're ancient modifications, part of the original experiment initiated by **The Werdh-anes**.

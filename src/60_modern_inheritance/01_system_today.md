@@ -8,7 +8,7 @@
 
 Dr. Chen pulled up his analysis of modern institutions, his expression grim.
 
-"The Rulers' greatest achievement wasn't building pyramids or conquering territories," he said. "It was creating a control system so sophisticated that the controlled would never recognize it as control. They would experience it as freedom, choice, and progress."
+"**The Reges'** greatest achievement wasn't building pyramids or conquering territories," he said. "It was creating a control system so sophisticated that the controlled would never recognize it as control. They would experience it as freedom, choice, and progress."
 
 **The Modern Control Matrix:**
 
@@ -88,7 +88,7 @@ Dr. Vasquez connected the ancient control systems to modern corporate culture.
 
 **Sports Entertainment**: Channeling tribal energy into harmless competition while maintaining social hierarchies.
 
-**Celebrity Worship**: Providing substitute gods for the worship imperative while keeping real power invisible.
+**Celebrity Worship**: Providing substitute **Reges** for the worship imperative while keeping real power invisible.
 
 **Consumer Culture**: Redirecting the sacrifice compulsion into purchasing behaviors that fuel the economic engine.
 

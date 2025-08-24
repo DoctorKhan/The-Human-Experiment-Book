@@ -1,6 +1,6 @@
 # Chapter 5: Hunting the Survivors
 
-The Bronze Age conquest wasn't the end of the bloodline elimination - it was just the beginning. For the next several centuries, the new Reges conducted a systematic campaign to hunt down anyone who claimed descent from the old god-kings.
+The Bronze Age conquest wasn't the end of the bloodline elimination - it was just the beginning. For the next several centuries, the new **Reges** conducted a systematic campaign to hunt down anyone who claimed descent from the old god-kings.
 
 This wasn't random persecution. It was a coordinated operation that spanned continents and lasted for generations.
 
@@ -29,8 +29,8 @@ But the bloodline hunt wasn't limited to royal families. The new Reges also syst
 
 **Preserved or co-opted:**
 
-- Religious traditions that emphasized human submission to divine authority
-- Mythological accounts that portrayed the old Reges as distant and mysterious
+- Religious traditions that emphasized human submission to Regal authority
+- Mythological accounts that portrayed the old **Reges** as distant and mysterious
 - Ritual systems that channeled human devotion toward invisible authorities
 - Priestly classes that served as intermediaries for the new system
 

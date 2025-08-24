@@ -115,7 +115,7 @@ They chose the long game. Over thousands of years, they systematically bred huma
 
 **The result was a species of permanent children who would instinctively seek parental authority figures.**
 
-## Why We Worship Reges
+## Why We Worship **The Reges**
 
 This explains the most puzzling aspect of human behavior: our desperate need to worship authority figures.
 

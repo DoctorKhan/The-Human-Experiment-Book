@@ -43,7 +43,7 @@ One of the most consistent themes in post-conquest mythology is the systematic e
 
 **Biblical accounts:** The Nephilim (echo of **The Wiros**) and their descendants eliminated by Hebrew heroes
 **Greek mythology:** The Titans (echo of **The Werdh-anes**) and Giants (echo of **The Wiros**) defeated by the Olympians (echo of **The Reges**) and human heroes
-**Norse traditions:** The Jotuns (echo of **The Werdh-anes**) systematically eliminated by Reges and heroes
+**Norse traditions:** The Jotuns (echo of **The Werdh-anes**) systematically eliminated by **Reges** and heroes
 **Celtic stories:** The Fomorians defeated and driven from the land
 
 The archaeological evidence supports these accounts. Skeletal remains from the Bronze Age show individuals of exceptional size and robust bone structure who disappear from the record after the conquest period.
@@ -79,14 +79,14 @@ Anyone displaying these characteristics was coded as a "monster" worthy of elimi
 
 ## The Savior Programming
 
-But the most sophisticated aspect of the hero mythology was the savior programming. Humans were taught that they needed heroes to save them from monsters, but these heroes always served the new divine order.
+But the most sophisticated aspect of the hero mythology was the savior programming. Humans were taught that they needed heroes to save them from monsters, but these heroes always served the new Regal order.
 
 **The savior pattern:**
 
 - Humans are helpless against monsters/giants/hybrids
-- Only special heroes chosen by the new Reges can defeat them
-- Heroes succeed through divine assistance, not independent power
-- Victory requires submission to and cooperation with the new divine authorities
+- Only special heroes chosen by the new **Reges** can defeat them
+- Heroes succeed through Regal assistance, not independent power
+- Victory requires submission to and cooperation with the new Regal authorities
 - Salvation comes from above, not from human development or enhancement
 
 This programming created a population that would always look for external saviors rather than developing their own capabilities.

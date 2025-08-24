@@ -10,6 +10,9 @@
 
 *She gestured to the data, then to her own genetic profile.*
 
+
+For the preservation lineage, we will use the precise functional designation: **The Alba** — from the Proto‑Indo‑European root `*albho-`, “white, bright.” The Alba were the preservation network engineered by **The Gneh‑tah** to carry forward the original **Werdh‑anes** knowledge. Cultural echoes include Elves (Germanic), Tuatha Dé Danann (Celtic), and Álfar (Norse).
+
 *"The Alba. The preservation network we've been theorizing about—they didn't just preserve knowledge. They preserved the genetic capacity for consciousness development. And the markers are everywhere."*
 
 *Dr. Morrison leaned forward, studying the genetic data with growing excitement. "You're saying there's a hidden network of enhanced bloodlines?"*

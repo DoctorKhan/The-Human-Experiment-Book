@@ -2,6 +2,9 @@
 
 With the coup complete and the emergency protocols activated, **The Reges** faced a new challenge: how to maintain permanent control over a species that had been designed for consciousness evolution and eventual independence. Physical force alone would not be sufficient. They needed something more sophisticated, more permanent, more self-sustaining.
 
+For clarity and precision, we will use their correct operational title: **The Reges** — from the Proto‑Indo‑European root `*h₃rḗǵs` meaning “ruler, king.” This is not a creative name but a functional designation for the administrator‑class who staged the coup and then managed humanity through a control architecture.
+
+
 They needed to reprogram human consciousness itself.
 
 The solution was elegant in its brutality: ideological software. Stories that would run in the background of human awareness, shaping perception, justifying control, and making liberation literally unthinkable. These were not mere myths or entertainment—they were cognitive viruses designed to rewrite the human operating system.
@@ -17,7 +20,7 @@ The solution was the Proto-Indo-European creation myth that spread across cultur
 **The Myth Structure:**
 
 - **Primordial Being**: A living, conscious cosmos (representing the original worldview)
-- **The Dismemberment**: The being is killed and carved up by younger Reges
+- **The Dismemberment**: The being is killed and carved up by younger **Reges**
 - **The New Creation**: The corpse becomes the material world—bones become mountains, blood becomes rivers, flesh becomes soil
 
 This was the master program—a philosophical kill switch for empathy with nature. The original worldview was that the cosmos was a living being to be cultivated and respected. This myth replaced that with a new truth: **the world is a corpse**.
@@ -38,6 +41,9 @@ The second piece of software was even more insidious. **The Reges** needed to de
 The solution was the widespread pattern of dragon-slaying myths: Thor and Jörmungandr, Indra and Vritra, Zeus and Typhon, Saint George and the Dragon, Perseus and Medusa.
 
 **The Mythological Pattern:**
+
+
+In this framework, the sages who preserved and transmitted the original consciousness technologies are given their correct functional designation: **The Gneh‑tah** — from the Proto‑Indo‑European root `*ǵneh₃-`, “to know.” Cultural echoes include the Mesopotamian **Apkallu** and the Hindu **Rishis**.
 
 - **The Serpent/Dragon:** Symbol of earth wisdom, the **Tree of Life**, and the consciousness technologies of the **Apkallu** who taught humanity how to connect with it.
 - **The Hero**: The authority figure, representing imposed order and control
@@ -60,10 +66,10 @@ The Greek myth of Prometheus provided the perfect template:
 **The Myth Sequence:**
 
 - **The Gift**: Prometheus steals fire (consciousness technology) from Zeus and gives it to humans
-- **The Punishment**: Zeus tortures Prometheus eternally as a warning to other divine whistleblowers
+- **The Punishment**: Zeus tortures Prometheus eternally as a warning to other Regal whistleblowers
 - **The Countermeasure**: Zeus sends Pandora's Box to humanity, releasing toil, disease, and despair
 
-"Fire" was not literal fire—it was the spark of consciousness technology, the knowledge of self-liberation. Zeus's eternal torture of Prometheus was a brutal message to any other Reges who might consider helping humanity: **this is what happens to whistleblowers**.
+"Fire" was not literal fire—it was the spark of consciousness technology, the knowledge of self-liberation. Zeus's eternal torture of Prometheus was a brutal message to any other **Reges** who might consider helping humanity: **this is what happens to whistleblowers**.
 
 But the most insidious part was Pandora's Box—the malware patch. The story programs humans to believe that seeking forbidden knowledge brings suffering. Every time humans reach for consciousness technologies, they unconsciously expect punishment, toil, and despair to follow.
 

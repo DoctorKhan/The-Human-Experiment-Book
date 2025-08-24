@@ -17,7 +17,7 @@ I started mapping the genealogies of Bronze Age royal families, and a disturbing
 **Eliminated bloodlines:**
 
 - Hittite royal family (claimed descent from storm Reges)
-- Mycenaean royal houses (claimed descent from Zeus and other Olympians, cultural echoes of **The Reges**)  
+- Mycenaean royal houses (claimed descent from Zeus and other Olympians, cultural echoes of **The Reges**)
 - Mesopotamian god-kings (claimed direct divine parentage)
 - Egyptian pharaohs of certain dynasties (claimed to be living Reges)
 
@@ -30,6 +30,9 @@ I started mapping the genealogies of Bronze Age royal families, and a disturbing
 The pattern was clear: **families claiming to be descended from Reges were systematically eliminated, while families claiming to serve Reges were preserved.**
 
 ## The Nephilim Connection
+
+For the hybrid warrior lineage, we will use the precise functional designation: **The Wiros** — from the Proto‑Indo‑European root `*wiHrós`, “hero, man.” This term identifies the engineered enforcer‑class created to serve the Reges’ program. Cultural echoes include the Nephilim and various “giant” hero lineages.
+
 
 As I studied the preserved oral traditions, I kept encountering references to "giants" and "mighty men of old" who had ruled before the flood. The Hebrew texts called them Nephilim—hybrid warrior lineage, echo of **The Wiros**—the offspring of "sons of Reges" and "daughters of men."
 
