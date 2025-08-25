@@ -94,7 +94,17 @@ But the most disturbing aspect of human neoteny isn't just its extent—it's the
 - Extended dependency periods are typically evolutionary disadvantages
 - The traits that make humans "domesticated" would normally be selected against in wild populations
 
-Standing in that lab, holding those skulls, I realized I might be looking at evidence of the most sophisticated genetic engineering project in Earth's history—one that had created a species designed to serve as consciousness vehicles for Reges far more advanced than anything we could imagine.
+Standing in that lab, holding those skulls, I realized I might be looking at evidence of the most sophisticated genetic engineering project in Earth's history—one that had created a species designed to serve as consciousness vehicles for beings far more advanced than anything we could imagine.
+
+But the most compelling evidence wasn't in the skull proportions. It was written in our chromosomes themselves.
+
+**The Molecular Signature:**
+
+Every human alive today carries chromosome 2—a genetic structure that doesn't exist in any other great ape. Where chimpanzees, bonobos, gorillas, and orangutans all have 24 pairs of chromosomes, we have 23. Our chromosome 2 is the product of two ancestral chromosomes fusing together, and the "molecular scar" is still visible: telomeric DNA sequences sit in the center of the chromosome, marking where two chromosome ends were joined.
+
+Recent research by geneticist John Hawks has dated this fusion to approximately 900,000 years ago—precisely during the population bottleneck period. In a population of only 1,280 breeding individuals, such a dramatic chromosomal change could become fixed across the entire species within a few generations.
+
+This wasn't random evolution. This was genetic engineering.
 
 
 > Inset: Activation vs. Domestication
