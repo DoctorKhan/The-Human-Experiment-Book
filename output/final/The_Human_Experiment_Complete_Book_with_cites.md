@@ -2,7 +2,7 @@
 
 ## Reclaiming Our Origins, Purpose, and Evolutionary Destiny
 
-*Compiled August 24, 2025 at 7:44 PM*
+*Compiled August 24, 2025 at 8:20 PM*
 
 ------------------------------------------------------------------------
 
@@ -941,9 +941,9 @@ dismissed the questions as “outside mainstream evolutionary theory” or
 “not relevant to current research priorities.”
 
 One professor actually said, “That’s an interesting observation, but
-it’s not the kind of question that gets funded.” Another suggested I was
-“overthinking” what was simply a well-understood evolutionary
-adaptation.
+such questions fall outside current funding priorities.” Another
+suggested I was “overthinking” what was simply a well-understood
+evolutionary adaptation.
 
 But their dismissiveness only made me more curious. If this was such a
 simple, well-understood adaptation, why were they so uncomfortable
