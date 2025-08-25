@@ -16,7 +16,7 @@
 
 **Abraham's Covenant** - The establishment of monotheistic covenant system around 4,000 years ago as a sophisticated evolution of control technology. Replaced polytheistic confusion with single authority, created chosen people concept, and introduced moral law as internalized control mechanism.
 
-**Adamu** - Foundational human stock forged during the ~930,000–813,000 years ago bottleneck (effective population ≈1,280) that consolidated the lineage for modern humans. Later cultural memories encode this as "seven pairs" of Adamu (early experimental protocols). See Appendix F: Mytho-Scientific Chronology and Genetic Evidence: Bottlenecks for cross-links. The name appears in Mesopotamian sources as the earliest humans; parallel echoes include the Hindu fourteen Manus.
+**Adamu** - (Mesopotamian, "mankind, first man"). The primordial human template forged by **The Werdh-anes** during the Garden Experiment (900,000–783,000 years ago) with an effective population of 1,280 breeding pairs maintained for 117,000 years. The **Adamu** represent the unactivated genetic **hardware**—stable biological vessels with immense latent potential but without the "operating system" of civilization installed. They existed as hunter-gatherers for 800,000 years in a state of pre-civilized innocence, waiting for activation. **Cultural Echoes:** Adam before the Serpent (Hebrew), the fourteen Manus (Hindu). **See also:** Umannu (the activated, civilized human).
 
 **Asherah** - Archaeological evidence from the "Yahweh and his Asherah" inscription suggests this functioned as a title for a divine consort or sacred object rather than a fixed personal name. This supports the interpretation that many ancient divine names represent roles or functions rather than individual identities.
 
@@ -83,7 +83,7 @@
 
 #### U
 
-**Umannu** - Human advisors who replaced the divine **Apkallu** after the flood, according to Mesopotamian records. This transition marks the shift from direct divine guidance to human intermediaries claiming divine authority. Represents the beginning of the "Age of Kings" - human rulers who derive legitimacy from claimed divine mandate rather than inherent divine nature. The Umannu system created the template for all subsequent human political authority.
+**Umannu** - (Sumerian/Akkadian, "artisan, craftsman"). The activated, civilized human—the **Adamu** template after the civilizational software has been installed. The **Umannu** emerged after the crash of the Elohim (12,900 BCE) when stranded **Apkallu** survivors needed skilled workforce to rebuild. They "activated" the latent code within local **Adamu** populations by teaching the software of civilization: systematic agriculture, architecture, writing, law, social organization, and astronomy. The first **Umannu** were the builders of Göbekli Tepe, Catalhoyuk, and the first Sumerian cities—humans who actively shape nature rather than just living within it. **Cultural Echoes:** Humanity after expulsion from the Garden (Hebrew). **See also:** Adamu (the unactivated genetic template).
 
 #### N
 

@@ -61,7 +61,7 @@ For definitions, see the Glossary. This chronology uses normalized phase numbers
 - Science lens: Pre-Younger Dryas late Pleistocene signals; pre-collapse cultural trajectories.
 - Cross-links: Original Titans part; Timeline → pre-impact context.
 
-## Phase 5: The Activation (Younger Dryas onset ≈12,900–11,600 BCE)
+## Phase 5: The Adamu → Umannu Activation (Younger Dryas onset ≈12,900–11,600 BCE)
 
 - Myth lens: “Anunnaki activation”: agriculture/social architecture as activation key; domestication programming begins competing with original design.
 - Science lens: Younger Dryas climate shock; rapid shifts; early Neolithic transitions.
