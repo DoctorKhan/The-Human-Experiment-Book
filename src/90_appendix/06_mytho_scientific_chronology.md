@@ -8,41 +8,48 @@ Note on names: Functional names in this series map to cultural echoes:
 ```mermaid
 timeline
     title Human Origins: Mytho-Scientific Backbone
-    930kya : Forging of Adamu (bottleneck ~1,280; ~117k yrs)
-    650k-300k : Awakening of Potential (Ummanu; brain/tech complexity)
-    80k-40k : Specialist Divergence (Igigi bio; Apkallu culture)
-    pre-12.8k : Interrupted Experiment (infrastructure incomplete)
-    12.9k-11.6k BCE : Activation vs. Domestication (Younger Dryas, Neolithic)
-    5k-3k BCE : Hybridization Crisis (god-king instability)
+    900kya : The Garden (Werdh-anes arrival; bottleneck ~1,280; ~117k yrs)
+    800kya : Species Diversification (seven human variants created in Garden, dispersed globally)
+    650k-300k : Natural Evolution (brain/tech complexity development)
+    80k-40k : Regional Adaptations (surviving species spread globally)
+    12.9k-11.6k BCE : Hybrid Return (Anunnaki crash; Younger Dryas, Neolithic)
+    5k-3k BCE : Management Crisis (god-king instability)
     ~2350 BCE : Flood Reset (selective purge)
     1200-1000 BCE : Chariot Conquest (final purge, new order)
 ```
 
-- Anunnaki ≈ The Werdh-anes (Original Architects)
-- Igigi ≈ The Reges (Administrative coup generation)
-- Apkallu ≈ The Gneh-tah (Scientist-teachers)
+- Werdh-anes ≈ Original dragon-like architects (900,000 years ago)
+- Anunnaki ≈ Hybrid descendants who crash-landed (12,000 years ago)
+- Igigi ≈ The Reges (Higher-level Anunnaki administrators)
+- Apkallu ≈ The Gneh-tah (Lower-level Anunnaki scientists)
 - Nephilim ≈ The Wiros (Hybrid warrior lineage)
 
 For definitions, see the Glossary. This chronology uses normalized phase numbers for clarity.
 
 ---
 
-## Phase 1: The Forging of Adamu (≈930,000–813,000 years ago)
+## Phase 1: The Garden Experiment (≈900,000–783,000 years ago)
 
-- Myth Lens: Foundational stock "Adamu" forged under existential constraint; latent capacities installed for long-horizon development.
-- Science Lens: A severe, long-duration population bottleneck with an effective population of just 1,280 individuals for 117,000 years. The cause was the Mid-Pleistocene Transition, which shifted Earth's climate to brutal 100,000-year ice ages. The most severe phase, Marine Isotope Stage 22, led to widespread environmental collapse and fragmentation of human populations.
-- Cross-links: This is the period when humans were truly domesticated as Adamu, then mixed with another robust human species—probably Homo erectus—hiding most of the domestication traits. Mythically, this is the time when Prometheus gave humans fire. Genetic Evidence → The 930–813 kya Bottleneck, admixture signals; Glossary → Adamu, Mid-Pleistocene Transition, Marine Isotope Stage 22, Homo erectus, Prometheus.
+- Myth Lens: **The Werdh-anes** (dragon-like beings) create a controlled "Garden" environment for human domestication and genetic modification.
+- Science Lens: A severe, long-duration population bottleneck with an effective population of just 1,280 individuals for 117,000 years. The bottleneck coincides with the Mid-Pleistocene Transition climate shift, providing natural cover for the controlled breeding program.
+- Cross-links: This is the period when humans were domesticated as "Adamu" under direct **Werdh-anes** management. The genetic modifications during this period prepare the population for species diversification. Genetic Evidence → The 900–783 kya Bottleneck; Glossary → Adamu, Werdh-anes, Mid-Pleistocene Transition.
 
 - **The "Big Bang" Parallel:** This mythological forging coincides with a major archaeological mystery: the "Big Bang" of genus Homo. After a long period with little change, our ancestors' brains and physical forms suddenly began to evolve, with the first evidence of systematic tool use appearing alongside a new, more humanlike jawbone from this period.
 
-## Phase 2: The Awakening of Potential (≈650,000–300,000 years ago)
+## Phase 2: The Species Diversification (≈800,000 years ago)
 
-- Myth lens: Rise of Ummānu/Umannu—the artisan/specialist potential emerges.
-- Science lens: Emergence of Homo heidelbergensis; cranial capacity expansion; increasing technological complexity trending toward Mode 3.
-- Cross-links: Archaeological Anomalies → technology transitions; Glossary → Umannu.
-- The Recovery: Around 813,000 years ago, humanity began a 20-fold demographic recovery, with the population growing to approximately 30,000 individuals. This rapid expansion was fueled by climate improvement and the mastery of controlled fire, with definitive evidence around 790,000 years ago.
+- Myth Lens: **The Werdh-anes** create seven distinct human species within the Garden and disperse them across Earth's different environments.
+- Science Lens: The emergence of multiple human species (Homo heidelbergensis, early Neanderthal lineages, Denisovan ancestors) across different geographical regions, each adapted to specific environmental conditions.
+- Cross-links: This explains the sudden appearance of diverse human species in the archaeological record. Archaeological Anomalies → multiple species emergence; Glossary → Homo heidelbergensis, Neanderthals, Denisovans.
 
-## Phase 3: The Specialist Divergence (≈80,000–40,000 years ago)
+## Phase 3: The Natural Evolution Period (≈650,000–300,000 years ago)
+
+- Myth Lens: The dispersed species develop naturally according to their environmental adaptations, with dormant **Werdh-anes** programming gradually activating.
+- Science Lens: Continued evolution of the dispersed human species; cranial capacity expansion; increasing technological complexity; mastery of fire and tool-making.
+- Cross-links: Archaeological Anomalies → technology transitions; Glossary → Homo heidelbergensis evolution.
+- The Recovery: Following dispersal, the human populations expand and adapt to their new environments, developing the characteristics we see in the archaeological record.
+
+## Phase 4: The Regional Adaptations (≈80,000–40,000 years ago)
 
 - Myth lens: Divergence into specialist lineages—Igigi (biological specialists, “watchers”) and Apkallu (cultural specialists, sages).
 - Science lens: Major demographic expansion (80k–10k); symbolic/creative “explosion”; regional high-altitude adaptations.

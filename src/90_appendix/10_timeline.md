@@ -30,40 +30,47 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 
 *Key Insight: This phase establishes the genetic foundation that would make all subsequent human development possible.*
 
-#### The Three-Phase Anunnaki Timeline
+#### The Multi-Stage Contact Timeline
 
-**Phase 1: The Original Scientific Mission (~1 Million Years Ago)**
+**Phase 1: The Garden Experiment (900,000 Years Ago)**
 
-- **Objective**: Genetic research and sample collection, not colonization
-- **Method**: Gradual bio-engineering of Earth's native hominids to test compatibility
-- **Success**: Created stable hybrid templates (the Adamu) and harvested desired genetic material
-- **Departure**: Mission completed successfully, returned to home world leaving experiments to evolve naturally
+- **Arrival**: **The Werdh-anes** (dragon-like beings) arrive on Earth
+- **The Garden**: Creation of a controlled environment for human domestication
+- **The Bottleneck**: 1,280 breeding pairs maintained for 117,000 years
+- **Genetic Preparation**: Modification and preparation of the domesticated population for species diversification
+- **Continued Presence**: **The Werdh-anes** remain on Earth to complete the species creation project
 
-**Phase 2: The Off-World Development Program (Interim Period)**
+**Phase 2: The Species Diversification (800,000 Years Ago)**
 
-- **Location**: **The Gardeners** home world
-- **Activity**: Using harvested human DNA, bio-engineered two specialized agent classes:
-  - **The Sages** (remembered as the **Apkallu**): Aquatic/subterranean scientists and teachers, keepers of the **Tree of Knowledge** (astronomy, mathematics, genetics, law, agriculture)
-  - **The Igigi** (who later became **The Rulers**): High-altitude administrators and warriors, wielders of the **Tree of Life** (vital energy, consciousness power, strength, longevity)
-- **Purpose**: Prepare specialized crews for eventual return to Earth - **The Sages** to share knowledge, **The Igigi** to provide protection and administration
+- **Location**: On Earth, within the Garden complex
+- **Activity**: **The Werdh-anes** create seven distinct human species from the domesticated population:
+  - Neanderthals (cold-adapted for northern regions)
+  - Denisovans (high-altitude adapted for mountains)
+  - Homo heidelbergensis (temperate zone adapted)
+  - Homo floresiensis ("hobbits" - island adapted)
+  - Ummanu (consciousness-enhanced variant)
+  - Three other specialized variants (evidence fragmentary)
+- **The Dispersal**: Each species is sent out from the Garden to populate different regions and environments across Earth
 
-**Phase 3: The Catastrophic Return and the Great Rebellion (12,900 Years Ago)**
+**Phase 3: The Hybrid Return (12,000 Years Ago - Younger Dryas)**
 
-- **Plan**: Controlled return with specialized crews to check on experiment progress
-- **Reality**: Ship explosion during atmospheric entry creates Younger Dryas crisis
-- **Initial Cooperation**: Stranded **The Sages** begin sharing knowledge with humans to rebuild civilization (agriculture, writing, law)
-- **The Igigi Rebellion**: **The Igigi** grow resentful of **The Sages** "giving away" civilization's secrets to primitive humans
-- **The Coup**: **The Igigi** use their superior vital energy and warrior training to overthrow **Sage** leadership, establishing themselves as **The Rulers**
-- **The Great Theft**: **The Rulers** implement the ultimate control measure - they restrict humanity's access to the Tree of Life while allowing limited access to Tree of Knowledge
-- **The Tragic Result**: Humanity gains technological brilliance but loses vital energy, creating a species capable of great knowledge but lacking the life force to use it wisely
+- **The Anunnaki**: Hybrid descendants of **The Werdh-anes** and the seven human species
+- **The Crash**: Anunnaki ship explodes during atmospheric entry, triggering Younger Dryas climate disruption
+- **Survival Split**: Stranded Anunnaki divide into two hierarchical groups:
+  - **Apkallu** (**The Gneh-tah**): Lower-level scientists and teachers, focus on knowledge preservation
+  - **Igigi** (**The Reges**): Higher-level administrators, focus on population control
+- **Emergency Protocol**: Establish control over human populations for survival and resource access
+- **The Management System**: Create the civilizational control structures that persist to modern times
 
-#### Phase II: The MIS 6 Modification Period (150,000-130,000 Years Ago)
+#### Phase II: The Natural Evolution Period (800,000-12,000 Years Ago)
 
-*The Great Refinement: Gradual Enhancement During Glacial Refugia*
+*The Long Development: Species Diversification and Natural Selection*
 
-**The Natural Opportunity**: During Marine Isotope Stage 6, the most severe glacial period in recent human history, expanding ice sheets fragment human populations into isolated refugia. The Anunnaki use this natural separation to systematically enhance isolated groups without detection - not catastrophic reduction but structured modification of small, separated populations.
+**The Seven Species Deployment**: Following the off-world genetic engineering, the seven human species are deployed across Earth's different environments. Each species carries dormant genetic programming from **The Werdh-anes** original Garden experiment.
 
-**The Seven Pairs Protocol**: Into this refined gene pool, the Anunnaki implement a systematic genetic engineering program. Ancient Mesopotamian texts preserve the memory of seven pairs of Adamu being created—fourteen individuals representing different experimental approaches to human enhancement. Each pair tested specific combinations of divine genetics with various hominid lineages under different environmental conditions.
+**Natural Selection Process**: Over hundreds of thousands of years, most experimental lineages fail due to environmental pressures, genetic instability, or dilution of modifications. Only a few lineages survive to the present era.
+
+**The Bottleneck Survivors**: The genetic bottlenecks recorded in human DNA reflect not single catastrophic events, but the natural winnowing of the experimental populations as they adapt to Earth's changing conditions.
 
 **The Modifications**: Each of the seven pairs received sophisticated genetic modifications:
 
