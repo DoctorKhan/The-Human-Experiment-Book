@@ -7,7 +7,7 @@ For the primordial architects, we will use their correct operational title: **Th
 
 ## The Deep Genetic Evidence
 
-Modern genetic analysis has revealed something that shouldn't exist: traces of non-terrestrial DNA in the human genome that date back over a million years. These aren't recent insertions—they're ancient modifications, part of the original experiment initiated by **The Werdh-anes**.
+Modern genetic analysis has revealed something that shouldn't exist: traces of non-terrestrial DNA in the human genome that date back over a million years. These aren’t just recent insertions—they’re ancient modifications, part of the original experiment initiated by **The Werdh-anes**.
 
 **The genetic markers show:**
 

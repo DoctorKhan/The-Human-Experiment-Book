@@ -4,7 +4,7 @@ The trail of evidence led me back over a million years, to the first interventio
 
 ## The Deep Genetic Evidence
 
-Modern genetic analysis has revealed something that shouldn't exist: traces of non-terrestrial DNA in the human genome that date back over a million years. These aren't recent insertions—they're ancient modifications, part of the original experiment initiated by **The Werdh-anes**.
+Modern genetic analysis has revealed something that shouldn't exist: traces of non-terrestrial DNA in the human genome that date back over a million years. These aren’t just recent insertions—they’re ancient modifications, part of the original experiment initiated by **The Werdh-anes**.
 
 **The genetic markers show:**
 
@@ -152,7 +152,7 @@ Understanding the Tiamat and Apsu intervention changes everything about human po
 - Consciousness expansion and transcendence capabilities
 - Direct interface with non-physical dimensions of reality
 
-These aren't fantasy abilities - they're the genetic inheritance from the original titans that has been systematically suppressed by the management systems that followed.
+What we’re describing here isn’t fantasy—it’s the genetic inheritance from the original titans, systematically suppressed by the management systems that followed.
 
 ## The Choice Point
 

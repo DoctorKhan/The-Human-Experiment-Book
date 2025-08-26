@@ -24,7 +24,7 @@ Before we dive into the experiment, it's crucial to acknowledge the story that m
 
 - **The "Muddle in the Middle":** Between 800,000 and 130,000 years ago, human evolution becomes what scientists politely call a tangled mess. Multiple human species coexisted, interbred, and left behind confusing fossils that defy a simple, linear family tree.
 
-These aren't minor holes; they're the missing origins of our bipedalism, our large brains, and our unique tool-making abilities. Mainstream science acknowledges these mysteries and has been unable to solve them, leaving the door open for a deeper investigation.
+What we’re facing here isn’t a handful of minor gaps; it’s the missing origin story for our bipedalism, our large brains, and our unique tool-making abilities. Mainstream science acknowledges these mysteries and has been unable to solve them, leaving the door open for a deeper investigation.
 
 Two mysteries kept surfacing:
 1) How did matter learn to assemble into a living instruction set?

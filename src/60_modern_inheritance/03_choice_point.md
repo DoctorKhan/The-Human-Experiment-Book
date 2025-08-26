@@ -26,7 +26,7 @@ As the control systems weaken, something unprecedented is happening: the genetic
 - Rising interest in consciousness development practices
 - Systematic questioning of official narratives about human nature and history
 
-These aren't random cultural changes. They're the signs of a species beginning to access its suppressed genetic inheritance.
+What’s happening here isn’t just random cultural change. These are the signs of a species beginning to access its suppressed genetic inheritance.
 
 ## The Two Paths
 
@@ -85,7 +85,7 @@ But for those ready to choose the first path, I discovered evidence of activatio
 **Integration techniques** that help manage the activation process safely
 **Verification methods** that distinguish genuine development from spiritual bypassing or delusion
 
-These aren't new-age fantasies. They're practical methods for accessing capabilities that are already encoded in human genetics.
+This isn’t new-age fantasy. These are practical methods for accessing capabilities that are already encoded in human genetics.
 
 ## The Collective Choice
 

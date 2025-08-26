@@ -23,8 +23,6 @@ structure:
         file: "10_case_file/030_rhythm_of_creation.md"
       - title: "The Anthropic Question"
         file: "10_case_file/040_anthropic_question.md"
-      - title: "The Watson-Crick Revelation"
-        file: "10_case_file/050_watson_crick_revelation.md"
 
   - type: part
     number: 2
@@ -67,6 +65,8 @@ structure:
         file: "60_modern_inheritance/01_system_today.md"
       - title: "The Ghost in the Machine"
         file: "60_modern_inheritance/02_breaking_free.md"
+      - title: "The Deep Program"
+        file: "60_modern_inheritance/025_deep_program.md"
       - title: "The Choice Point"
         file: "60_modern_inheritance/03_choice_point.md"
 

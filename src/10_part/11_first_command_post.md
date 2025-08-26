@@ -76,7 +76,7 @@
 
 *"Look at the dating," she said, spreading the carbon-14 results across the conference table. "11,600 years ago. That's 6,000 years before Stonehenge, 7,000 years before the pyramids. This site predates agriculture, writing, the wheel—everything we consider the foundation of civilization."*
 
-*Dr. Chen leaned forward, studying the pillar carvings. "But the sophistication level is off the charts. These aren't crude scratches—they're masterful artistic works requiring advanced tools and coordinated planning."*
+*Dr. Chen leaned forward, studying the pillar carvings. "But the sophistication level is off the charts. What we’re seeing here isn’t crude scratching—it’s masterful artistic work requiring advanced tools and coordinated planning."*
 
 *"That's not even the strangest part," Vasquez continued, her voice tight with excitement and disbelief. "The site was deliberately buried. Someone spent enormous effort to completely cover it with tons of earth, preserving it perfectly but hiding it from human memory."*
 

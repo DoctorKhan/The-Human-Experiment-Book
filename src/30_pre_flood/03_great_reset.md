@@ -255,7 +255,7 @@ This is the Scar of Cain—the mark left on humanity when brother turned against
 
 *She highlighted different sites across Europe, her voice growing more intense as the pattern became clear.*
 
-*"These aren't separate events—they're interconnected manifestations of the same social revolution. The monuments aren't just tombs—they're victory markers. Built by the lineages that survived the war."*
+*"What we’re looking at here isn’t a series of separate events—they’re interconnected manifestations of the same social revolution. The monuments aren’t just tombs—they’re victory markers, built by the lineages that survived the war."*
 
 *Dr. Chen studied the timeline. "You're saying the megaliths are monuments to the winners of the hybridization crisis?"*
 
