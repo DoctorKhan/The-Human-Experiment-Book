@@ -15,12 +15,16 @@ structure:
     chapters:
       - title: "The Ghost in the Code"
         file: "10_case_file/010_riddle_of_the_skulls.md"
+      - title: "Dragons"
+        file: "10_case_file/015_dragons.md"
       - title: "Cosmic Fingerprints"
         file: "10_case_file/020_cosmic_fingerprints.md"
       - title: "The Rhythm of Creation"
         file: "10_case_file/030_rhythm_of_creation.md"
       - title: "The Anthropic Question"
         file: "10_case_file/040_anthropic_question.md"
+      - title: "The Watson-Crick Revelation"
+        file: "10_case_file/050_watson_crick_revelation.md"
 
   - type: part
     number: 2
