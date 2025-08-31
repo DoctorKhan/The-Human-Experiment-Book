@@ -2,7 +2,7 @@
 
 ## Reclaiming Our Origins, Purpose, and Evolutionary Destiny
 
-*Compiled August 31, 2025 at 10:59 AM*
+*Compiled August 31, 2025 at 4:14 PM*
 
 ------------------------------------------------------------------------
 
@@ -20,13 +20,11 @@
 
 ## Chapter 1: The Bones of the Earth
 
-The story begins not with a question, but with the ruins of a forgotten
-world. We walk through a land of ghosts and legends, feeling the
-presence of what was lost before we begin to ask why.
+We live in the ruins of a forgotten world. We walk through a land of
+ghosts and legends, feeling the presence of what was lost before we
+begin to ask why.
 
-We begin at Baalbek, standing before the Trilithon, stones of impossible
-size. This is not a “mystery”; it is a testament. We then travel to the
-silent circles of Stonehenge and the buried temples of Göbekli Tepe.
+The silent circles of Stonehenge and the buried temples of Göbekli Tepe.
 These are the “Bones of the Earth”—the skeletal remains of an age of
 wonders, built by a civilization in harmony with the Tree of Life.
 
