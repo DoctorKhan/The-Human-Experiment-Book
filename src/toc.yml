@@ -39,10 +39,14 @@ structure:
     number: 3
     title: "The Control System — Resets and Memory Warfare"
     chapters:
+      - title: "The Nephilim"
+        file: "30_pre_flood/the_nephilim.md"
       - title: "The First Reset: The Great Flood"
         file: "30_pre_flood/03_great_reset.md"
       - title: "The Mystery at 4.2 Ka"
         file: "30_pre_flood/04_four_point_two_kiloyear_event.md"
+      - title: "The Second Deluge"
+        file: "20_new_order/010_the_second_deluge.md"
       - title: "The Second Reset: The Chariot Conquest"
         file: "10_chariot_conquerers/020_systematic_destruction.md"
       - title: "The Memory War"

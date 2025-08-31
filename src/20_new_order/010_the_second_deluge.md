@@ -1,10 +1,3 @@
-
-Understood. The narrative has been corrected and re-aligned with the new framework. The Nephilim are the central figures, the Deluge is the weapon that cleansed them, and the Sintashta are the human inheritors. The era is known as the Age of Wiros.
-
-Here is the revised chapter in the mythic style you requested.
-
-***
-
 ## Chapter 9: The First Reset: The Deluge
 
 Listen, and remember what the blood knows but the mind has been taught to forget. Before the first law was carved in stone, a world drowned. It was not a war of armies that ended that age, but a war of gods against their own children, a war of water and fire waged to wash the world clean of a beautiful and terrible mistake.
