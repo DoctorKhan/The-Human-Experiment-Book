@@ -102,7 +102,7 @@
 
 ### Pillar 4: Community Integration
 
-"The fourth step is creating social structures based on the Family protocol rather than the Engine protocol," Dr. Chen concluded.
+"The fourth step is creating social structures based on the Kin protocol rather than the Machine protocol," Dr. Chen concluded.
 
 **Consensus Building**: Learning to make decisions through collective wisdom rather than hierarchical authority.
 
@@ -127,7 +127,7 @@ Dr. Chen outlined a practical approach for individuals beginning this journey:
 
 - Energy healing training to develop hands-on healing abilities
 - Intuitive development exercises to strengthen direct knowing
-- Community involvement to practice Family protocol dynamics
+- Community involvement to practice Kin protocol dynamics
 - Advanced meditation techniques to access expanded states
 
 **Phase 3: Integration and Service (Years 2+)**

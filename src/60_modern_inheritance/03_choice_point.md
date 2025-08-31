@@ -1,4 +1,4 @@
-# Chapter 18: The Choice Point
+# Chapter 14: The Choice at the End of the World
 
 As I compiled the evidence from my investigation, I realized we are living at the most crucial moment in human history. The management systems that have controlled human development for millennia are breaking down. The genetic switches installed by **The Werdh-anes** are beginning to activate spontaneously. And for the first time since the original experiment began, humans have a choice about what we become next.
 

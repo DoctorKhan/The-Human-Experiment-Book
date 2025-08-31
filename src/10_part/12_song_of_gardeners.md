@@ -73,7 +73,7 @@ The Human Experiment was their masterpiece—not a project of conquest or exploi
 
 *He gestured, and the chamber filled with images: countless worlds, countless species, all at different stages of development.*
 
-*"This is the Co-Evolutionary Engine. Consciousness and genetics dancing together across time. Each awakening creates the conditions for the next. Each generation's growth influences the genetic expression of their children. Not force, but invitation. Not control, but cultivation."*
+*"This is the Co-Evolutionary Machine. Consciousness and genetics dancing together across time. Each awakening creates the conditions for the next. Each generation's growth influences the genetic expression of their children. Not force, but invitation. Not control, but cultivation."*
 
 *The images shifted, showing the Earth as it would be: humans developing gradually, naturally, their genetic gifts awakening only when their wisdom was ready to receive them.*
 

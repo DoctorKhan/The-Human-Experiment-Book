@@ -158,7 +158,7 @@ The term "Great Catastrophe" or "deluge" refers to this entire pattern of resets
 
 - **The Health Catastrophe**: Average human height drops from 5'9"/5'5" to 5'3"/5'1", massive increase in dental disease, bone pathology, and infectious diseases
 - **The Social Catastrophe**: End of egalitarian hunter-gatherer societies, creation of property ownership, labor exploitation, and rigid hierarchies
-- **The Desperation Engine**: Creates large populations of desperate people willing to work under terrible conditions because the alternative is starvation
+- **The Desperation Machine**: Creates large populations of desperate people willing to work under terrible conditions because the alternative is starvation
 - **Permanent Settlement**: Traps humans in fixed locations where they can be easily monitored and controlled
 - Creates the first Adammu - agricultural humans designed for permanent management and labor extraction
 - Establishes the foundation for all subsequent hierarchical civilizations built on agricultural surplus

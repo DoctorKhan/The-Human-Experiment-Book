@@ -45,7 +45,7 @@ This appendix summarizes the key genetic evidence that supports the conclusions 
 - This catastrophic event, corresponding to the mythic forging of “Adamu,” consolidated the foundational genetic stock for all subsequent human evolution.
 - The extreme selective pressure may have accelerated evolution in ways that shaped our species’ trajectory, including aspects of our unique brain development.
 
-## The Chromosome 2 Fusion: Molecular Evidence of Genetic Engineering
+## The Chromosome 2 Fusion: Molecular Evidence of Genetic Machineering
 
 **The Fusion Event:**
 

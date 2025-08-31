@@ -11,71 +11,51 @@ structure:
 
   - type: part
     number: 1
-    title: "The Case File: The Information Enigma"
+    title: "The Age of Echoes – A World Half-Remembered"
     chapters:
-      - title: "The Ghost in the Code"
-        file: "10_case_file/010_riddle_of_the_skulls.md"
-      - title: "Dragons"
+      - title: "The Bones of the Earth"
         file: "10_case_file/015_dragons.md"
-      - title: "Cosmic Fingerprints"
+      - title: "The Scar in Our Blood"
+        file: "10_case_file/010_riddle_of_the_skulls.md"
+      - title: "Whispers from the Void"
         file: "10_case_file/020_cosmic_fingerprints.md"
-      - title: "The Rhythm of Creation"
+      - title: "The Titan's Shadow"
         file: "10_case_file/030_rhythm_of_creation.md"
-      - title: "The Anthropic Question"
-        file: "10_case_file/040_anthropic_question.md"
 
   - type: part
     number: 2
-    title: "The Takeover — The Domestication Program"
+    title: "The War of Heaven and Earth – The Great Forgetting"
     chapters:
-      - title: "The Day the Sky Fell"
-        file: "40_crash_survivors/01_sky_fell.md"
-      - title: "The Domesticated Species"
-        file: "40_crash_survivors/03_domesticated_species.md"
-      - title: "The Hybrid Crisis"
+      - title: "The Official Story – The Garden and the Serpent"
+        file: "50_original_titans/03_experiment_begins.md"
+      - title: "The Unbinding – The Motive for the Lie"
+        file: "50_original_titans/01_before_crash.md"
+      - title: "The True Genesis – The Garden and the Fire"
+        file: "60_modern_inheritance/025_deep_program.md"
+      - title: "The Age of Heroes and Monsters"
         file: "30_pre_flood/02_hybrid_crisis.md"
+      - title: "The Drowning of the World"
+        file: "30_pre_flood/03_great_reset.md"
 
   - type: part
     number: 3
-    title: "The Control System — Resets and Memory Warfare"
+    title: "The Iron Spell – Living in the Ghost Machine"
     chapters:
-      - title: "The Nephilim"
-        file: "30_pre_flood/the_nephilim.md"
-      - title: "The First Reset: The Great Flood"
-        file: "30_pre_flood/03_great_reset.md"
-      - title: "The Mystery at 4.2 Ka"
+      - title: "The Divine Blueprint"
+        file: "60_modern_inheritance/02_breaking_free.md"
+      - title: "The Cog and the Soul"
+        file: "60_modern_inheritance/01_system_today.md"
+      - title: "The Invisible Kingdom"
+        file: "60_modern_inheritance/03_choice_point.md"
+      - title: "The War on Magic"
         file: "30_pre_flood/04_four_point_two_kiloyear_event.md"
-      - title: "The Second Deluge"
-        file: "20_new_order/010_the_second_deluge.md"
-      - title: "The Second Reset: The Chariot Conquest"
-        file: "10_chariot_conquerers/020_systematic_destruction.md"
-      - title: "The Memory War"
-        file: "10_chariot_conquerers/040_memory_war.md"
-      - title: "Hunting the Survivors"
-        file: "20_new_order/02_hunting_survivors.md"
-      - title: "The Replacement Kings"
-        file: "20_new_order/01_replacement_kings.md"
-      - title: "The Hero Mythology"
-        file: "20_new_order/03_hero_mythology.md"
-
-      - title: "Consensus Brief — Indo‑European Dispersal (4500–1500 BCE)"
-        file: "50_research/15_consensus_brief_indoeuropean.md"
 
   - type: part
     number: 4
-    title: "The Modern Inheritance — The Choice Point"
+    title: "The Awakening – Breaking the Spell"
     chapters:
-      - title: "The System Today"
-        file: "60_modern_inheritance/01_system_today.md"
-      - title: "The Ghost in the Machine"
-        file: "60_modern_inheritance/02_breaking_free.md"
-      - title: "The Deep Program"
-        file: "60_modern_inheritance/025_deep_program.md"
-      - title: "The Choice Point"
+      - title: "The Choice at the End of the World"
         file: "60_modern_inheritance/03_choice_point.md"
-
-      - title: "References and Sources"
-        file: "90_appendix/00_references.md"
 
   - type: appendix
     title: "Appendices"
@@ -100,4 +80,6 @@ structure:
         file: "90_appendix/07_method_braiding_myth_and_science.md"
       - title: "Panspermia Hypothesis: Evidence and Framing"
         file: "90_appendix/40_panspermia_hypothesis.md"
+      - title: "References and Sources"
+        file: "90_appendix/00_references.md"
 

@@ -1,4 +1,4 @@
-# Chapter X: The Rhythm of Creation
+# Chapter 4: The Titan's Shadow
 
 I used to picture evolution as a slow river. Then I watched the strata for a while and realized it moves like weather: long blue skies, then sudden storms that redraw the coastline in a single season. The story we were taught—gentle curves—keeps giving way to stair steps.
 

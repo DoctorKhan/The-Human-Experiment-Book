@@ -96,7 +96,7 @@ The warrior bands were particularly crucial—fanatical, brutal shock troops who
 ## The Divine Law: Firmware for Civilization
 
 As the system scaled up, **The Reges** needed more sophisticated behavioral programming. They created what humans would later call "divine law"—moral codes that were actually firmware patches designed to allow a species of primates to function at the scale of millions without self-destructing.
-This was the ultimate consequence of the Reges' fall. Having lost their connection to the organic, holistic vitality of the **Tree of Life**, they could only conceive of and build systems that reflected their new reality: mechanical, functional, and extractive. The **Engine Protocol** is the logic of a being who has forgotten how life works.
+This was the ultimate consequence of the Reges' fall. Having lost their connection to the organic, holistic vitality of the **Tree of Life**, they could only conceive of and build systems that reflected their new reality: mechanical, functional, and extractive. The **Machine Protocol** is the logic of a being who has forgotten how life works.
 
 
 **The Functional Analysis:**
@@ -110,7 +110,7 @@ What humans call "morality" was actually a set of firmware patches designed to m
 ## The Programming Success
 
 The ideological software was so successful that it became invisible. Humans began to see these programmed beliefs not as imposed stories but as natural truths about reality. The software became the lens through which all experience was interpreted.
-This is the central drama of the Cosmic Game played out in our daily lives. Our soul, carrying the genetic memory of the **Tree of Life** and its nurturing **Family Protocol**, is forced to operate within the lifeless, mechanical constraints of the **Engine Protocol**. Every moment of alienation is the pain of this cosmic schism.
+This is the central drama of the Cosmic Game played out in our daily lives. Our soul, carrying the genetic memory of the **Tree of Life** and its nurturing **Kin Protocol**, is forced to operate within the lifeless, mechanical constraints of the **Machine Protocol**. Every moment of alienation is the pain of this cosmic schism.
 
 
 **The Reges** had achieved something unprecedented: they had made their control system self-sustaining. Humans would now police themselves, suppress their own consciousness technologies, and maintain the extraction economy without constant supervision.

@@ -1,4 +1,6 @@
-# Chapter 19: The Deep Program
+# Chapter 7: The True Genesis – The Garden and the Fire
+
+This appendix explores the scientific and informational models underlying the control system, including the logic of the Tree of Knowledge and the Machine Protocol. It provides context for the epic's philosophical and mythological narrative.
 
 *Cambridge, 1973. Twenty years after their Nobel Prize for discovering the structure of DNA, Francis Crick sits in his study, staring at equations that refuse to add up...*
 

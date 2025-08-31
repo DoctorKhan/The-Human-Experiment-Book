@@ -1,4 +1,4 @@
-# Chapter 15: The War in the Blood — The Scar of Cain
+# Chapter 9: The Drowning of the World
 
 *Dr. Morrison stared at the genetic analysis results on her screen, her hands trembling as the implications sank in. The data was impossible, horrifying, and undeniable. She had been analyzing Y-chromosome diversity patterns when she discovered something that made her question everything she thought she knew about human evolution.*
 
@@ -205,7 +205,7 @@ The flood wasn't divine punishment for moral wickedness. It was the eventual sol
 
 The flood wasn't just biological—it was cultural. This is when we see the systematic burial of the megalithic sites, the erasure of pre-flood knowledge, and the establishment of new civilizations with carefully controlled mythologies.
 
-The flood marked the end of the Age of legends and the beginning of something new—a more controlled, more manageable human population, now fully severed from the memory of the **Tree of Life** and running on the new software of the Rulers' extractive Engine.
+The flood marked the end of the Age of legends and the beginning of something new—a more controlled, more manageable human population, now fully severed from the memory of the **Tree of Life** and running on the new software of the Rulers' extractive Machine.
 
 ---
 

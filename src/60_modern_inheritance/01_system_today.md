@@ -1,4 +1,4 @@
-# Chapter 19: The Modern Manifestation
+# Chapter 11: The Cog and the Soul
 
 *As the team compiled their research, a disturbing realization emerged: the ancient control systems hadn't disappeared with the fall of empires or the rise of democracy. They had simply evolved, becoming more sophisticated and less visible.*
 
@@ -12,7 +12,7 @@ Dr. Chen pulled up his analysis of modern institutions, his expression grim.
 
 **The Modern Control Matrix:**
 
-**Economic Systems**: Global capitalism that treats humans as "human resources" and the Earth as "raw materials"—the Engine protocol scaled to planetary level.
+**Economic Systems**: Global capitalism that treats humans as "human resources" and the Earth as "raw materials"—the Machine protocol scaled to planetary level.
 
 **Educational Systems**: Standardized education that suppresses creativity, intuition, and consciousness development while producing compliant workers.
 

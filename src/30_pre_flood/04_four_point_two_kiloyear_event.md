@@ -1,4 +1,4 @@
-# The Mystery at 4.2 Ka
+# Chapter 13: The War on Magic
 
 Before the pattern of intentional destruction became clear, there was a simpler riddle: scattered evidence across the Old World that something abrupt and world-shaping happened about 4,200 years ago. Archaeologists call it the "4.2 kiloyear event"—a sudden climatic shift marked by aridification, crop failures, migrations, and cascading state collapses from Mesopotamia and Egypt to the Indus.
 

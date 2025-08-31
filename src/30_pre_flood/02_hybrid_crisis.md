@@ -1,4 +1,4 @@
-# Chapter 16: The Hybrid Crisis — The War in the Blood
+# Chapter 8: The Age of Heroes and Monsters
 
 The systematic persecution of consciousness technologies was not random cultural evolution—it was a coordinated, multi-millennial campaign to eliminate the Tree of Life wisdom that could have freed humanity from the Rulers' control.
 The true catastrophe of the human experiment began with an act of cosmic hubris. The **Reges**, in their role as administrators, broke the prime directive. They interbred with humanity, creating the powerful but unstable hybrid lineage known as the **Wiros (the Nephilim)**. This act, driven by desire and a will to dominate, unbalanced the entire experiment.
@@ -71,7 +71,7 @@ Dr. Kim's eyes widened. "That explains the entire history of secret societies an
 
 "Exactly," Dr. Chen confirmed. "The magic was never gone; it was just privatized."
 
-## The Koryos System: The Human Engine of Conquest
+## The Koryos System: The Human Machine of Conquest
 
 Dr. Chen revealed how the persecution was carried out through human agents.
 

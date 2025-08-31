@@ -6,7 +6,7 @@
 
 **Gneh-tah, The** - (from PIE `*ǵneh₃-`, "to know"). The revealed functional name for the scientist-class agents created by **The Werdh-anes** to serve as teachers and knowledge-keepers—stewards of the **Tree of Knowledge**, responsible for the gradual and safe education of humanity. They opposed the Reges' coup and work to preserve the original mission. **Cultural Echoes:** Apkallu (Mesopotamian), Rishis (Hindu), Prometheus-type figures (Greek), Wise Ones (various traditions).
 
-**Reges, The** - (from PIE `*h₃rḗǵs`, "ruler, king"). The revealed functional name for the administrator-class agents who staged a coup after being severed from the **Tree of Life** as punishment for illicitly interbreeding with humanity. They now manage humanity through an **Engine Protocol** to extract the life force they can no longer access directly. **Cultural Echoes:** Igigi (Mesopotamian), Olympians (Greek), Æsir (Norse), Asuras (Hindu).
+**Reges, The** - (from PIE `*h₃rḗǵs`, "ruler, king"). The revealed functional name for the administrator-class agents who staged a coup after being severed from the **Tree of Life** as punishment for illicitly interbreeding with humanity. They now manage humanity through an **Machine Protocol** to extract the life force they can no longer access directly. **Cultural Echoes:** Igigi (Mesopotamian), Olympians (Greek), Æsir (Norse), Asuras (Hindu).
 
 **Werdh-anes, The** - (from PIE `*werdh-`, "to grow, increase"). The revealed functional name for the primordial architects who designed the original Human Experiment as a long-term consciousness development project. **Cultural Echoes:** Anunnaki (Mesopotamian), Titans (Greek), Vanir (Norse), Devas (Hindu).
 
