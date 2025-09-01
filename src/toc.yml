@@ -14,13 +14,13 @@ structure:
     title: "The Age of Echoes – A World Half-Remembered"
     chapters:
       - title: "The Bones of the Earth"
-        file: "10_case_file/015_dragons.md"
+        file: "10_mystery/005_bones.md"
       - title: "The Scar in Our Blood"
-        file: "10_case_file/010_riddle_of_the_skulls.md"
+        file: "10_mystery/010_riddle_of_the_skulls.md"
       - title: "Whispers from the Void"
-        file: "10_case_file/020_cosmic_fingerprints.md"
+        file: "10_mystery/020_cosmic_fingerprints.md"
       - title: "The Titan's Shadow"
-        file: "10_case_file/030_rhythm_of_creation.md"
+        file: "10_mystery/030_rhythm_of_creation.md"
 
   - type: part
     number: 2

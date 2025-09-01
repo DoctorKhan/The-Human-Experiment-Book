@@ -1,7 +1,5 @@
-
-
-
 # Chapter 1: The Bones of the Earth
+
 
 We live in the ruins of a forgotten world. We walk through a land of ghosts and legends, feeling the presence of what was lost before we begin to ask why.
 
