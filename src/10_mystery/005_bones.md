@@ -1,5 +1,7 @@
 ### **Chapter 1: The Bones of the Earth**
 
+If the earth had bones, they would be something like this.
+
 Before history had a name, on a windswept plain in what would one day be England, they raised a circle of stone that holds its breath against the sky. Most are sarsens, local giants of sandstone, rooted in the chalk of the surrounding land. But in the inner ring, there are smaller, darker stones. Bluestones. They are strangers here, pilgrims from a foreign geology.
 
 They do not belong.

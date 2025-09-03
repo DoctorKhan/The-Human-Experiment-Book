@@ -2,7 +2,7 @@
 
 ## Reclaiming Our Origins, Purpose, and Evolutionary Destiny
 
-*Compiled August 31, 2025 at 5:43 PM*
+*Compiled September 02, 2025 at 10:28 PM*
 
 ------------------------------------------------------------------------
 
@@ -21,6 +21,8 @@
 ## Chapter 1: The Bones of the Earth
 
 #### **Chapter 1: The Bones of the Earth**
+
+If the earth had bones, they would be something like this.
 
 Before history had a name, on a windswept plain in what would one day be
 England, they raised a circle of stone that holds its breath against the
