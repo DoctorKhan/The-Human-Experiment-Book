@@ -55,7 +55,7 @@ structure:
     title: "The Awakening – Breaking the Spell"
     chapters:
       - title: "The Choice at the End of the World"
-        file: "60_modern_inheritance/03_choice_point.md"
+        file: "40_part/010_the_choice_at_the_end_of_the_world.md"
 
   - type: appendix
     title: "Appendices"
