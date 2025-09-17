@@ -1,4 +1,4 @@
-# Investigator Roundtable: The Dual Morality — Soul and State
+# Chapter 64: Investigator Roundtable: The Dual Morality — Soul and State
 
 The war-room hums with old fluorescents. The research team sits around a scarred table, case files spread like maps. On the wall, two columns: Soul vs State. The debate we’ve been avoiding finally demands a clean frame.
 

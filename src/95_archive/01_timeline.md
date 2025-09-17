@@ -1,4 +1,4 @@
-# Appendix A: Timeline of Human Management
+# Chapter 11: Appendix A: Timeline of Human Management
 
 This timeline summarizes the key events in the million-year experiment that created modern humanity, based on the evidence uncovered in my investigation.
 

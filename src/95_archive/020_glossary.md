@@ -1,4 +1,4 @@
-# Glossary of Terms
+# Chapter 42: Glossary of Terms
 
 #### PIE-Derived Terms (The True Names)
 

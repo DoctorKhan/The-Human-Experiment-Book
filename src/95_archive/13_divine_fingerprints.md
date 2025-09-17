@@ -1,4 +1,4 @@
-# Chapter 5: The Divine Fingerprints — The Science of Creation
+# Chapter 30: The Divine Fingerprints — The Science of Creation
 
 The Gardeners' elegant engineering left indelible signatures in our very source code, fingerprints that modern science has only recently rediscovered. The proof of their design is not found in ancient texts, but within our own cells. Here, we present the scientific proof of the Gardeners' work as an act of revealing their genius.
 

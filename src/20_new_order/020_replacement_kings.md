@@ -1,4 +1,4 @@
-# Chapter 4: The Replacement Kings
+# Chapter 5: The Replacement Kings
 
 After the Bronze Age destruction, something unprecedented happened in human history. For thousands of years, kings had claimed Regal descent - "I am the son of **The Reges**." Suddenly, around 1200 BC, they started making a completely different claim: "**The Reges** chose me to rule."
 

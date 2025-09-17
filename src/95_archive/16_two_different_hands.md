@@ -1,4 +1,4 @@
-# Chapter 10: Two Different Hands
+# Chapter 38: Two Different Hands
 
 *The team had accepted the unthinkable: human development showed clear signs of systematic intervention. But as they began testing this hypothesis against their data, Dr. Rebecca Morrison made a discovery that shattered even their expanded worldview.*
 

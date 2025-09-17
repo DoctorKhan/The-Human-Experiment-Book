@@ -1,4 +1,4 @@
-# Chapter 1: The Day the Sky Wept Fire
+# Chapter 24: The Day the Sky Wept Fire
 
 The father pressed his infant daughter close to his chest, her tiny fist wrapped around his thumb as the heavens tore themselves apart above them. Ribbons of flame painted impossible trajectories across the star-drunk sky, each blazing arc trailing whispers of worlds beyond imagining. 
 

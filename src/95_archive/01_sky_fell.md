@@ -1,4 +1,4 @@
-# Chapter 14: The Operating System of Servitude
+# Chapter 10: The Operating System of Servitude
 
 With the coup complete and the emergency protocols activated, **The Reges** faced a new challenge: how to maintain permanent control over a species that had been designed for consciousness evolution and eventual independence. Physical force alone would not be sufficient. They needed something more sophisticated, more permanent, more self-sustaining.
 

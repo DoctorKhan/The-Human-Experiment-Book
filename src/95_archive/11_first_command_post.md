@@ -1,4 +1,4 @@
-# Chapter 2: The First Command Post
+# Chapter 27: The First Command Post
 
 *Dr. Klaus Schmidt knelt in the Turkish dirt, his hands trembling as he brushed away millennia of accumulated earth from the carved stone pillar. The relief that emerged from the darkness made his breath catch—a serpent coiled around what appeared to be a handbag, its eyes seeming to watch him across twelve thousand years.*
 

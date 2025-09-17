@@ -1,4 +1,4 @@
-# Chapter 3: Whispers from the Void
+# Chapter 49: Whispers from the Void
 
 The mystery of our origins expands beyond Earth. This chapter narrates the grand saga of panspermia, telling the story of comets and asteroids carrying the building blocks of life. We explore the evidence from the Murchison meteorite—the "left-hand" preference of its amino acids, the presence of nucleobases. This is framed as a deliberate act of interplanetary agriculture, where the "cosmic fingerprints" reveal that Earth was a garden seeded with biased ingredients from a far older cosmic system, preparing the stage for the experiment to come.
 

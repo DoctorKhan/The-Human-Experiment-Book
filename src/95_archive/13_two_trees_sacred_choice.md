@@ -1,4 +1,4 @@
-# Chapter 6: The Two Trees — The Sacred Choice
+# Chapter 31: The Two Trees — The Sacred Choice
 
 The biblical account of Eden contains a curious detail that holds deeper meaning: there were two trees in the garden—the Tree of Knowledge of Good and Evil, and the Tree of Life. These are not just religious symbols, but represent something fundamental about human consciousness itself—the two different types of intelligence that humans were designed to access and eventually integrate.
 

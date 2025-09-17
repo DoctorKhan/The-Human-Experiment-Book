@@ -1,4 +1,4 @@
-# Chapter 11: The Timeline of a Tragedy
+# Chapter 39: The Timeline of a Tragedy
 
 *Dr. Vasquez had been staring at the same archaeological data for hours, cross-referencing it with the genetic timelines from Dr. Morrison and the linguistic evidence from Dr. Chen. Something was wrong with their understanding. The pieces didn't fit the way they thought they did.*
 

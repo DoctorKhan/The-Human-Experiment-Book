@@ -1,4 +1,4 @@
-# Appendix F: Mytho-Scientific Chronology of Human Origins
+# Chapter 63: Appendix F: Mytho-Scientific Chronology of Human Origins
 
 This appendix integrates mythic roles (Adamu, Ummānu/Umannu, Igigi, Apkallu, Anunnaki) with scientific signals (genetics, archaeology, climate) to provide a concise backbone timeline. It complements the standard Timeline and cross-links evidence across appendices.
 

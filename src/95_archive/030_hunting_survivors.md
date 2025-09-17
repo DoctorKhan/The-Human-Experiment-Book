@@ -1,4 +1,4 @@
-# Chapter 5: Hunting the Survivors
+# Chapter 47: Hunting the Survivors
 
 The Bronze Age conquest wasn't the end of the bloodline elimination - it was just the beginning. For the next several centuries, the new **Reges** conducted a systematic campaign to hunt down anyone who claimed descent from the old god-kings.
 

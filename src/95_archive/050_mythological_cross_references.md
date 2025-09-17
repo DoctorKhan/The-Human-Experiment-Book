@@ -1,4 +1,4 @@
-# Appendix D: Mythological Cross-References
+# Chapter 59: Appendix D: Mythological Cross-References
 
 This appendix documents the consistent mythological patterns across cultures that support the historical framework presented in this investigation.
 

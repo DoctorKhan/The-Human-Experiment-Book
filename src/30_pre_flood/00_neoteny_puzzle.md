@@ -1,4 +1,4 @@
-# The Neoteny Puzzle: Why Do Adult Humans Look Like Baby Apes?
+# Chapter 6: The Neoteny Puzzle: Why Do Adult Humans Look Like Baby Apes?
 
 I was standing over a tray of skulls under flickering lab lights when the feeling hit—an odd blend of déjà vu and vertigo. On one side, an adult chimp. On the other, a 3D print of a newborn chimp. Between them, a human adult skull. The unsettling truth was impossible to unsee: the human matched the baby.
 

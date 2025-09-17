@@ -1,4 +1,4 @@
-# Chapter 6: The Hero Mythology
+# Chapter 55: The Hero Mythology
 
 The most sophisticated aspect of the post-conquest psychological operation was the creation of hero mythologies that celebrated the destruction of the old world. These weren't ancient stories - they were propaganda designed to program humans to celebrate their own domestication.
 

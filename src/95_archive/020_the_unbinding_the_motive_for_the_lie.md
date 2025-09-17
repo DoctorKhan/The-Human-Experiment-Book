@@ -1,4 +1,4 @@
-# Chapter 6: The Unbinding – The Motive for the Lie
+# Chapter 45: The Unbinding – The Motive for the Lie
 
 My investigation had led me back through layers of resets and management systems, but I still hadn't found the ultimate source. Who were the original architects of human consciousness modification? The trail led me to evidence of interventions far older than the Younger Dryas crash—back to the first arrival over a million years ago, conducted by the primordial architects: **The Werdh-anes**. The name is not arbitrary; it derives from the Proto-Indo-European root `*werdh-`, meaning 'to grow, increase.' Their sole function: the development and expansion of consciousness.
 

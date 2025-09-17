@@ -1,4 +1,4 @@
-# Chapter 20: The Keepers of the Flame
+# Chapter 25: The Keepers of the Flame
 
 *Dr. Vasquez had been analyzing the genetic distribution patterns when she made a discovery that left her staring at her own DNA profile with tears in her eyes. The data was impossible, beautiful, and deeply personal all at once.*
 

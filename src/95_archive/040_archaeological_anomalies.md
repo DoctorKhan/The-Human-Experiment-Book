@@ -1,4 +1,4 @@
-# Appendix C: Archaeological Anomalies
+# Chapter 54: Appendix C: Archaeological Anomalies
 
 This appendix documents the archaeological evidence that supports the existence of advanced pre-flood civilizations and systematic destruction patterns uncovered in my investigation.
 

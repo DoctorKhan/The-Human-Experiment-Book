@@ -1,4 +1,4 @@
-# Chapter 17: The Inner Battlefield
+# Chapter 12: The Inner Battlefield
 
 *Dr. Tyra had been analyzing behavioral patterns in the research data when she made a discovery that left her staring at her own reflection in the computer screen, seeing herself—really seeing herself—for the first time.*
 

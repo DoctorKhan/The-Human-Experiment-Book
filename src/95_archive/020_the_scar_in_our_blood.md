@@ -1,6 +1,6 @@
 
 
-# Chapter 2: The Scar in Our Blood
+# Chapter 44: The Scar in Our Blood
 
 If we inherited a world from giants, what became of us? This chapter tells the tragic story of our own transformation.
 

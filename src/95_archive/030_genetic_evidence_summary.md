@@ -1,4 +1,4 @@
-# Appendix B: Genetic Evidence Summary
+# Chapter 46: Appendix B: Genetic Evidence Summary
 
 This appendix summarizes the key genetic evidence that supports the conclusions of my investigation into human origins and development.
 

@@ -1,4 +1,4 @@
-# Chapter 3: Catastrophe and Control
+# Chapter 28: Catastrophe and Control
 
 *Dr. Chen stared at the ancient Mesopotamian tablet, his hands trembling as he traced the cuneiform symbols that had haunted him for weeks. The text was from the Atrahasis Epic, but this particular fragment had never been properly translated—until now.*
 

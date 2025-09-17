@@ -1,4 +1,4 @@
-# Appendix G: Method — Braiding Myth and Science
+# Chapter 65: Appendix G: Method — Braiding Myth and Science
 
 This method note explains how this book weaves functional mythology with scientific evidence without collapsing one into the other.
 

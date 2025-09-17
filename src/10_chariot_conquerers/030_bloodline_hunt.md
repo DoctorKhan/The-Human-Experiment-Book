@@ -1,4 +1,4 @@
-# Chapter 2: The Bloodline Hunt
+# Chapter 3: The Bloodline Hunt
 
 The more I researched the Bronze Age destruction, the more I realized the chariot conquerers weren't just destroying cities—they were hunting people. Specific people. Families who claimed descent from the old Reges (administrator-class agents).
 

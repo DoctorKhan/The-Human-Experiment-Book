@@ -1,4 +1,4 @@
-# Chapter 7: The True Genesis – The Garden and the Fire
+# Chapter 48: The True Genesis – The Garden and the Fire
 
 This appendix explores the scientific and informational models underlying the control system, including the logic of the Tree of Knowledge and the Machine Protocol. It provides context for the epic's philosophical and mythological narrative.
 

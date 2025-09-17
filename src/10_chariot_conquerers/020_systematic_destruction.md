@@ -1,4 +1,4 @@
-# Chapter 1: Chariots from Nowhere
+# Chapter 2: Chariots from Nowhere
 
 Ancient Indian texts sing of chariots thundering across the plains, noble horses harnessed to gleaming cars, kings and heroes defined by their mastery of the wheel. There’s only one problem: neither true chariots nor horses are native to India.
 

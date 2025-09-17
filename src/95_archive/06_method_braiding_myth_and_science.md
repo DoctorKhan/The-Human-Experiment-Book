@@ -1,4 +1,4 @@
-# Method: Braiding Myth and Science
+# Chapter 17: Method: Braiding Myth and Science
 
 This method treats myth as structured cultural memory and science as the testing and measurement lens. Use both without forcing either to become the other.
 

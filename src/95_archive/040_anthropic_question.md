@@ -1,4 +1,4 @@
-# Chapter X: The Anthropic Question
+# Chapter 53: The Anthropic Question
 
 There is a fair comfort in the anthropic principle. It says: of course you woke up where you could wake up. Of course the puddle fits the hole. And yet—standing under a sky held steady by an oversized moon, behind a magnet that turns away the Sun’s bad moods, on a crust that recycles itself to keep breathing—I find myself counting dials.
 

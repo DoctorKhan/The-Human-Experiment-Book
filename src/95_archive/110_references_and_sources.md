@@ -1,4 +1,4 @@
-# References and Sources
+# Chapter 67: References and Sources
 
 This appendix consolidates key references cited or implied in the narrative. It is not exhaustive, but provides representative sources for further study.
 

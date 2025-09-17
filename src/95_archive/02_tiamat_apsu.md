@@ -1,4 +1,4 @@
-# Chapter 14: Tiamat and Apsu - The First Arrival
+# Chapter 13: Tiamat and Apsu - The First Arrival
 
 The trail of evidence led me back over a million years, to the first intervention that set everything in motion. Long before the Younger Dryas crash, long before the hybrid Reges, long before the flood, there had been another arrival. The original consciousness researchers, known by their functional designation: **The Werdh-anes** (from Proto-Indo-European root `*werdh-`, 'to grow, increase'), were later mythologized as Tiamat and Apsu in Mesopotamian texts.
 

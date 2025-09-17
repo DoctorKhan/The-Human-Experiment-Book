@@ -1,4 +1,4 @@
-# Chapter 12: The Conquerors' Playbook
+# Chapter 40: The Conquerors' Playbook
 
 *Dr. Chen had been staring at the same mythological patterns for hours, cross-referencing them with the trauma timeline from Chapter 11. Something was clicking into place—something that made his stomach turn with the recognition of how brilliantly, systematically humanity had been programmed.*
 

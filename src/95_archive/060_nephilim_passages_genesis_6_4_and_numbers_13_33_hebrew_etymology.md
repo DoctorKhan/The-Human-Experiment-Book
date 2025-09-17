@@ -1,4 +1,4 @@
-# Appendix E: Nephilim Passages — Genesis 6:4 and Numbers 13:33 (Hebrew Etymology)
+# Chapter 62: Appendix E: Nephilim Passages — Genesis 6:4 and Numbers 13:33 (Hebrew Etymology)
 
 This appendix provides a combined, word-by-word Hebrew etymology for two key Nephilim passages: Genesis 6:4 and Numbers 13:33.
 

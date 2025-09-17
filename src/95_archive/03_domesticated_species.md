@@ -1,4 +1,4 @@
-# Chapter 11: The Domesticated Species
+# Chapter 14: The Domesticated Species
 
 The most disturbing discovery of my entire investigation came when I realized what the crash survivors had done to humanity. They hadn't just guided our development - they had domesticated us. And the evidence was literally staring me in the face.
 

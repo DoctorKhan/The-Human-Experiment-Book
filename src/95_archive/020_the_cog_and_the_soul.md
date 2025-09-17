@@ -1,4 +1,4 @@
-# Chapter 11: The Cog and the Soul
+# Chapter 43: The Cog and the Soul
 
 *As the team compiled their research, a disturbing realization emerged: the ancient control systems hadn't disappeared with the fall of empires or the rise of democracy. They had simply evolved, becoming more sophisticated and less visible.*
 

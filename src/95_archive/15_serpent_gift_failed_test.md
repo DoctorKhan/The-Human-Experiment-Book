@@ -1,4 +1,4 @@
-# Chapter 9: The Serpent's Gift & The Failed Test
+# Chapter 37: The Serpent's Gift & The Failed Test
 
 *Dr. Chen burst through the conference room doors, his face flushed with excitement and horror. In his hands were two ancient tablets—one Sumerian, one Akkadian—and a stack of comparative translations that had kept him awake for thirty-six hours straight.*
 

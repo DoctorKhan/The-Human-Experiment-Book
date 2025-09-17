@@ -1,4 +1,4 @@
-# Chapter 3: The Memory War
+# Chapter 4: The Memory War
 
 The most sophisticated aspect of the Bronze Age destruction wasn't the military conquest - it was the systematic manipulation of human memory. The chariot conquerers didn't just destroy civilizations; they rewrote history itself.
 
